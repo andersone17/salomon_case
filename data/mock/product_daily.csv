@@ -1,0 +1,757 @@
+date,campaign_phase,franchise,category,sessions,units_sold,net_revenue,average_selling_price,inventory_ats,in_stock_rate,core_size_availability,return_rate
+2026-01-05,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-05,Pre-campaign,Sense Ride,Footwear,401,20,2447.43,122.37,2780,0.9474,0.926,0.1
+2026-01-05,Pre-campaign,Genesis,Footwear,435,16,2638.66,164.92,2384,0.9558,0.9076,0.0
+2026-01-05,Pre-campaign,Speedcross,Footwear,424,21,2920.01,139.05,2679,0.9669,0.9609,0.0476
+2026-01-05,Pre-campaign,Trail Apparel,Adjacent,271,18,1339.94,74.44,4382,0.9265,0.9007,0.0556
+2026-01-05,Pre-campaign,Trail Accessories,Adjacent,138,11,545.4,49.58,5189,0.9882,0.9953,0.0
+2026-01-06,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-06,Pre-campaign,Sense Ride,Footwear,680,33,3931.68,119.14,2747,0.9297,0.9377,0.1212
+2026-01-06,Pre-campaign,Genesis,Footwear,405,17,2398.78,141.1,2367,0.9698,0.8869,0.1176
+2026-01-06,Pre-campaign,Speedcross,Footwear,367,18,2397.1,133.17,2661,0.9323,0.9485,0.1111
+2026-01-06,Pre-campaign,Trail Apparel,Adjacent,290,18,1266.48,70.36,4364,0.9571,0.9163,0.0
+2026-01-06,Pre-campaign,Trail Accessories,Adjacent,212,15,691.49,46.1,5174,0.9748,0.9359,0.0
+2026-01-07,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-07,Pre-campaign,Sense Ride,Footwear,617,30,3552.34,118.41,2717,0.9568,0.8633,0.1333
+2026-01-07,Pre-campaign,Genesis,Footwear,383,16,2229.61,139.35,2351,0.9469,0.8991,0.125
+2026-01-07,Pre-campaign,Speedcross,Footwear,456,25,3560.27,142.41,2636,0.9623,0.9093,0.04
+2026-01-07,Pre-campaign,Trail Apparel,Adjacent,350,21,1475.41,70.26,4343,0.9683,0.9172,0.0476
+2026-01-07,Pre-campaign,Trail Accessories,Adjacent,241,15,728.31,48.55,5159,0.9555,0.9766,0.0
+2026-01-08,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-08,Pre-campaign,Sense Ride,Footwear,571,28,3591.11,128.25,2689,0.9208,0.8983,0.0714
+2026-01-08,Pre-campaign,Genesis,Footwear,275,13,1876.28,144.33,2338,0.9466,0.8867,0.0769
+2026-01-08,Pre-campaign,Speedcross,Footwear,296,17,2202.6,129.56,2619,0.9827,0.9744,0.1176
+2026-01-08,Pre-campaign,Trail Apparel,Adjacent,261,17,1214.89,71.46,4326,0.9619,0.9162,0.0588
+2026-01-08,Pre-campaign,Trail Accessories,Adjacent,164,11,480.42,43.67,5148,0.9773,0.9613,0.0
+2026-01-09,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-09,Pre-campaign,Sense Ride,Footwear,540,27,3565.06,132.04,2662,0.915,0.9038,0.037
+2026-01-09,Pre-campaign,Genesis,Footwear,389,18,2692.98,149.61,2320,0.936,0.8936,0.0556
+2026-01-09,Pre-campaign,Speedcross,Footwear,276,15,1932.02,128.8,2604,0.9554,0.9291,0.1333
+2026-01-09,Pre-campaign,Trail Apparel,Adjacent,314,19,1480.14,77.9,4307,0.9288,0.9332,0.0
+2026-01-09,Pre-campaign,Trail Accessories,Adjacent,215,15,564.98,37.67,5133,0.9766,0.9391,0.0667
+2026-01-10,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-10,Pre-campaign,Sense Ride,Footwear,487,24,3061.88,127.58,2638,0.9583,0.9035,0.0833
+2026-01-10,Pre-campaign,Genesis,Footwear,395,19,2620.14,137.9,2301,0.909,0.8517,0.1579
+2026-01-10,Pre-campaign,Speedcross,Footwear,384,23,3446.3,149.84,2581,0.974,0.9137,0.0
+2026-01-10,Pre-campaign,Trail Apparel,Adjacent,342,21,1294.54,61.64,4286,0.9576,0.9435,0.0952
+2026-01-10,Pre-campaign,Trail Accessories,Adjacent,234,15,680.65,45.38,5118,0.9576,0.9638,0.0
+2026-01-11,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-11,Pre-campaign,Sense Ride,Footwear,392,20,2337.92,116.9,2618,0.9285,0.9278,0.15
+2026-01-11,Pre-campaign,Genesis,Footwear,456,21,2907.95,138.47,2280,0.9238,0.912,0.1429
+2026-01-11,Pre-campaign,Speedcross,Footwear,665,28,3364.55,120.16,2553,0.9477,0.907,0.1786
+2026-01-11,Pre-campaign,Trail Apparel,Adjacent,285,18,1441.84,80.1,4268,0.95,0.9321,0.0
+2026-01-11,Pre-campaign,Trail Accessories,Adjacent,322,23,890.31,38.71,5095,0.9366,0.9551,0.0
+2026-01-12,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-12,Pre-campaign,Sense Ride,Footwear,315,15,1787.07,119.14,2603,0.9195,0.8801,0.1333
+2026-01-12,Pre-campaign,Genesis,Footwear,492,23,3554.59,154.55,2257,0.9463,0.8658,0.0435
+2026-01-12,Pre-campaign,Speedcross,Footwear,347,16,1683.65,105.23,2537,0.9481,0.9585,0.25
+2026-01-12,Pre-campaign,Trail Apparel,Adjacent,248,14,1111.49,79.39,4254,0.9356,0.8896,0.0
+2026-01-12,Pre-campaign,Trail Accessories,Adjacent,295,21,991.51,47.21,5074,0.964,0.9124,0.0
+2026-01-13,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-13,Pre-campaign,Sense Ride,Footwear,465,24,3324.81,138.53,2579,0.9398,0.8999,0.0
+2026-01-13,Pre-campaign,Genesis,Footwear,401,18,2958.87,164.38,2239,0.925,0.8883,0.0
+2026-01-13,Pre-campaign,Speedcross,Footwear,433,20,2673.24,133.66,2517,0.9584,0.929,0.1
+2026-01-13,Pre-campaign,Trail Apparel,Adjacent,160,10,655.04,65.5,4244,0.9801,0.9531,0.1
+2026-01-13,Pre-campaign,Trail Accessories,Adjacent,174,12,488.15,40.68,5062,0.9521,0.9517,0.0
+2026-01-14,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-14,Pre-campaign,Sense Ride,Footwear,705,33,4180.25,126.67,2546,0.9294,0.9057,0.0909
+2026-01-14,Pre-campaign,Genesis,Footwear,299,14,1586.29,113.31,2225,0.9373,0.9379,0.2857
+2026-01-14,Pre-campaign,Speedcross,Footwear,205,11,1446.82,131.53,2506,0.942,0.9795,0.0909
+2026-01-14,Pre-campaign,Trail Apparel,Adjacent,422,26,1858.59,71.48,4218,0.968,0.8914,0.0385
+2026-01-14,Pre-campaign,Trail Accessories,Adjacent,264,17,740.94,43.58,5045,0.9467,0.9334,0.0
+2026-01-15,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-15,Pre-campaign,Sense Ride,Footwear,402,21,2694.32,128.3,2525,0.9791,0.903,0.0476
+2026-01-15,Pre-campaign,Genesis,Footwear,480,21,3177.0,151.29,2204,0.8883,0.9202,0.0476
+2026-01-15,Pre-campaign,Speedcross,Footwear,333,19,2667.59,140.4,2487,0.9311,0.926,0.0526
+2026-01-15,Pre-campaign,Trail Apparel,Adjacent,390,22,1512.01,68.73,4196,0.9253,0.9103,0.0909
+2026-01-15,Pre-campaign,Trail Accessories,Adjacent,195,13,648.78,49.91,5032,0.9613,0.9732,0.0
+2026-01-16,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-16,Pre-campaign,Sense Ride,Footwear,660,30,3788.57,126.29,2495,0.9554,0.9041,0.0667
+2026-01-16,Pre-campaign,Genesis,Footwear,364,19,2693.85,141.78,2185,0.9186,0.8948,0.1053
+2026-01-16,Pre-campaign,Speedcross,Footwear,323,18,2572.43,142.91,2469,1.0,0.9421,0.0
+2026-01-16,Pre-campaign,Trail Apparel,Adjacent,302,19,1192.74,62.78,4177,0.9552,0.8999,0.1053
+2026-01-16,Pre-campaign,Trail Accessories,Adjacent,270,18,828.81,46.05,5014,0.9688,0.9777,0.0
+2026-01-17,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-17,Pre-campaign,Sense Ride,Footwear,613,29,3673.25,126.66,2466,0.9676,0.876,0.069
+2026-01-17,Pre-campaign,Genesis,Footwear,498,26,3518.15,135.31,2159,0.9416,0.9046,0.1538
+2026-01-17,Pre-campaign,Speedcross,Footwear,347,18,2543.03,141.28,2451,0.9543,0.9339,0.0556
+2026-01-17,Pre-campaign,Trail Apparel,Adjacent,377,24,1708.92,71.2,4153,0.9622,0.9117,0.0417
+2026-01-17,Pre-campaign,Trail Accessories,Adjacent,255,18,713.61,39.65,4996,0.9574,0.969,0.0556
+2026-01-18,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-18,Pre-campaign,Sense Ride,Footwear,607,27,3129.51,115.91,2439,0.9352,0.8978,0.1481
+2026-01-18,Pre-campaign,Genesis,Footwear,519,22,2980.4,135.47,2137,0.9036,0.8978,0.1364
+2026-01-18,Pre-campaign,Speedcross,Footwear,446,22,3119.89,141.81,2429,0.9713,0.9464,0.0455
+2026-01-18,Pre-campaign,Trail Apparel,Adjacent,347,20,1524.28,76.21,4133,0.9285,0.9384,0.05
+2026-01-18,Pre-campaign,Trail Accessories,Adjacent,239,16,658.34,41.15,4980,0.9934,0.9373,0.0625
+2026-01-19,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-19,Pre-campaign,Sense Ride,Footwear,346,18,2122.86,117.94,2421,0.9529,0.8834,0.1111
+2026-01-19,Pre-campaign,Genesis,Footwear,267,12,1908.19,159.02,2125,0.9272,0.8907,0.0
+2026-01-19,Pre-campaign,Speedcross,Footwear,336,17,2168.39,127.55,2412,0.964,0.9225,0.1176
+2026-01-19,Pre-campaign,Trail Apparel,Adjacent,392,24,1459.49,60.81,4109,0.948,0.9206,0.0833
+2026-01-19,Pre-campaign,Trail Accessories,Adjacent,136,10,409.39,40.94,4970,0.9734,1.0,0.0
+2026-01-20,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-20,Pre-campaign,Sense Ride,Footwear,506,24,3023.89,126.0,2397,0.9513,0.8919,0.0833
+2026-01-20,Pre-campaign,Genesis,Footwear,319,15,1925.04,128.34,2110,0.9133,0.943,0.2
+2026-01-20,Pre-campaign,Speedcross,Footwear,262,13,1908.62,146.82,2399,0.9577,0.9181,0.0
+2026-01-20,Pre-campaign,Trail Apparel,Adjacent,387,22,1548.84,70.4,4087,0.952,0.9534,0.0455
+2026-01-20,Pre-campaign,Trail Accessories,Adjacent,262,17,728.79,42.87,4953,0.9611,0.9747,0.0588
+2026-01-21,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-21,Pre-campaign,Sense Ride,Footwear,403,21,2669.19,127.1,2376,0.9282,0.9006,0.0476
+2026-01-21,Pre-campaign,Genesis,Footwear,447,21,2829.32,134.73,2089,0.9395,0.927,0.1429
+2026-01-21,Pre-campaign,Speedcross,Footwear,340,19,2617.64,137.77,2380,0.9739,0.9487,0.0526
+2026-01-21,Pre-campaign,Trail Apparel,Adjacent,201,12,886.96,73.91,4075,0.9499,0.9456,0.0833
+2026-01-21,Pre-campaign,Trail Accessories,Adjacent,197,14,620.14,44.3,4939,0.995,0.9586,0.0
+2026-01-22,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-22,Pre-campaign,Sense Ride,Footwear,391,20,2593.25,129.66,2356,0.918,0.9387,0.05
+2026-01-22,Pre-campaign,Genesis,Footwear,367,18,2554.53,141.92,2071,0.9471,0.8852,0.1111
+2026-01-22,Pre-campaign,Speedcross,Footwear,464,26,3669.72,141.14,2354,0.9609,0.9283,0.0385
+2026-01-22,Pre-campaign,Trail Apparel,Adjacent,341,19,1490.24,78.43,4056,0.9515,0.9287,0.0526
+2026-01-22,Pre-campaign,Trail Accessories,Adjacent,178,12,566.85,47.24,4927,0.9634,0.9486,0.0
+2026-01-23,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-23,Pre-campaign,Sense Ride,Footwear,542,25,3206.47,128.26,2331,0.9122,0.9044,0.04
+2026-01-23,Pre-campaign,Genesis,Footwear,337,16,2271.94,142.0,2055,0.9217,0.8867,0.125
+2026-01-23,Pre-campaign,Speedcross,Footwear,376,20,2653.44,132.67,2334,0.9675,0.9429,0.1
+2026-01-23,Pre-campaign,Trail Apparel,Adjacent,422,25,1997.47,79.9,4031,0.9787,0.8928,0.0
+2026-01-23,Pre-campaign,Trail Accessories,Adjacent,381,26,1182.9,45.5,4901,0.9821,0.9993,0.0
+2026-01-24,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-24,Pre-campaign,Sense Ride,Footwear,613,33,4105.52,124.41,2298,0.8966,0.893,0.0909
+2026-01-24,Pre-campaign,Genesis,Footwear,449,18,2983.54,165.75,2037,0.9503,0.9155,0.0
+2026-01-24,Pre-campaign,Speedcross,Footwear,471,25,2847.44,113.9,2309,0.9647,0.9626,0.24
+2026-01-24,Pre-campaign,Trail Apparel,Adjacent,316,20,1470.17,73.51,4011,0.9533,0.8957,0.0
+2026-01-24,Pre-campaign,Trail Accessories,Adjacent,250,18,835.32,46.41,4883,0.9428,0.9277,0.0
+2026-01-25,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-25,Pre-campaign,Sense Ride,Footwear,772,39,5045.02,129.36,2259,0.9459,0.9197,0.0513
+2026-01-25,Pre-campaign,Genesis,Footwear,365,17,2733.69,160.81,2020,0.9108,0.9137,0.0
+2026-01-25,Pre-campaign,Speedcross,Footwear,331,17,2187.25,128.66,2292,0.9528,0.9408,0.1176
+2026-01-25,Pre-campaign,Trail Apparel,Adjacent,358,21,1476.35,70.3,3990,0.9461,0.8986,0.0476
+2026-01-25,Pre-campaign,Trail Accessories,Adjacent,311,21,1017.33,48.44,4862,0.9798,0.9753,0.0
+2026-01-26,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-26,Pre-campaign,Sense Ride,Footwear,462,22,2926.46,133.02,2237,0.9255,0.9189,0.0455
+2026-01-26,Pre-campaign,Genesis,Footwear,512,22,3421.23,155.51,1998,0.914,0.9342,0.0455
+2026-01-26,Pre-campaign,Speedcross,Footwear,242,15,2109.65,140.64,2277,0.9881,0.916,0.0667
+2026-01-26,Pre-campaign,Trail Apparel,Adjacent,407,22,1566.44,71.2,3968,0.9098,0.9261,0.0
+2026-01-26,Pre-campaign,Trail Accessories,Adjacent,340,23,1059.02,46.04,4839,1.0,0.933,0.0
+2026-01-27,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-27,Pre-campaign,Sense Ride,Footwear,695,31,3727.59,120.24,2206,0.9408,0.942,0.129
+2026-01-27,Pre-campaign,Genesis,Footwear,439,17,2684.96,157.94,1981,0.9586,0.8752,0.0
+2026-01-27,Pre-campaign,Speedcross,Footwear,444,22,2577.5,117.16,2255,0.9561,0.9422,0.2273
+2026-01-27,Pre-campaign,Trail Apparel,Adjacent,248,15,1192.07,79.47,3953,0.9339,0.9303,0.0
+2026-01-27,Pre-campaign,Trail Accessories,Adjacent,252,17,777.32,45.72,4822,0.9899,0.9506,0.0
+2026-01-28,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-28,Pre-campaign,Sense Ride,Footwear,668,33,3803.67,115.26,2173,0.9198,0.9278,0.1515
+2026-01-28,Pre-campaign,Genesis,Footwear,550,21,3090.51,147.17,1960,0.9483,0.9204,0.0476
+2026-01-28,Pre-campaign,Speedcross,Footwear,301,14,1914.4,136.74,2241,0.9634,0.9129,0.0714
+2026-01-28,Pre-campaign,Trail Apparel,Adjacent,249,16,1278.1,79.88,3937,0.9515,0.94,0.0
+2026-01-28,Pre-campaign,Trail Accessories,Adjacent,254,19,915.32,48.17,4803,0.9313,0.9769,0.0
+2026-01-29,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-29,Pre-campaign,Sense Ride,Footwear,373,19,2248.61,118.35,2154,0.9286,0.8698,0.1053
+2026-01-29,Pre-campaign,Genesis,Footwear,384,18,2137.88,118.77,1942,0.9156,0.9128,0.2778
+2026-01-29,Pre-campaign,Speedcross,Footwear,641,28,3637.76,129.92,2213,0.9429,0.9614,0.1071
+2026-01-29,Pre-campaign,Trail Apparel,Adjacent,353,19,1208.21,63.59,3918,0.9348,0.9236,0.1053
+2026-01-29,Pre-campaign,Trail Accessories,Adjacent,265,17,641.56,37.74,4786,0.9593,0.9349,0.0588
+2026-01-30,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-30,Pre-campaign,Sense Ride,Footwear,355,18,2158.83,119.94,2136,0.9597,0.9177,0.1111
+2026-01-30,Pre-campaign,Genesis,Footwear,313,15,2450.74,163.38,1927,0.9366,0.8997,0.0
+2026-01-30,Pre-campaign,Speedcross,Footwear,614,28,3985.4,142.34,2185,0.9606,0.9321,0.0357
+2026-01-30,Pre-campaign,Trail Apparel,Adjacent,383,24,1743.88,72.66,3894,0.9202,0.9366,0.0833
+2026-01-30,Pre-campaign,Trail Accessories,Adjacent,263,19,798.69,42.04,4767,0.9598,0.9726,0.0526
+2026-01-31,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-01-31,Pre-campaign,Sense Ride,Footwear,445,23,3145.7,136.77,2113,0.9267,0.9225,0.0
+2026-01-31,Pre-campaign,Genesis,Footwear,440,20,2759.37,137.97,1907,0.9187,0.8473,0.15
+2026-01-31,Pre-campaign,Speedcross,Footwear,559,27,3393.51,125.69,2158,0.953,0.9625,0.1481
+2026-01-31,Pre-campaign,Trail Apparel,Adjacent,232,15,1057.82,70.52,3879,0.9737,0.8961,0.0667
+2026-01-31,Pre-campaign,Trail Accessories,Adjacent,329,23,992.87,43.17,4744,0.9804,0.9459,0.0
+2026-02-01,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-01,Pre-campaign,Sense Ride,Footwear,544,24,2852.3,118.85,2089,0.9517,0.9105,0.125
+2026-02-01,Pre-campaign,Genesis,Footwear,375,18,2792.38,155.13,1889,0.9103,0.8885,0.0556
+2026-02-01,Pre-campaign,Speedcross,Footwear,557,27,3657.58,135.47,2131,0.9481,0.8977,0.0741
+2026-02-01,Pre-campaign,Trail Apparel,Adjacent,305,17,1238.95,72.88,3862,0.9329,0.8994,0.0588
+2026-02-01,Pre-campaign,Trail Accessories,Adjacent,255,18,779.26,43.29,4726,0.9572,0.9073,0.0
+2026-02-02,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-02,Pre-campaign,Sense Ride,Footwear,398,21,2868.45,136.59,2068,0.9522,0.8833,0.0
+2026-02-02,Pre-campaign,Genesis,Footwear,640,29,4229.87,145.86,1860,0.9278,0.9097,0.1034
+2026-02-02,Pre-campaign,Speedcross,Footwear,302,16,2048.61,128.04,2115,0.9435,0.9276,0.125
+2026-02-02,Pre-campaign,Trail Apparel,Adjacent,238,14,1014.26,72.45,3848,0.956,0.9485,0.0714
+2026-02-02,Pre-campaign,Trail Accessories,Adjacent,252,20,885.93,44.3,4706,0.9733,0.9457,0.0
+2026-02-03,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-03,Pre-campaign,Sense Ride,Footwear,593,29,3550.86,122.44,2039,0.9476,0.9417,0.1034
+2026-02-03,Pre-campaign,Genesis,Footwear,528,23,3720.81,161.77,1837,0.9277,0.9237,0.0
+2026-02-03,Pre-campaign,Speedcross,Footwear,273,15,2187.26,145.82,2100,0.9571,0.9507,0.0
+2026-02-03,Pre-campaign,Trail Apparel,Adjacent,204,12,738.14,61.51,3836,0.9794,0.955,0.1667
+2026-02-03,Pre-campaign,Trail Accessories,Adjacent,200,13,542.54,41.73,4693,0.9634,0.9215,0.0769
+2026-02-04,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-04,Pre-campaign,Sense Ride,Footwear,409,21,2486.26,118.39,2018,0.9283,0.939,0.1429
+2026-02-04,Pre-campaign,Genesis,Footwear,281,14,1955.79,139.7,1823,0.9451,0.8913,0.1429
+2026-02-04,Pre-campaign,Speedcross,Footwear,367,20,2778.12,138.91,2080,0.946,0.9336,0.05
+2026-02-04,Pre-campaign,Trail Apparel,Adjacent,427,26,1986.24,76.39,3810,0.9407,0.9508,0.0385
+2026-02-04,Pre-campaign,Trail Accessories,Adjacent,195,14,563.84,40.27,4679,0.9569,0.9508,0.1429
+2026-02-05,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-05,Pre-campaign,Sense Ride,Footwear,466,24,2675.59,111.48,1994,0.9483,0.8906,0.1667
+2026-02-05,Pre-campaign,Genesis,Footwear,526,22,2879.25,130.87,1801,0.9341,0.9016,0.1818
+2026-02-05,Pre-campaign,Speedcross,Footwear,517,23,2610.73,113.51,2057,0.9631,0.9365,0.2174
+2026-02-05,Pre-campaign,Trail Apparel,Adjacent,406,22,1695.9,77.09,3788,0.9494,0.9417,0.0455
+2026-02-05,Pre-campaign,Trail Accessories,Adjacent,169,10,487.48,48.75,4669,0.9971,0.9272,0.0
+2026-02-06,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-06,Pre-campaign,Sense Ride,Footwear,791,34,4307.44,126.69,1960,0.9463,0.9266,0.0588
+2026-02-06,Pre-campaign,Genesis,Footwear,461,20,2834.63,141.73,1781,0.9684,0.8833,0.1
+2026-02-06,Pre-campaign,Speedcross,Footwear,450,24,3455.7,143.99,2033,0.9703,0.9068,0.0
+2026-02-06,Pre-campaign,Trail Apparel,Adjacent,256,13,725.03,55.77,3775,0.9598,0.927,0.1538
+2026-02-06,Pre-campaign,Trail Accessories,Adjacent,233,17,673.39,39.61,4652,0.9602,0.9635,0.0
+2026-02-07,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-07,Pre-campaign,Sense Ride,Footwear,475,22,2866.08,130.28,1938,0.9651,0.879,0.0455
+2026-02-07,Pre-campaign,Genesis,Footwear,405,19,2941.86,154.83,1762,0.9133,0.9091,0.0526
+2026-02-07,Pre-campaign,Speedcross,Footwear,543,26,3307.77,127.22,2007,0.9972,0.9834,0.1154
+2026-02-07,Pre-campaign,Trail Apparel,Adjacent,310,20,1590.38,79.52,3755,0.9376,0.934,0.0
+2026-02-07,Pre-campaign,Trail Accessories,Adjacent,199,15,655.49,43.7,4637,0.9977,0.8916,0.0
+2026-02-08,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-08,Pre-campaign,Sense Ride,Footwear,481,26,3552.25,136.62,1912,0.9434,0.9027,0.0
+2026-02-08,Pre-campaign,Genesis,Footwear,502,22,3027.41,137.61,1740,0.9227,0.832,0.1364
+2026-02-08,Pre-campaign,Speedcross,Footwear,433,19,2486.21,130.85,1988,0.9605,0.9409,0.1053
+2026-02-08,Pre-campaign,Trail Apparel,Adjacent,395,24,1761.64,73.4,3731,0.9437,0.9675,0.0833
+2026-02-08,Pre-campaign,Trail Accessories,Adjacent,233,15,659.73,43.98,4622,0.9511,0.9932,0.0
+2026-02-09,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-09,Pre-campaign,Sense Ride,Footwear,689,32,3967.65,123.99,2330,0.9595,0.9105,0.0938
+2026-02-09,Pre-campaign,Genesis,Footwear,368,17,2334.83,137.34,2173,0.9055,0.9003,0.1176
+2026-02-09,Pre-campaign,Speedcross,Footwear,329,16,2163.32,135.21,2422,0.965,0.9491,0.0625
+2026-02-09,Pre-campaign,Trail Apparel,Adjacent,336,19,1282.96,67.52,4312,0.9414,0.9168,0.1053
+2026-02-09,Pre-campaign,Trail Accessories,Adjacent,172,12,507.36,42.28,5210,0.9786,0.9389,0.0833
+2026-02-10,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-10,Pre-campaign,Sense Ride,Footwear,560,27,3365.2,124.64,2303,0.9456,0.9219,0.0741
+2026-02-10,Pre-campaign,Genesis,Footwear,602,26,3906.24,150.24,2147,0.9229,0.9073,0.0769
+2026-02-10,Pre-campaign,Speedcross,Footwear,459,20,2670.41,133.52,2402,0.9678,0.9775,0.1
+2026-02-10,Pre-campaign,Trail Apparel,Adjacent,307,17,1081.83,63.64,4295,0.9646,0.933,0.1176
+2026-02-10,Pre-campaign,Trail Accessories,Adjacent,216,17,827.1,48.65,5193,0.9645,0.9498,0.0
+2026-02-11,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-11,Pre-campaign,Sense Ride,Footwear,432,21,2582.7,122.99,2282,0.9379,0.9377,0.0952
+2026-02-11,Pre-campaign,Genesis,Footwear,425,19,3026.92,159.31,2128,0.9003,0.8872,0.0
+2026-02-11,Pre-campaign,Speedcross,Footwear,303,15,2206.08,147.07,2387,0.951,0.9549,0.0
+2026-02-11,Pre-campaign,Trail Apparel,Adjacent,295,18,1085.3,60.29,4277,0.9205,0.9355,0.1111
+2026-02-11,Pre-campaign,Trail Accessories,Adjacent,211,15,604.5,40.3,5178,0.9632,0.9333,0.0667
+2026-02-12,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-12,Pre-campaign,Sense Ride,Footwear,542,27,3465.55,128.35,2255,0.9331,0.8925,0.0741
+2026-02-12,Pre-campaign,Genesis,Footwear,255,13,1888.77,145.29,2115,0.9457,0.9451,0.0769
+2026-02-12,Pre-campaign,Speedcross,Footwear,306,15,2182.23,145.48,2372,0.9101,0.9466,0.0
+2026-02-12,Pre-campaign,Trail Apparel,Adjacent,344,20,1487.93,74.4,4257,0.9174,0.9417,0.0
+2026-02-12,Pre-campaign,Trail Accessories,Adjacent,251,16,562.01,35.13,5162,0.9638,0.9575,0.0
+2026-02-13,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-13,Pre-campaign,Sense Ride,Footwear,575,27,3605.92,133.55,2228,0.9144,0.9106,0.0
+2026-02-13,Pre-campaign,Genesis,Footwear,423,20,3189.94,159.5,2095,0.9361,0.925,0.0
+2026-02-13,Pre-campaign,Speedcross,Footwear,496,28,3482.08,124.36,2344,0.9229,0.9142,0.1429
+2026-02-13,Pre-campaign,Trail Apparel,Adjacent,235,15,1187.36,79.16,4242,0.9604,0.8887,0.0
+2026-02-13,Pre-campaign,Trail Accessories,Adjacent,302,21,957.86,45.61,5141,0.9849,0.9739,0.0
+2026-02-14,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-14,Pre-campaign,Sense Ride,Footwear,461,23,2798.9,121.69,2205,0.9348,0.9336,0.087
+2026-02-14,Pre-campaign,Genesis,Footwear,585,26,3816.73,146.8,2069,0.9594,0.8963,0.0769
+2026-02-14,Pre-campaign,Speedcross,Footwear,461,23,2948.87,128.21,2321,0.9409,0.9417,0.1304
+2026-02-14,Pre-campaign,Trail Apparel,Adjacent,364,22,1730.18,78.64,4220,0.9855,0.9331,0.0
+2026-02-14,Pre-campaign,Trail Accessories,Adjacent,230,17,676.73,39.81,5124,0.9864,0.9346,0.0588
+2026-02-15,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-15,Pre-campaign,Sense Ride,Footwear,589,33,4463.91,135.27,2172,0.9321,0.93,0.0
+2026-02-15,Pre-campaign,Genesis,Footwear,382,18,2498.33,138.8,2051,0.9294,0.9126,0.1111
+2026-02-15,Pre-campaign,Speedcross,Footwear,395,19,2343.0,123.32,2302,0.9507,0.9677,0.1579
+2026-02-15,Pre-campaign,Trail Apparel,Adjacent,237,13,758.75,58.37,4207,0.9481,0.9267,0.1538
+2026-02-15,Pre-campaign,Trail Accessories,Adjacent,210,14,557.2,39.8,5110,0.9834,0.9595,0.0714
+2026-02-16,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-16,Pre-campaign,Sense Ride,Footwear,499,27,3373.63,124.95,2145,0.9418,0.9113,0.0741
+2026-02-16,Pre-campaign,Genesis,Footwear,357,17,2620.09,154.12,2034,0.92,0.9098,0.0588
+2026-02-16,Pre-campaign,Speedcross,Footwear,257,12,1646.64,137.22,2290,0.9862,0.9323,0.0833
+2026-02-16,Pre-campaign,Trail Apparel,Adjacent,287,16,1066.3,66.64,4191,0.9632,0.9062,0.0
+2026-02-16,Pre-campaign,Trail Accessories,Adjacent,176,12,494.88,41.24,5098,0.9763,0.9653,0.0
+2026-02-17,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-17,Pre-campaign,Sense Ride,Footwear,525,25,3201.86,128.07,2120,0.9516,0.9173,0.08
+2026-02-17,Pre-campaign,Genesis,Footwear,388,19,2839.87,149.47,2015,0.9016,0.8754,0.0526
+2026-02-17,Pre-campaign,Speedcross,Footwear,442,21,3012.45,143.45,2269,0.9451,0.9593,0.0476
+2026-02-17,Pre-campaign,Trail Apparel,Adjacent,264,16,1016.54,63.53,4175,0.9621,0.9206,0.0625
+2026-02-17,Pre-campaign,Trail Accessories,Adjacent,244,16,702.35,43.9,5082,0.9319,0.9775,0.0
+2026-02-18,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-18,Pre-campaign,Sense Ride,Footwear,662,36,4511.81,125.33,2084,0.9207,0.9351,0.0833
+2026-02-18,Pre-campaign,Genesis,Footwear,410,19,3053.53,160.71,1996,0.9217,0.9282,0.0
+2026-02-18,Pre-campaign,Speedcross,Footwear,538,28,3509.87,125.35,2241,0.973,0.9348,0.1429
+2026-02-18,Pre-campaign,Trail Apparel,Adjacent,231,14,1000.76,71.48,4161,0.9463,0.9201,0.0
+2026-02-18,Pre-campaign,Trail Accessories,Adjacent,144,11,483.15,43.92,5071,0.9311,0.9441,0.0
+2026-02-19,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-19,Pre-campaign,Sense Ride,Footwear,748,35,4009.47,114.56,2049,0.9873,0.934,0.1714
+2026-02-19,Pre-campaign,Genesis,Footwear,436,18,2942.23,163.46,1978,0.9248,0.9081,0.0
+2026-02-19,Pre-campaign,Speedcross,Footwear,427,20,2669.02,133.45,2221,0.953,0.9636,0.1
+2026-02-19,Pre-campaign,Trail Apparel,Adjacent,325,17,1136.55,66.86,4144,0.9411,0.9233,0.0588
+2026-02-19,Pre-campaign,Trail Accessories,Adjacent,226,16,696.91,43.56,5055,0.9599,0.946,0.0
+2026-02-20,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-20,Pre-campaign,Sense Ride,Footwear,597,30,3911.88,130.4,2019,0.9151,0.902,0.0333
+2026-02-20,Pre-campaign,Genesis,Footwear,513,25,3533.94,141.36,1953,0.9035,0.8874,0.12
+2026-02-20,Pre-campaign,Speedcross,Footwear,566,28,3660.03,130.72,2193,0.9399,0.9342,0.1071
+2026-02-20,Pre-campaign,Trail Apparel,Adjacent,289,18,1165.01,64.72,4126,0.9393,0.8645,0.0556
+2026-02-20,Pre-campaign,Trail Accessories,Adjacent,289,18,775.49,43.08,5037,0.9806,0.9324,0.0
+2026-02-21,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-21,Pre-campaign,Sense Ride,Footwear,500,28,3672.94,131.18,1991,0.9308,0.8632,0.0357
+2026-02-21,Pre-campaign,Genesis,Footwear,431,22,3250.19,147.74,1931,0.9203,0.9336,0.0909
+2026-02-21,Pre-campaign,Speedcross,Footwear,364,19,2609.87,137.36,2174,0.9663,0.9026,0.0526
+2026-02-21,Pre-campaign,Trail Apparel,Adjacent,231,15,1210.44,80.7,4111,0.9276,0.8867,0.0
+2026-02-21,Pre-campaign,Trail Accessories,Adjacent,298,19,912.07,48.0,5018,0.9809,0.9688,0.0
+2026-02-22,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-22,Pre-campaign,Sense Ride,Footwear,628,30,3821.5,127.38,1961,0.9479,0.8651,0.0667
+2026-02-22,Pre-campaign,Genesis,Footwear,499,22,3501.05,159.14,1909,0.9341,0.9042,0.0
+2026-02-22,Pre-campaign,Speedcross,Footwear,444,22,2882.54,131.02,2152,0.9665,0.9098,0.0909
+2026-02-22,Pre-campaign,Trail Apparel,Adjacent,248,16,1063.51,66.47,4095,0.9476,0.9337,0.0625
+2026-02-22,Pre-campaign,Trail Accessories,Adjacent,197,15,653.41,43.56,5003,0.9584,0.9515,0.0
+2026-02-23,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-23,Pre-campaign,Sense Ride,Footwear,527,25,3326.82,133.07,1936,0.9662,0.8881,0.04
+2026-02-23,Pre-campaign,Genesis,Footwear,439,22,2989.2,135.87,1887,0.9089,0.896,0.1364
+2026-02-23,Pre-campaign,Speedcross,Footwear,245,14,2091.38,149.38,2138,0.932,0.9812,0.0
+2026-02-23,Pre-campaign,Trail Apparel,Adjacent,264,15,1125.44,75.03,4080,0.9804,0.9468,0.0
+2026-02-23,Pre-campaign,Trail Accessories,Adjacent,125,8,391.51,48.94,4995,0.9619,0.9654,0.0
+2026-02-24,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-24,Pre-campaign,Sense Ride,Footwear,591,32,4128.48,129.01,1904,0.9037,0.9143,0.0312
+2026-02-24,Pre-campaign,Genesis,Footwear,376,19,2406.18,126.64,1868,0.9222,0.8501,0.2105
+2026-02-24,Pre-campaign,Speedcross,Footwear,162,8,1196.3,149.54,2130,0.964,0.946,0.0
+2026-02-24,Pre-campaign,Trail Apparel,Adjacent,382,27,1674.13,62.0,4053,0.9488,0.8964,0.1111
+2026-02-24,Pre-campaign,Trail Accessories,Adjacent,215,15,663.31,44.22,4980,0.986,0.9447,0.0667
+2026-02-25,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-25,Pre-campaign,Sense Ride,Footwear,648,28,3765.78,134.49,1876,0.9381,0.9127,0.0357
+2026-02-25,Pre-campaign,Genesis,Footwear,380,18,2857.47,158.75,1850,0.9312,0.913,0.0
+2026-02-25,Pre-campaign,Speedcross,Footwear,541,25,3367.51,134.7,2105,0.957,0.9412,0.08
+2026-02-25,Pre-campaign,Trail Apparel,Adjacent,353,20,1601.11,80.06,4033,0.9653,0.9189,0.0
+2026-02-25,Pre-campaign,Trail Accessories,Adjacent,197,14,585.29,41.81,4966,0.9804,0.9699,0.0
+2026-02-26,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-26,Pre-campaign,Sense Ride,Footwear,556,29,3740.09,128.97,1847,0.949,0.9151,0.069
+2026-02-26,Pre-campaign,Genesis,Footwear,423,19,2894.91,152.36,1831,0.9189,0.8913,0.0526
+2026-02-26,Pre-campaign,Speedcross,Footwear,271,14,1922.68,137.33,2091,0.989,0.9646,0.0714
+2026-02-26,Pre-campaign,Trail Apparel,Adjacent,344,23,1645.58,71.55,4010,0.9324,0.9206,0.0435
+2026-02-26,Pre-campaign,Trail Accessories,Adjacent,189,14,655.18,46.8,4952,0.9593,0.9585,0.0
+2026-02-27,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-27,Pre-campaign,Sense Ride,Footwear,508,23,2588.68,112.55,1824,0.9772,0.9329,0.1739
+2026-02-27,Pre-campaign,Genesis,Footwear,445,22,2919.52,132.71,1809,0.959,0.8654,0.1818
+2026-02-27,Pre-campaign,Speedcross,Footwear,269,14,1709.39,122.1,2077,0.9401,0.9902,0.1429
+2026-02-27,Pre-campaign,Trail Apparel,Adjacent,351,21,1566.48,74.59,3989,0.9458,0.8824,0.0
+2026-02-27,Pre-campaign,Trail Accessories,Adjacent,182,14,678.77,48.48,4938,0.9779,0.9505,0.0
+2026-02-28,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-02-28,Pre-campaign,Sense Ride,Footwear,756,36,4621.3,128.37,1788,0.9072,0.8975,0.0833
+2026-02-28,Pre-campaign,Genesis,Footwear,548,20,2481.12,124.06,1789,0.9278,0.887,0.2
+2026-02-28,Pre-campaign,Speedcross,Footwear,417,23,3176.45,138.11,2054,0.9179,0.9118,0.0435
+2026-02-28,Pre-campaign,Trail Apparel,Adjacent,473,29,2372.18,81.8,3960,0.9465,0.8835,0.0
+2026-02-28,Pre-campaign,Trail Accessories,Adjacent,296,20,975.29,48.76,4918,0.987,0.9452,0.0
+2026-03-01,Pre-campaign,Ultra Glide 15,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
+2026-03-01,Pre-campaign,Sense Ride,Footwear,614,27,3594.91,133.14,1761,0.9247,0.969,0.037
+2026-03-01,Pre-campaign,Genesis,Footwear,381,18,2895.79,160.88,1771,0.9365,0.9001,0.0
+2026-03-01,Pre-campaign,Speedcross,Footwear,477,23,3297.49,143.37,2031,0.9691,0.9573,0.0435
+2026-03-01,Pre-campaign,Trail Apparel,Adjacent,377,24,1852.84,77.2,3936,0.9349,0.9064,0.0
+2026-03-01,Pre-campaign,Trail Accessories,Adjacent,298,19,936.15,49.27,4899,0.9768,0.965,0.0
+2026-03-02,Active campaign,Ultra Glide 15,Footwear,720,41,6608.63,161.19,1709,0.9771,0.9835,0.0488
+2026-03-02,Active campaign,Sense Ride,Footwear,306,15,1793.46,119.56,1746,0.9548,0.879,0.1333
+2026-03-02,Active campaign,Genesis,Footwear,320,16,2244.11,140.26,1755,0.9126,0.8794,0.125
+2026-03-02,Active campaign,Speedcross,Footwear,447,21,2434.84,115.94,2010,0.9405,0.9297,0.1905
+2026-03-02,Active campaign,Trail Apparel,Adjacent,397,23,1751.87,76.17,3913,0.9489,0.8917,0.0435
+2026-03-02,Active campaign,Trail Accessories,Adjacent,252,19,754.12,39.69,4880,0.9857,0.9655,0.0
+2026-03-03,Active campaign,Ultra Glide 15,Footwear,616,41,6611.62,161.26,1668,0.9829,0.9793,0.0488
+2026-03-03,Active campaign,Sense Ride,Footwear,476,22,3015.8,137.08,1724,0.9367,0.8997,0.0
+2026-03-03,Active campaign,Genesis,Footwear,337,13,1784.23,137.25,1742,0.8962,0.9244,0.1538
+2026-03-03,Active campaign,Speedcross,Footwear,435,21,2908.07,138.48,1989,0.9424,0.9268,0.0476
+2026-03-03,Active campaign,Trail Apparel,Adjacent,371,23,1612.89,70.13,3890,0.9207,0.9093,0.0435
+2026-03-03,Active campaign,Trail Accessories,Adjacent,227,17,692.4,40.73,4863,0.9861,0.984,0.0
+2026-03-04,Active campaign,Ultra Glide 15,Footwear,783,45,6950.53,154.46,1623,0.9917,0.994,0.0889
+2026-03-04,Active campaign,Sense Ride,Footwear,388,18,2191.24,121.74,1706,0.9279,0.8914,0.1111
+2026-03-04,Active campaign,Genesis,Footwear,359,17,2514.47,147.91,1725,0.9218,0.9022,0.0588
+2026-03-04,Active campaign,Speedcross,Footwear,456,22,3168.74,144.03,1967,0.9333,1.0,0.0
+2026-03-04,Active campaign,Trail Apparel,Adjacent,342,21,1562.35,74.4,3869,0.956,0.9354,0.0
+2026-03-04,Active campaign,Trail Accessories,Adjacent,213,15,767.27,51.15,4848,0.9627,0.911,0.0
+2026-03-05,Active campaign,Ultra Glide 15,Footwear,772,32,5084.17,158.88,1591,0.9859,0.9794,0.0625
+2026-03-05,Active campaign,Sense Ride,Footwear,391,22,2981.87,135.54,1684,0.9341,0.9101,0.0
+2026-03-05,Active campaign,Genesis,Footwear,626,29,3850.36,132.77,1696,0.9302,0.8906,0.1724
+2026-03-05,Active campaign,Speedcross,Footwear,306,17,2147.63,126.33,1950,0.9768,0.9232,0.1176
+2026-03-05,Active campaign,Trail Apparel,Adjacent,341,20,1617.9,80.9,3849,0.9268,0.9141,0.0
+2026-03-05,Active campaign,Trail Accessories,Adjacent,264,19,820.12,43.16,4829,0.9564,0.9649,0.0
+2026-03-06,Active campaign,Ultra Glide 15,Footwear,845,32,4561.77,142.56,1559,0.9965,0.9678,0.1562
+2026-03-06,Active campaign,Sense Ride,Footwear,261,14,1945.14,138.94,1670,0.9156,0.9119,0.0
+2026-03-06,Active campaign,Genesis,Footwear,270,12,1715.29,142.94,1684,0.9153,0.8702,0.0833
+2026-03-06,Active campaign,Speedcross,Footwear,632,34,4055.67,119.28,1916,0.9377,0.9603,0.1765
+2026-03-06,Active campaign,Trail Apparel,Adjacent,378,21,1363.86,64.95,3828,0.9358,0.9099,0.0952
+2026-03-06,Active campaign,Trail Accessories,Adjacent,381,24,993.37,41.39,4805,0.9759,0.943,0.0
+2026-03-07,Active campaign,Ultra Glide 15,Footwear,864,44,6124.3,139.19,1515,0.9811,0.9241,0.1818
+2026-03-07,Active campaign,Sense Ride,Footwear,559,29,3639.35,125.49,1641,0.9663,0.8785,0.069
+2026-03-07,Active campaign,Genesis,Footwear,381,18,2247.81,124.88,1666,0.9042,0.895,0.2222
+2026-03-07,Active campaign,Speedcross,Footwear,331,15,1946.01,129.73,1901,0.9499,0.9346,0.1333
+2026-03-07,Active campaign,Trail Apparel,Adjacent,325,20,1450.67,72.53,3808,0.9579,0.9236,0.0
+2026-03-07,Active campaign,Trail Accessories,Adjacent,308,22,858.85,39.04,4783,0.9374,0.9183,0.0455
+2026-03-08,Active campaign,Ultra Glide 15,Footwear,739,40,4675.71,116.89,1475,0.9989,0.9807,0.3
+2026-03-08,Active campaign,Sense Ride,Footwear,247,12,1623.35,135.28,1629,0.9357,0.9048,0.0
+2026-03-08,Active campaign,Genesis,Footwear,297,14,2319.14,165.65,1652,0.9219,0.9204,0.0
+2026-03-08,Active campaign,Speedcross,Footwear,668,35,4635.01,132.43,1866,0.9416,0.8882,0.0857
+2026-03-08,Active campaign,Trail Apparel,Adjacent,371,20,1449.0,72.45,3788,0.9383,0.9334,0.05
+2026-03-08,Active campaign,Trail Accessories,Adjacent,77,6,249.64,41.61,4777,0.9879,0.902,0.0
+2026-03-09,Active campaign,Ultra Glide 15,Footwear,714,44,6433.31,146.21,1431,0.9849,0.9764,0.1364
+2026-03-09,Active campaign,Sense Ride,Footwear,340,17,1913.4,112.55,1612,0.9502,0.9477,0.1765
+2026-03-09,Active campaign,Genesis,Footwear,345,18,1940.28,107.79,1634,0.896,0.8929,0.3333
+2026-03-09,Active campaign,Speedcross,Footwear,362,19,2311.93,121.68,1847,0.9241,0.9293,0.1579
+2026-03-09,Active campaign,Trail Apparel,Adjacent,357,22,1461.1,66.41,3766,0.9175,0.9594,0.0
+2026-03-09,Active campaign,Trail Accessories,Adjacent,251,19,840.99,44.26,4758,0.9541,0.9718,0.0526
+2026-03-10,Active campaign,Ultra Glide 15,Footwear,857,30,4020.89,134.03,1401,0.9888,0.9662,0.2
+2026-03-10,Active campaign,Sense Ride,Footwear,314,16,1986.41,124.15,1596,0.939,0.8947,0.125
+2026-03-10,Active campaign,Genesis,Footwear,394,19,2547.06,134.06,1615,0.9249,0.8951,0.1579
+2026-03-10,Active campaign,Speedcross,Footwear,432,21,3156.62,150.32,1826,0.9475,0.9066,0.0
+2026-03-10,Active campaign,Trail Apparel,Adjacent,392,26,1900.94,73.11,3740,0.945,0.9283,0.0
+2026-03-10,Active campaign,Trail Accessories,Adjacent,233,16,672.31,42.02,4742,0.9468,0.9737,0.0
+2026-03-11,Active campaign,Ultra Glide 15,Footwear,725,29,3888.98,134.1,1372,0.9917,0.9843,0.2069
+2026-03-11,Active campaign,Sense Ride,Footwear,528,25,3102.66,124.11,1571,0.9164,0.8852,0.08
+2026-03-11,Active campaign,Genesis,Footwear,321,15,2102.02,140.13,1600,0.8991,0.9454,0.1333
+2026-03-11,Active campaign,Speedcross,Footwear,592,28,3517.04,125.61,1798,0.9338,0.9474,0.1429
+2026-03-11,Active campaign,Trail Apparel,Adjacent,403,22,1631.47,74.16,3718,0.9796,0.9411,0.0
+2026-03-11,Active campaign,Trail Accessories,Adjacent,331,24,926.03,38.58,4718,0.9802,0.935,0.0833
+2026-03-12,Active campaign,Ultra Glide 15,Footwear,668,35,5074.9,145.0,1337,0.9878,0.9899,0.1429
+2026-03-12,Active campaign,Sense Ride,Footwear,645,28,3496.37,124.87,1543,0.9167,0.9445,0.1071
+2026-03-12,Active campaign,Genesis,Footwear,296,14,2267.56,161.97,1586,0.9377,0.909,0.0
+2026-03-12,Active campaign,Speedcross,Footwear,351,20,2747.23,137.36,1778,0.9535,0.93,0.05
+2026-03-12,Active campaign,Trail Apparel,Adjacent,257,16,1266.65,79.17,3702,0.9403,0.9672,0.0625
+2026-03-12,Active campaign,Trail Accessories,Adjacent,288,22,1099.31,49.97,4696,0.9401,0.928,0.0
+2026-03-13,Active campaign,Ultra Glide 15,Footwear,848,37,4407.04,119.11,1300,0.9938,0.9595,0.2973
+2026-03-13,Active campaign,Sense Ride,Footwear,440,25,3240.8,129.63,1518,0.9423,0.9478,0.04
+2026-03-13,Active campaign,Genesis,Footwear,283,14,2119.54,151.4,1572,0.9312,0.9353,0.0714
+2026-03-13,Active campaign,Speedcross,Footwear,450,24,3012.45,125.52,1754,0.9904,0.9286,0.125
+2026-03-13,Active campaign,Trail Apparel,Adjacent,367,25,1642.42,65.7,3677,0.9567,0.904,0.04
+2026-03-13,Active campaign,Trail Accessories,Adjacent,257,18,786.95,43.72,4678,0.9945,0.9621,0.0
+2026-03-14,Active campaign,Ultra Glide 15,Footwear,799,44,5943.77,135.09,1256,1.0,0.9776,0.2045
+2026-03-14,Active campaign,Sense Ride,Footwear,415,22,2655.92,120.72,1496,0.9174,0.8938,0.0909
+2026-03-14,Active campaign,Genesis,Footwear,449,21,2863.06,136.34,1551,0.9409,0.8811,0.1429
+2026-03-14,Active campaign,Speedcross,Footwear,450,22,2620.64,119.12,1732,0.9764,0.9031,0.1818
+2026-03-14,Active campaign,Trail Apparel,Adjacent,417,24,1958.85,81.62,3653,0.9513,0.9233,0.0
+2026-03-14,Active campaign,Trail Accessories,Adjacent,399,26,1150.24,44.24,4652,0.9508,0.9648,0.0
+2026-03-15,Active campaign,Ultra Glide 15,Footwear,755,32,4555.69,142.37,1224,0.9775,0.9723,0.1562
+2026-03-15,Active campaign,Sense Ride,Footwear,531,25,2895.36,115.81,1471,0.9325,0.9264,0.16
+2026-03-15,Active campaign,Genesis,Footwear,516,21,2958.05,140.86,1530,0.9316,0.8597,0.0952
+2026-03-15,Active campaign,Speedcross,Footwear,478,25,3338.17,133.53,1707,0.9672,0.9405,0.08
+2026-03-15,Active campaign,Trail Apparel,Adjacent,457,25,1832.88,73.32,3628,0.9437,0.9722,0.0
+2026-03-15,Active campaign,Trail Accessories,Adjacent,327,25,1153.26,46.13,4627,0.9794,0.9428,0.0
+2026-03-16,Active campaign,Ultra Glide 15,Footwear,692,50,7143.92,142.88,1174,0.9848,0.9543,0.16
+2026-03-16,Active campaign,Sense Ride,Footwear,307,15,1845.67,123.04,1906,0.934,0.8919,0.0667
+2026-03-16,Active campaign,Genesis,Footwear,354,16,2477.74,154.86,1964,0.9267,0.8594,0.0
+2026-03-16,Active campaign,Speedcross,Footwear,373,18,2370.66,131.7,2139,0.9602,0.9452,0.1111
+2026-03-16,Active campaign,Trail Apparel,Adjacent,378,21,1266.1,60.29,4207,0.9567,0.8837,0.0952
+2026-03-16,Active campaign,Trail Accessories,Adjacent,203,15,627.16,41.81,5212,1.0,0.9543,0.0
+2026-03-17,Active campaign,Ultra Glide 15,Footwear,652,40,5727.57,143.19,1134,0.9668,0.9386,0.15
+2026-03-17,Active campaign,Sense Ride,Footwear,412,23,2595.93,112.87,1883,0.9278,0.9306,0.1739
+2026-03-17,Active campaign,Genesis,Footwear,270,12,1657.61,138.13,1952,0.9081,0.8886,0.1667
+2026-03-17,Active campaign,Speedcross,Footwear,355,18,2442.19,135.68,2121,0.9517,0.9201,0.0556
+2026-03-17,Active campaign,Trail Apparel,Adjacent,282,18,1270.83,70.6,4189,0.9306,0.9228,0.0556
+2026-03-17,Active campaign,Trail Accessories,Adjacent,186,13,642.29,49.41,5199,0.9762,0.9398,0.0
+2026-03-18,Active campaign,Ultra Glide 15,Footwear,704,35,5426.36,155.04,1099,0.9567,0.9152,0.0857
+2026-03-18,Active campaign,Sense Ride,Footwear,510,26,3317.52,127.6,1857,0.93,0.8996,0.0769
+2026-03-18,Active campaign,Genesis,Footwear,317,13,1903.19,146.4,1939,0.9403,0.9134,0.0769
+2026-03-18,Active campaign,Speedcross,Footwear,207,10,1187.9,118.79,2111,0.9499,0.9564,0.2
+2026-03-18,Active campaign,Trail Apparel,Adjacent,284,19,1270.22,66.85,4170,0.9296,0.9529,0.0526
+2026-03-18,Active campaign,Trail Accessories,Adjacent,278,18,782.03,43.45,5181,1.0,0.956,0.0556
+2026-03-19,Active campaign,Ultra Glide 15,Footwear,769,34,4899.27,144.1,1065,0.9583,0.899,0.1471
+2026-03-19,Active campaign,Sense Ride,Footwear,425,21,2839.17,135.2,1836,0.9119,0.9145,0.0
+2026-03-19,Active campaign,Genesis,Footwear,216,10,1476.49,147.65,1929,0.9598,0.891,0.1
+2026-03-19,Active campaign,Speedcross,Footwear,450,21,2864.41,136.4,2090,0.9638,0.9404,0.0476
+2026-03-19,Active campaign,Trail Apparel,Adjacent,335,19,1156.09,60.85,4151,0.9285,0.925,0.1053
+2026-03-19,Active campaign,Trail Accessories,Adjacent,251,18,714.93,39.72,5163,1.0,0.9234,0.0556
+2026-03-20,Active campaign,Ultra Glide 15,Footwear,888,43,6772.08,157.49,1022,0.9376,0.8908,0.0698
+2026-03-20,Active campaign,Sense Ride,Footwear,303,17,1781.32,104.78,1819,0.9455,0.9545,0.2353
+2026-03-20,Active campaign,Genesis,Footwear,477,22,2892.42,131.47,1907,0.9552,0.9098,0.1818
+2026-03-20,Active campaign,Speedcross,Footwear,490,27,3805.56,140.95,2063,0.9796,0.8953,0.037
+2026-03-20,Active campaign,Trail Apparel,Adjacent,414,24,1716.8,71.53,4127,0.9699,0.8885,0.0417
+2026-03-20,Active campaign,Trail Accessories,Adjacent,272,21,901.85,42.95,5142,0.9702,0.976,0.0
+2026-03-21,Active campaign,Ultra Glide 15,Footwear,899,46,6762.21,147.0,976,0.9179,0.8833,0.1304
+2026-03-21,Active campaign,Sense Ride,Footwear,720,32,3834.12,119.82,1787,0.9437,0.9451,0.125
+2026-03-21,Active campaign,Genesis,Footwear,470,19,2713.66,142.82,1888,0.9521,0.9187,0.1053
+2026-03-21,Active campaign,Speedcross,Footwear,393,20,2169.45,108.47,2043,0.9755,0.9672,0.25
+2026-03-21,Active campaign,Trail Apparel,Adjacent,285,17,1151.56,67.74,4110,0.9668,0.9468,0.0
+2026-03-21,Active campaign,Trail Accessories,Adjacent,300,20,797.26,39.86,5122,0.9591,0.9627,0.0
+2026-03-22,Active campaign,Ultra Glide 15,Footwear,835,33,4383.67,132.84,943,0.9416,0.876,0.2121
+2026-03-22,Active campaign,Sense Ride,Footwear,479,24,3130.6,130.44,1763,0.9815,0.9258,0.0417
+2026-03-22,Active campaign,Genesis,Footwear,313,14,2325.99,166.14,1874,0.9551,0.9591,0.0
+2026-03-22,Active campaign,Speedcross,Footwear,457,22,3092.16,140.55,2021,0.9584,0.9277,0.0455
+2026-03-22,Active campaign,Trail Apparel,Adjacent,334,21,1498.27,71.35,4089,0.9721,0.9405,0.0
+2026-03-22,Active campaign,Trail Accessories,Adjacent,320,23,908.88,39.52,5099,0.9651,0.9444,0.0
+2026-03-23,Active campaign,Ultra Glide 15,Footwear,641,34,4904.51,144.25,909,0.9202,0.8799,0.1471
+2026-03-23,Active campaign,Sense Ride,Footwear,280,13,1469.56,113.04,1750,0.9146,0.9116,0.1538
+2026-03-23,Active campaign,Genesis,Footwear,197,9,1277.71,141.97,1865,0.9199,0.8973,0.1111
+2026-03-23,Active campaign,Speedcross,Footwear,481,26,3519.08,135.35,1995,0.9568,0.9634,0.0769
+2026-03-23,Active campaign,Trail Apparel,Adjacent,500,27,1972.87,73.07,4062,0.9453,0.9316,0.0
+2026-03-23,Active campaign,Trail Accessories,Adjacent,227,15,629.29,41.95,5084,0.9611,0.9141,0.0667
+2026-03-24,Active campaign,Ultra Glide 15,Footwear,743,39,5399.21,138.44,870,0.9251,0.8584,0.1795
+2026-03-24,Active campaign,Sense Ride,Footwear,412,22,2845.12,129.32,1728,0.9424,0.9104,0.0455
+2026-03-24,Active campaign,Genesis,Footwear,296,14,1899.06,135.65,1851,0.9494,0.9004,0.1429
+2026-03-24,Active campaign,Speedcross,Footwear,314,15,1846.73,123.12,1980,0.9817,0.9013,0.1333
+2026-03-24,Active campaign,Trail Apparel,Adjacent,260,17,1091.82,64.22,4045,0.9595,0.9006,0.1176
+2026-03-24,Active campaign,Trail Accessories,Adjacent,182,13,635.11,48.85,5071,0.9449,0.9221,0.0
+2026-03-25,Active campaign,Ultra Glide 15,Footwear,707,38,5392.0,141.89,832,0.916,0.8045,0.1579
+2026-03-25,Active campaign,Sense Ride,Footwear,367,19,2333.31,122.81,1709,0.9297,0.8991,0.1053
+2026-03-25,Active campaign,Genesis,Footwear,313,14,2127.93,151.99,1837,0.9237,0.8832,0.0714
+2026-03-25,Active campaign,Speedcross,Footwear,400,20,2801.65,140.08,1960,0.9796,0.9699,0.05
+2026-03-25,Active campaign,Trail Apparel,Adjacent,287,16,1311.54,81.97,4029,0.953,0.9344,0.0
+2026-03-25,Active campaign,Trail Accessories,Adjacent,141,10,498.93,49.89,5061,0.9601,0.9538,0.0
+2026-03-26,Active campaign,Ultra Glide 15,Footwear,755,37,5249.06,141.87,795,0.8979,0.8064,0.1622
+2026-03-26,Active campaign,Sense Ride,Footwear,427,20,2611.99,130.6,1689,0.9201,0.9332,0.05
+2026-03-26,Active campaign,Genesis,Footwear,488,23,3229.9,140.43,1814,0.9377,0.935,0.1304
+2026-03-26,Active campaign,Speedcross,Footwear,427,22,3080.98,140.04,1938,0.9366,0.9353,0.0455
+2026-03-26,Active campaign,Trail Apparel,Adjacent,214,13,864.04,66.46,4016,0.9519,0.923,0.1538
+2026-03-26,Active campaign,Trail Accessories,Adjacent,289,19,818.08,43.06,5042,0.9353,0.9304,0.0
+2026-03-27,Active campaign,Ultra Glide 15,Footwear,755,32,4260.85,133.15,763,0.8854,0.8212,0.2188
+2026-03-27,Active campaign,Sense Ride,Footwear,525,23,3027.37,131.62,1666,0.9357,0.8934,0.0435
+2026-03-27,Active campaign,Genesis,Footwear,433,22,3060.56,139.12,1792,0.9237,0.9177,0.1364
+2026-03-27,Active campaign,Speedcross,Footwear,519,27,3779.36,139.98,1911,0.9495,0.95,0.037
+2026-03-27,Active campaign,Trail Apparel,Adjacent,324,19,1389.72,73.14,3997,0.9456,0.9154,0.0526
+2026-03-27,Active campaign,Trail Accessories,Adjacent,284,20,876.32,43.82,5022,0.9561,0.9658,0.0
+2026-03-28,Active campaign,Ultra Glide 15,Footwear,757,37,5743.83,155.24,726,0.882,0.798,0.0811
+2026-03-28,Active campaign,Sense Ride,Footwear,440,21,2734.22,130.2,1645,0.9544,0.8941,0.0476
+2026-03-28,Active campaign,Genesis,Footwear,434,20,2887.27,144.36,1772,0.9476,0.8826,0.1
+2026-03-28,Active campaign,Speedcross,Footwear,473,26,3540.42,136.17,1885,0.9562,0.9466,0.0769
+2026-03-28,Active campaign,Trail Apparel,Adjacent,275,15,1151.22,76.75,3982,0.961,0.9011,0.0
+2026-03-28,Active campaign,Trail Accessories,Adjacent,357,24,998.89,41.62,4998,0.9615,0.9032,0.0417
+2026-03-29,Active campaign,Ultra Glide 15,Footwear,719,35,4729.14,135.12,691,0.8724,0.7404,0.2
+2026-03-29,Active campaign,Sense Ride,Footwear,389,21,2718.77,129.47,1624,0.9378,0.8782,0.0476
+2026-03-29,Active campaign,Genesis,Footwear,476,21,3382.32,161.06,1751,0.9311,0.8673,0.0
+2026-03-29,Active campaign,Speedcross,Footwear,425,22,2899.14,131.78,1863,0.9716,0.9243,0.0909
+2026-03-29,Active campaign,Trail Apparel,Adjacent,302,19,1299.79,68.41,3963,0.9264,0.9072,0.0
+2026-03-29,Active campaign,Trail Accessories,Adjacent,247,17,801.16,47.13,4981,0.9594,1.0,0.0588
+2026-03-30,Active campaign,Ultra Glide 15,Footwear,688,32,4211.41,131.61,839,0.8903,0.8091,0.2188
+2026-03-30,Active campaign,Sense Ride,Footwear,198,10,1384.05,138.41,1614,0.9455,0.8925,0.0
+2026-03-30,Active campaign,Genesis,Footwear,347,16,2394.32,149.65,1735,0.924,0.902,0.0625
+2026-03-30,Active campaign,Speedcross,Footwear,448,23,3154.81,137.17,1840,0.9701,0.9322,0.0435
+2026-03-30,Active campaign,Trail Apparel,Adjacent,211,13,1000.88,76.99,3950,0.9907,0.9483,0.0
+2026-03-30,Active campaign,Trail Accessories,Adjacent,224,16,696.02,43.5,4965,0.9644,0.9642,0.0
+2026-03-31,Active campaign,Ultra Glide 15,Footwear,589,27,4589.21,169.97,812,0.9095,0.7447,0.0
+2026-03-31,Active campaign,Sense Ride,Footwear,452,22,2715.52,123.43,1592,0.9377,0.9378,0.0909
+2026-03-31,Active campaign,Genesis,Footwear,210,9,1452.67,161.41,1726,0.9181,0.8728,0.0
+2026-03-31,Active campaign,Speedcross,Footwear,446,24,2701.88,112.58,1816,0.973,0.9551,0.2083
+2026-03-31,Active campaign,Trail Apparel,Adjacent,304,18,1256.97,69.83,3932,0.9276,0.9405,0.0556
+2026-03-31,Active campaign,Trail Accessories,Adjacent,165,11,569.15,51.74,4954,0.9575,0.945,0.0
+2026-04-01,Active campaign,Ultra Glide 15,Footwear,786,25,3717.52,148.7,787,0.8917,0.75,0.12
+2026-04-01,Active campaign,Sense Ride,Footwear,362,17,2079.92,122.35,1575,0.9255,0.9138,0.1176
+2026-04-01,Active campaign,Genesis,Footwear,237,11,1807.21,164.29,1715,0.9258,0.9182,0.0
+2026-04-01,Active campaign,Speedcross,Footwear,596,27,3815.4,141.31,1789,0.9636,0.9455,0.037
+2026-04-01,Active campaign,Trail Apparel,Adjacent,348,20,1429.5,71.47,3912,0.9381,0.9189,0.05
+2026-04-01,Active campaign,Trail Accessories,Adjacent,220,16,713.04,44.56,4938,0.977,0.8822,0.0
+2026-04-02,Active campaign,Ultra Glide 15,Footwear,742,27,3894.91,144.26,760,0.8686,0.7189,0.1481
+2026-04-02,Active campaign,Sense Ride,Footwear,491,23,3055.38,132.84,1552,0.9351,0.9396,0.0
+2026-04-02,Active campaign,Genesis,Footwear,292,16,2311.13,144.45,1699,0.918,0.8934,0.125
+2026-04-02,Active campaign,Speedcross,Footwear,462,25,3355.59,134.22,1764,0.9515,0.9566,0.08
+2026-04-02,Active campaign,Trail Apparel,Adjacent,340,21,1644.39,78.3,3891,0.9404,0.9276,0.0
+2026-04-02,Active campaign,Trail Accessories,Adjacent,183,12,491.84,40.99,4926,0.9484,0.9377,0.0833
+2026-04-03,Active campaign,Ultra Glide 15,Footwear,781,28,3737.4,133.48,732,0.8877,0.7381,0.2143
+2026-04-03,Active campaign,Sense Ride,Footwear,474,25,3260.3,130.41,1527,0.9426,0.9058,0.04
+2026-04-03,Active campaign,Genesis,Footwear,366,16,2053.41,128.34,1683,0.9191,0.8967,0.1875
+2026-04-03,Active campaign,Speedcross,Footwear,423,23,3138.95,136.48,1741,0.9742,0.9532,0.087
+2026-04-03,Active campaign,Trail Apparel,Adjacent,474,30,2063.3,68.78,3861,0.9384,0.9344,0.0333
+2026-04-03,Active campaign,Trail Accessories,Adjacent,302,21,895.07,42.62,4905,0.9645,0.9305,0.0
+2026-04-04,Active campaign,Ultra Glide 15,Footwear,742,26,4237.51,162.98,706,0.857,0.7395,0.0385
+2026-04-04,Active campaign,Sense Ride,Footwear,544,26,2986.65,114.87,1501,0.953,0.9259,0.1538
+2026-04-04,Active campaign,Genesis,Footwear,368,17,2439.38,143.49,1666,0.9211,0.8697,0.1176
+2026-04-04,Active campaign,Speedcross,Footwear,515,27,3784.56,140.17,1714,0.9709,0.9615,0.037
+2026-04-04,Active campaign,Trail Apparel,Adjacent,479,30,2056.02,68.53,3831,0.9513,0.9098,0.1
+2026-04-04,Active campaign,Trail Accessories,Adjacent,288,21,875.69,41.7,4884,0.9666,0.9401,0.0476
+2026-04-05,Active campaign,Ultra Glide 15,Footwear,746,35,5392.23,154.06,671,0.8395,0.6622,0.0857
+2026-04-05,Active campaign,Sense Ride,Footwear,423,21,2638.51,125.64,1480,0.9327,0.9098,0.0476
+2026-04-05,Active campaign,Genesis,Footwear,388,17,2635.36,155.02,1649,0.9485,0.8947,0.0588
+2026-04-05,Active campaign,Speedcross,Footwear,443,20,2831.8,141.59,1694,0.9689,0.9285,0.05
+2026-04-05,Active campaign,Trail Apparel,Adjacent,345,20,1554.59,77.73,3811,0.9764,0.942,0.0
+2026-04-05,Active campaign,Trail Accessories,Adjacent,277,19,808.18,42.54,4865,0.9944,0.9395,0.0
+2026-04-06,Active campaign,Ultra Glide 15,Footwear,601,14,2019.87,144.28,657,0.7836,0.6176,0.1429
+2026-04-06,Active campaign,Sense Ride,Footwear,566,29,3268.28,112.7,1451,0.9574,0.905,0.1724
+2026-04-06,Active campaign,Genesis,Footwear,396,20,3238.13,161.91,1629,0.8827,0.9193,0.0
+2026-04-06,Active campaign,Speedcross,Footwear,420,21,2489.7,118.56,1673,0.9533,0.954,0.1905
+2026-04-06,Active campaign,Trail Apparel,Adjacent,331,21,1444.31,68.78,3790,0.9125,0.9156,0.0952
+2026-04-06,Active campaign,Trail Accessories,Adjacent,283,22,943.75,42.9,4843,0.984,0.9477,0.0
+2026-04-07,Active campaign,Ultra Glide 15,Footwear,669,24,3734.43,155.6,633,0.797,0.5663,0.0833
+2026-04-07,Active campaign,Sense Ride,Footwear,414,21,2547.94,121.33,1430,0.9251,0.9058,0.0952
+2026-04-07,Active campaign,Genesis,Footwear,345,15,2354.32,156.95,1614,0.9354,0.9061,0.0667
+2026-04-07,Active campaign,Speedcross,Footwear,417,23,3206.95,139.43,1650,0.9479,0.9571,0.0435
+2026-04-07,Active campaign,Trail Apparel,Adjacent,324,20,1594.99,79.75,3770,0.9925,0.9672,0.0
+2026-04-07,Active campaign,Trail Accessories,Adjacent,226,16,608.75,38.05,4827,0.9637,0.9568,0.0625
+2026-04-08,Active campaign,Ultra Glide 15,Footwear,803,28,3883.67,138.7,605,0.7868,0.5921,0.1786
+2026-04-08,Active campaign,Sense Ride,Footwear,398,19,2546.33,134.02,1411,0.9708,0.9301,0.0
+2026-04-08,Active campaign,Genesis,Footwear,311,16,2555.93,159.75,1598,0.9097,0.8912,0.0
+2026-04-08,Active campaign,Speedcross,Footwear,445,22,3007.75,136.72,1628,0.9351,0.9083,0.0455
+2026-04-08,Active campaign,Trail Apparel,Adjacent,307,17,1293.81,76.11,3753,0.9287,0.908,0.0588
+2026-04-08,Active campaign,Trail Accessories,Adjacent,254,18,783.53,43.53,4809,0.9927,0.9744,0.0
+2026-04-09,Active campaign,Ultra Glide 15,Footwear,734,25,4196.57,167.86,580,0.7794,0.5613,0.0
+2026-04-09,Active campaign,Sense Ride,Footwear,372,17,2189.9,128.82,1394,0.9624,0.9233,0.0588
+2026-04-09,Active campaign,Genesis,Footwear,382,20,2267.87,113.39,1578,0.9356,0.9133,0.3
+2026-04-09,Active campaign,Speedcross,Footwear,401,22,3133.78,142.44,1606,0.9694,0.9627,0.0455
+2026-04-09,Active campaign,Trail Apparel,Adjacent,297,17,1155.32,67.96,3736,0.9406,0.9124,0.0588
+2026-04-09,Active campaign,Trail Accessories,Adjacent,256,19,719.4,37.86,4790,0.95,0.9274,0.0
+2026-04-10,Active campaign,Ultra Glide 15,Footwear,774,33,4902.66,148.57,547,0.7669,0.5485,0.1212
+2026-04-10,Active campaign,Sense Ride,Footwear,427,22,2852.72,129.67,1372,0.9499,0.9558,0.0455
+2026-04-10,Active campaign,Genesis,Footwear,363,16,2242.06,140.13,1562,0.9334,0.9089,0.125
+2026-04-10,Active campaign,Speedcross,Footwear,407,24,3177.04,132.38,1582,0.9752,0.9623,0.0833
+2026-04-10,Active campaign,Trail Apparel,Adjacent,268,16,1256.16,78.51,3720,0.9494,0.9083,0.0625
+2026-04-10,Active campaign,Trail Accessories,Adjacent,264,22,997.79,45.35,4768,0.9631,0.9514,0.0
+2026-04-11,Active campaign,Ultra Glide 15,Footwear,866,27,3697.06,136.93,520,0.7825,0.551,0.1852
+2026-04-11,Active campaign,Sense Ride,Footwear,492,24,2503.42,104.31,1348,0.9517,0.9195,0.2083
+2026-04-11,Active campaign,Genesis,Footwear,380,17,2393.27,140.78,1545,0.9195,0.8948,0.1176
+2026-04-11,Active campaign,Speedcross,Footwear,456,24,3486.82,145.28,1558,0.9891,0.9131,0.0
+2026-04-11,Active campaign,Trail Apparel,Adjacent,292,19,1407.19,74.06,3701,0.918,0.9229,0.0
+2026-04-11,Active campaign,Trail Accessories,Adjacent,370,26,1115.51,42.9,4742,0.9766,0.9557,0.0
+2026-04-12,Active campaign,Ultra Glide 15,Footwear,775,25,3721.95,148.88,495,0.7535,0.4961,0.12
+2026-04-12,Active campaign,Sense Ride,Footwear,447,23,2767.68,120.33,1325,0.9407,0.9014,0.087
+2026-04-12,Active campaign,Genesis,Footwear,465,21,2408.64,114.7,1524,0.8985,0.9107,0.2857
+2026-04-12,Active campaign,Speedcross,Footwear,482,21,2836.65,135.08,1537,0.9554,0.9332,0.0476
+2026-04-12,Active campaign,Trail Apparel,Adjacent,313,17,1222.62,71.92,3684,0.9615,0.8995,0.0588
+2026-04-12,Active campaign,Trail Accessories,Adjacent,173,12,411.94,34.33,4730,0.95,0.9366,0.1667
+2026-04-13,Post-campaign,Ultra Glide 15,Footwear,378,12,1686.78,140.56,483,0.7591,0.4692,0.1667
+2026-04-13,Post-campaign,Sense Ride,Footwear,393,22,2430.74,110.49,1303,0.945,0.9034,0.1818
+2026-04-13,Post-campaign,Genesis,Footwear,440,18,2509.83,139.44,1506,0.9402,0.9571,0.1111
+2026-04-13,Post-campaign,Speedcross,Footwear,305,18,2445.21,135.84,1519,0.9428,0.9395,0.0556
+2026-04-13,Post-campaign,Trail Apparel,Adjacent,193,12,741.05,61.75,3672,0.9549,0.9214,0.1667
+2026-04-13,Post-campaign,Trail Accessories,Adjacent,221,18,792.24,44.01,4712,0.9891,0.9495,0.0
+2026-04-14,Post-campaign,Ultra Glide 15,Footwear,351,18,3051.8,169.54,465,0.7345,0.4603,0.0
+2026-04-14,Post-campaign,Sense Ride,Footwear,516,24,2548.82,106.2,1279,0.9547,0.935,0.2083
+2026-04-14,Post-campaign,Genesis,Footwear,294,15,2107.5,140.5,1491,0.9335,0.9006,0.1333
+2026-04-14,Post-campaign,Speedcross,Footwear,415,20,2744.77,137.24,1499,0.9311,0.9533,0.05
+2026-04-14,Post-campaign,Trail Apparel,Adjacent,309,19,1473.83,77.57,3653,0.9207,0.9559,0.0
+2026-04-14,Post-campaign,Trail Accessories,Adjacent,252,21,961.3,45.78,4691,0.9723,0.9917,0.0
+2026-04-15,Post-campaign,Ultra Glide 15,Footwear,443,11,1513.92,137.63,454,0.7347,0.4796,0.1818
+2026-04-15,Post-campaign,Sense Ride,Footwear,526,28,3296.99,117.75,1251,0.9301,0.9003,0.1429
+2026-04-15,Post-campaign,Genesis,Footwear,442,21,3273.71,155.89,1470,0.9518,0.922,0.0476
+2026-04-15,Post-campaign,Speedcross,Footwear,334,16,2348.53,146.78,1483,0.9735,0.9254,0.0
+2026-04-15,Post-campaign,Trail Apparel,Adjacent,277,17,990.9,58.29,3636,0.9441,0.9469,0.1176
+2026-04-15,Post-campaign,Trail Accessories,Adjacent,293,23,892.66,38.81,4668,0.9909,0.9381,0.087
+2026-04-16,Post-campaign,Ultra Glide 15,Footwear,318,7,328.28,46.9,447,0.7239,0.4418,0.7143
+2026-04-16,Post-campaign,Sense Ride,Footwear,453,22,2678.89,121.77,1229,0.9469,0.87,0.0909
+2026-04-16,Post-campaign,Genesis,Footwear,528,26,3518.34,135.32,1444,0.914,0.9146,0.1538
+2026-04-16,Post-campaign,Speedcross,Footwear,363,18,2364.46,131.36,1465,0.9611,0.9473,0.1111
+2026-04-16,Post-campaign,Trail Apparel,Adjacent,506,29,1997.81,68.89,3607,0.9697,0.8951,0.1034
+2026-04-16,Post-campaign,Trail Accessories,Adjacent,188,13,522.23,40.17,4655,0.9578,0.9401,0.0769
+2026-04-17,Post-campaign,Ultra Glide 15,Footwear,429,13,1710.94,131.61,434,0.7116,0.4406,0.2308
+2026-04-17,Post-campaign,Sense Ride,Footwear,617,31,3248.68,104.8,1198,0.9442,0.9043,0.2258
+2026-04-17,Post-campaign,Genesis,Footwear,433,21,3260.5,155.26,1423,0.935,0.896,0.0476
+2026-04-17,Post-campaign,Speedcross,Footwear,479,22,3039.39,138.15,1443,0.9668,0.9376,0.0909
+2026-04-17,Post-campaign,Trail Apparel,Adjacent,377,22,1522.84,69.22,3585,0.9294,0.8968,0.0455
+2026-04-17,Post-campaign,Trail Accessories,Adjacent,357,25,1018.09,40.72,4630,0.9528,0.9756,0.0
+2026-04-18,Post-campaign,Ultra Glide 15,Footwear,375,16,2734.23,170.89,418,0.7225,0.42,0.0
+2026-04-18,Post-campaign,Sense Ride,Footwear,625,29,3705.28,127.77,1169,0.958,0.9008,0.1034
+2026-04-18,Post-campaign,Genesis,Footwear,611,25,3746.56,149.86,1398,0.9383,0.9389,0.08
+2026-04-18,Post-campaign,Speedcross,Footwear,441,24,2523.48,105.15,1419,0.9565,0.9409,0.2917
+2026-04-18,Post-campaign,Trail Apparel,Adjacent,301,19,1507.19,79.33,3566,1.0,0.8982,0.0
+2026-04-18,Post-campaign,Trail Accessories,Adjacent,212,15,620.14,41.34,4615,0.9678,0.9731,0.0
+2026-04-19,Post-campaign,Ultra Glide 15,Footwear,357,13,1846.5,142.04,405,0.6972,0.42,0.1538
+2026-04-19,Post-campaign,Sense Ride,Footwear,576,29,3434.34,118.43,1140,0.9651,0.9335,0.1379
+2026-04-19,Post-campaign,Genesis,Footwear,453,22,3157.11,143.5,1376,0.9537,0.9152,0.0909
+2026-04-19,Post-campaign,Speedcross,Footwear,358,18,2403.09,133.5,1401,0.9774,0.9495,0.1111
+2026-04-19,Post-campaign,Trail Apparel,Adjacent,361,25,1714.36,68.57,3541,0.9453,0.9349,0.0
+2026-04-19,Post-campaign,Trail Accessories,Adjacent,362,21,837.75,39.89,4594,0.9721,0.9281,0.0
+2026-04-20,Post-campaign,Ultra Glide 15,Footwear,332,12,1527.98,127.33,393,0.695,0.42,0.25
+2026-04-20,Post-campaign,Sense Ride,Footwear,542,28,3326.85,118.82,1562,0.9135,0.9246,0.1071
+2026-04-20,Post-campaign,Genesis,Footwear,385,18,2889.73,160.54,1808,0.9577,0.9162,0.0
+2026-04-20,Post-campaign,Speedcross,Footwear,373,18,2311.69,128.43,1833,0.9377,0.9441,0.1111
+2026-04-20,Post-campaign,Trail Apparel,Adjacent,206,13,900.4,69.26,4128,0.9588,0.9358,0.0
+2026-04-20,Post-campaign,Trail Accessories,Adjacent,249,16,724.79,45.3,5178,0.9338,0.9533,0.0
+2026-04-21,Post-campaign,Ultra Glide 15,Footwear,355,12,1176.99,98.08,381,0.6942,0.42,0.4167
+2026-04-21,Post-campaign,Sense Ride,Footwear,356,18,2189.97,121.66,1544,0.9244,0.9143,0.1111
+2026-04-21,Post-campaign,Genesis,Footwear,471,21,3086.87,146.99,1787,0.9145,0.8824,0.0952
+2026-04-21,Post-campaign,Speedcross,Footwear,390,20,2619.68,130.98,1813,0.9836,0.9675,0.1
+2026-04-21,Post-campaign,Trail Apparel,Adjacent,313,19,1234.4,64.97,4109,0.9427,0.902,0.0526
+2026-04-21,Post-campaign,Trail Accessories,Adjacent,300,21,998.52,47.55,5157,0.9363,0.9567,0.0
+2026-04-22,Post-campaign,Ultra Glide 15,Footwear,405,15,1720.36,114.69,366,0.6791,0.42,0.3333
+2026-04-22,Post-campaign,Sense Ride,Footwear,502,28,3494.31,124.8,1516,0.9158,0.8894,0.1071
+2026-04-22,Post-campaign,Genesis,Footwear,298,14,1928.65,137.76,1773,0.9328,0.9215,0.1429
+2026-04-22,Post-campaign,Speedcross,Footwear,441,21,2929.4,139.5,1792,0.9492,0.8928,0.0476
+2026-04-22,Post-campaign,Trail Apparel,Adjacent,370,24,1811.6,75.48,4085,0.9493,0.922,0.0417
+2026-04-22,Post-campaign,Trail Accessories,Adjacent,266,19,816.88,42.99,5138,0.9854,0.9571,0.0526
+2026-04-23,Post-campaign,Ultra Glide 15,Footwear,342,13,1520.55,116.97,353,0.6489,0.42,0.3077
+2026-04-23,Post-campaign,Sense Ride,Footwear,377,20,2382.87,119.14,1496,0.9371,0.9204,0.15
+2026-04-23,Post-campaign,Genesis,Footwear,355,18,2388.73,132.71,1755,0.9181,0.8859,0.1667
+2026-04-23,Post-campaign,Speedcross,Footwear,570,31,3883.74,125.28,1761,0.9695,0.9486,0.129
+2026-04-23,Post-campaign,Trail Apparel,Adjacent,407,22,1516.7,68.94,4063,0.9579,0.9483,0.0455
+2026-04-23,Post-campaign,Trail Accessories,Adjacent,310,21,750.63,35.74,5117,0.9884,0.9617,0.0476
+2026-04-24,Post-campaign,Ultra Glide 15,Footwear,468,17,2218.26,130.49,336,0.6453,0.42,0.2353
+2026-04-24,Post-campaign,Sense Ride,Footwear,578,29,3255.94,112.27,1467,0.9274,0.8947,0.1724
+2026-04-24,Post-campaign,Genesis,Footwear,247,11,1807.55,164.32,1744,0.9195,0.8851,0.0
+2026-04-24,Post-campaign,Speedcross,Footwear,378,21,2985.25,142.15,1740,0.9517,0.9087,0.0476
+2026-04-24,Post-campaign,Trail Apparel,Adjacent,330,18,1197.6,66.53,4045,0.9511,0.9252,0.0556
+2026-04-24,Post-campaign,Trail Accessories,Adjacent,343,24,1075.98,44.83,5093,0.965,0.9042,0.0
+2026-04-25,Post-campaign,Ultra Glide 15,Footwear,391,16,1708.11,106.76,320,0.6444,0.42,0.375
+2026-04-25,Post-campaign,Sense Ride,Footwear,533,29,3585.97,123.65,1438,0.9376,0.8821,0.1034
+2026-04-25,Post-campaign,Genesis,Footwear,479,24,3390.66,141.28,1720,0.9247,0.9097,0.125
+2026-04-25,Post-campaign,Speedcross,Footwear,650,30,3803.37,126.78,1710,0.9348,0.9356,0.1333
+2026-04-25,Post-campaign,Trail Apparel,Adjacent,436,26,1918.04,73.77,4019,0.9568,0.9084,0.0
+2026-04-25,Post-campaign,Trail Accessories,Adjacent,207,17,815.59,47.98,5076,0.9941,0.9065,0.0
+2026-04-26,Post-campaign,Ultra Glide 15,Footwear,361,20,2876.71,143.84,300,0.6474,0.42,0.15
+2026-04-26,Post-campaign,Sense Ride,Footwear,347,18,2162.5,120.14,1420,0.9615,0.9207,0.1111
+2026-04-26,Post-campaign,Genesis,Footwear,314,14,2212.44,158.03,1706,0.9164,0.8678,0.0
+2026-04-26,Post-campaign,Speedcross,Footwear,471,26,3414.82,131.34,1684,0.9668,0.9425,0.1154
+2026-04-26,Post-campaign,Trail Apparel,Adjacent,400,23,1635.73,71.12,3996,0.9598,0.9537,0.0435
+2026-04-26,Post-campaign,Trail Accessories,Adjacent,310,21,921.51,43.88,5055,0.9874,0.988,0.0
+2026-04-27,Post-campaign,Ultra Glide 15,Footwear,381,7,663.18,94.74,293,0.633,0.42,0.4286
+2026-04-27,Post-campaign,Sense Ride,Footwear,359,17,2038.18,119.89,1403,0.9297,0.9182,0.1176
+2026-04-27,Post-campaign,Genesis,Footwear,495,24,3405.42,141.89,1682,0.8903,0.8827,0.125
+2026-04-27,Post-campaign,Speedcross,Footwear,559,27,3114.92,115.37,1657,0.9491,0.9631,0.2222
+2026-04-27,Post-campaign,Trail Apparel,Adjacent,299,22,1468.04,66.73,3974,0.9805,0.9195,0.0909
+2026-04-27,Post-campaign,Trail Accessories,Adjacent,239,16,723.26,45.2,5039,0.9745,0.9616,0.0
+2026-04-28,Post-campaign,Ultra Glide 15,Footwear,341,14,2369.51,169.25,279,0.6116,0.42,0.0
+2026-04-28,Post-campaign,Sense Ride,Footwear,486,20,2461.08,123.05,1383,0.9274,0.9077,0.1
+2026-04-28,Post-campaign,Genesis,Footwear,330,15,1902.56,126.84,1667,0.959,0.9043,0.2
+2026-04-28,Post-campaign,Speedcross,Footwear,513,26,3517.13,135.27,1631,0.9685,0.9326,0.0769
+2026-04-28,Post-campaign,Trail Apparel,Adjacent,268,18,1370.05,76.11,3956,0.9964,0.9289,0.0
+2026-04-28,Post-campaign,Trail Accessories,Adjacent,353,25,1150.17,46.01,5014,1.0,0.9349,0.0
+2026-04-29,Post-campaign,Ultra Glide 15,Footwear,364,10,1343.66,134.37,269,0.61,0.42,0.2
+2026-04-29,Post-campaign,Sense Ride,Footwear,405,20,2759.82,137.99,1363,0.9591,0.9159,0.0
+2026-04-29,Post-campaign,Genesis,Footwear,413,19,2925.7,153.98,1648,0.9317,0.919,0.0526
+2026-04-29,Post-campaign,Speedcross,Footwear,456,21,2898.57,138.03,1610,0.9317,0.9518,0.0476
+2026-04-29,Post-campaign,Trail Apparel,Adjacent,289,16,1043.12,65.19,3940,0.9762,0.9095,0.0625
+2026-04-29,Post-campaign,Trail Accessories,Adjacent,285,16,779.34,48.71,4998,0.936,1.0,0.0
+2026-04-30,Post-campaign,Ultra Glide 15,Footwear,399,14,1846.74,131.91,255,0.6408,0.42,0.2143
+2026-04-30,Post-campaign,Sense Ride,Footwear,634,33,3860.33,116.98,1330,0.9659,0.9009,0.1515
+2026-04-30,Post-campaign,Genesis,Footwear,463,21,2885.07,137.38,1627,0.9332,0.8618,0.1429
+2026-04-30,Post-campaign,Speedcross,Footwear,330,19,2655.87,139.78,1591,0.9332,0.9091,0.0526
+2026-04-30,Post-campaign,Trail Apparel,Adjacent,341,22,1417.07,64.41,3918,0.9662,0.9507,0.1364
+2026-04-30,Post-campaign,Trail Accessories,Adjacent,258,18,805.78,44.77,4980,1.0,0.9504,0.0
+2026-05-01,Post-campaign,Ultra Glide 15,Footwear,427,16,1845.83,115.36,239,0.6134,0.42,0.3125
+2026-05-01,Post-campaign,Sense Ride,Footwear,606,27,3424.45,126.83,1303,0.9263,0.8671,0.0741
+2026-05-01,Post-campaign,Genesis,Footwear,368,16,2223.75,138.98,1611,0.9147,0.9076,0.125
+2026-05-01,Post-campaign,Speedcross,Footwear,393,22,2552.09,116.0,1569,0.9332,0.9175,0.1818
+2026-05-01,Post-campaign,Trail Apparel,Adjacent,345,21,1464.48,69.74,3897,0.949,0.9402,0.0952
+2026-05-01,Post-campaign,Trail Accessories,Adjacent,268,18,852.88,47.38,4962,0.9399,0.9652,0.0556
+2026-05-02,Post-campaign,Ultra Glide 15,Footwear,409,12,1534.72,127.89,227,0.61,0.42,0.25
+2026-05-02,Post-campaign,Sense Ride,Footwear,616,32,4125.97,128.94,1271,0.9186,0.9181,0.0625
+2026-05-02,Post-campaign,Genesis,Footwear,497,21,2871.82,136.75,1590,0.9395,0.8808,0.1429
+2026-05-02,Post-campaign,Speedcross,Footwear,556,25,3015.88,120.64,1544,0.9449,0.9534,0.16
+2026-05-02,Post-campaign,Trail Apparel,Adjacent,284,18,1348.31,74.91,3879,0.9413,0.9265,0.0556
+2026-05-02,Post-campaign,Trail Accessories,Adjacent,200,13,574.16,44.17,4949,1.0,0.9713,0.0
+2026-05-03,Post-campaign,Ultra Glide 15,Footwear,337,14,2019.39,144.24,213,0.61,0.42,0.1429
+2026-05-03,Post-campaign,Sense Ride,Footwear,434,20,2548.11,127.41,1251,0.943,0.9283,0.05
+2026-05-03,Post-campaign,Genesis,Footwear,290,14,2072.75,148.05,1576,0.9177,0.9121,0.0714
+2026-05-03,Post-campaign,Speedcross,Footwear,524,25,3282.64,131.31,1519,0.9585,0.941,0.08
+2026-05-03,Post-campaign,Trail Apparel,Adjacent,421,23,1570.81,68.3,3856,0.9765,0.8799,0.087
+2026-05-03,Post-campaign,Trail Accessories,Adjacent,325,23,1096.0,47.65,4926,0.9723,0.9274,0.0
+2026-05-04,Post-campaign,Ultra Glide 15,Footwear,302,10,1694.77,169.48,203,0.61,0.42,0.0
+2026-05-04,Post-campaign,Sense Ride,Footwear,387,20,2183.52,109.18,1231,0.9435,0.9656,0.2
+2026-05-04,Post-campaign,Genesis,Footwear,518,23,3537.35,153.8,1553,0.8965,0.9136,0.0435
+2026-05-04,Post-campaign,Speedcross,Footwear,427,21,2805.38,133.59,1498,0.9601,0.9745,0.0952
+2026-05-04,Post-campaign,Trail Apparel,Adjacent,275,17,1145.04,67.36,3839,0.9595,0.9381,0.0588
+2026-05-04,Post-campaign,Trail Accessories,Adjacent,278,21,845.95,40.28,4905,0.9555,0.9371,0.0
+2026-05-05,Post-campaign,Ultra Glide 15,Footwear,377,12,2049.48,170.79,191,0.61,0.42,0.0
+2026-05-05,Post-campaign,Sense Ride,Footwear,610,33,4034.96,122.27,1198,0.9622,0.9462,0.0909
+2026-05-05,Post-campaign,Genesis,Footwear,443,18,2405.94,133.66,1535,0.9783,0.899,0.1667
+2026-05-05,Post-campaign,Speedcross,Footwear,425,22,2178.85,99.04,1476,0.9532,0.9337,0.3182
+2026-05-05,Post-campaign,Trail Apparel,Adjacent,259,18,1134.67,63.04,3821,0.9727,0.9139,0.1111
+2026-05-05,Post-campaign,Trail Accessories,Adjacent,184,13,610.2,46.94,4892,0.9705,0.9746,0.0
+2026-05-06,Post-campaign,Ultra Glide 15,Footwear,340,14,2372.63,169.47,177,0.61,0.42,0.0
+2026-05-06,Post-campaign,Sense Ride,Footwear,597,29,3845.76,132.61,1169,0.9678,0.8855,0.0345
+2026-05-06,Post-campaign,Genesis,Footwear,485,23,3284.9,142.82,1512,0.9209,0.8957,0.087
+2026-05-06,Post-campaign,Speedcross,Footwear,398,20,2853.74,142.69,1456,0.9635,0.9323,0.0
+2026-05-06,Post-campaign,Trail Apparel,Adjacent,231,14,964.81,68.91,3807,0.9781,0.93,0.0714
+2026-05-06,Post-campaign,Trail Accessories,Adjacent,354,22,1067.5,48.52,4870,0.985,0.9451,0.0
+2026-05-07,Post-campaign,Ultra Glide 15,Footwear,367,9,1322.4,146.93,168,0.61,0.42,0.1111
+2026-05-07,Post-campaign,Sense Ride,Footwear,414,21,2739.04,130.43,1148,0.9345,0.9149,0.0476
+2026-05-07,Post-campaign,Genesis,Footwear,437,22,3195.19,145.24,1490,0.9276,0.917,0.0909
+2026-05-07,Post-campaign,Speedcross,Footwear,441,24,3239.71,134.99,1432,0.9348,0.9448,0.0833
+2026-05-07,Post-campaign,Trail Apparel,Adjacent,364,22,1687.42,76.7,3785,0.9547,0.974,0.0455
+2026-05-07,Post-campaign,Trail Accessories,Adjacent,303,21,917.93,43.71,4849,0.9648,0.962,0.0
+2026-05-08,Post-campaign,Ultra Glide 15,Footwear,387,20,2186.49,109.32,148,0.61,0.42,0.35
+2026-05-08,Post-campaign,Sense Ride,Footwear,551,33,4230.66,128.2,1115,0.9487,0.9277,0.0606
+2026-05-08,Post-campaign,Genesis,Footwear,438,21,3166.39,150.78,1469,0.9186,0.8907,0.0476
+2026-05-08,Post-campaign,Speedcross,Footwear,351,18,2431.98,135.11,1414,0.9517,0.9073,0.0556
+2026-05-08,Post-campaign,Trail Apparel,Adjacent,456,24,1496.27,62.34,3761,0.9539,0.936,0.0833
+2026-05-08,Post-campaign,Trail Accessories,Adjacent,182,12,461.81,38.48,4837,0.9675,0.9134,0.0
+2026-05-09,Post-campaign,Ultra Glide 15,Footwear,444,13,1863.08,143.31,135,0.61,0.42,0.1538
+2026-05-09,Post-campaign,Sense Ride,Footwear,661,31,3949.97,127.42,1084,0.9236,0.9129,0.0645
+2026-05-09,Post-campaign,Genesis,Footwear,413,19,2972.33,156.44,1450,0.9421,0.9187,0.0526
+2026-05-09,Post-campaign,Speedcross,Footwear,501,24,2807.7,116.99,1390,0.9472,0.9533,0.2083
+2026-05-09,Post-campaign,Trail Apparel,Adjacent,352,20,1415.28,70.76,3741,0.9305,0.9015,0.0
+2026-05-09,Post-campaign,Trail Accessories,Adjacent,241,18,753.16,41.84,4819,0.9644,0.9593,0.0
+2026-05-10,Post-campaign,Ultra Glide 15,Footwear,363,13,1854.33,142.64,122,0.61,0.42,0.1538
+2026-05-10,Post-campaign,Sense Ride,Footwear,370,19,2165.58,113.98,1065,0.9598,0.93,0.1579
+2026-05-10,Post-campaign,Genesis,Footwear,385,18,2695.89,149.77,1432,0.9312,0.9188,0.0556
+2026-05-10,Post-campaign,Speedcross,Footwear,464,23,3041.37,132.23,1367,0.9718,0.9047,0.087
+2026-05-10,Post-campaign,Trail Apparel,Adjacent,337,20,1223.38,61.17,3721,0.959,0.8785,0.05
+2026-05-10,Post-campaign,Trail Accessories,Adjacent,285,19,848.28,44.65,4800,0.984,0.9179,0.0
