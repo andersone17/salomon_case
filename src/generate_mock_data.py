@@ -9,10 +9,11 @@ import pandas as pd
 
 
 SEED = 20260714
-START_DATE = pd.Timestamp("2026-01-05")
-END_DATE = pd.Timestamp("2026-05-10")
-CAMPAIGN_START = pd.Timestamp("2026-03-02")
-CAMPAIGN_END = pd.Timestamp("2026-04-12")
+START_DATE = pd.Timestamp("2026-03-01")
+END_DATE = pd.Timestamp("2026-07-20")
+CAMPAIGN_START = pd.Timestamp("2026-06-01")
+CAMPAIGN_END = pd.Timestamp("2026-06-20")
+EARLY_ACTIVE_DAYS = 10
 OUTPUT_DIR = Path(__file__).resolve().parents[1] / "data" / "mock"
 
 FRANCHISES = [
@@ -78,12 +79,12 @@ def build_daily_context(rng: np.random.Generator) -> pd.DataFrame:
             target_conversion = 0.0232 + 0.000002 * day_number
         elif phase == "Active campaign":
             active_day = (date - CAMPAIGN_START).days
-            if active_day < 21:
+            if active_day < EARLY_ACTIVE_DAYS:
                 traffic_multiplier = 1.24
                 target_conversion = 0.0253 - 0.00002 * active_day
             else:
                 traffic_multiplier = 1.19
-                target_conversion = 0.0248 - 0.00013 * (active_day - 20)
+                target_conversion = 0.0248 - 0.00018 * (active_day - (EARLY_ACTIVE_DAYS - 1))
         else:
             post_day = (date - CAMPAIGN_END).days
             traffic_multiplier = 1.12 - 0.0022 * min(post_day, 28)
@@ -115,9 +116,9 @@ def product_weights(date: pd.Timestamp) -> np.ndarray:
         active_day = (date - CAMPAIGN_START).days
         early = np.array([0.33, 0.17, 0.14, 0.18, 0.11, 0.07])
         late = np.array([0.24, 0.20, 0.17, 0.21, 0.11, 0.07])
-        if active_day < 21:
+        if active_day < EARLY_ACTIVE_DAYS:
             return early
-        blend = min((active_day - 20) / 21, 1.0)
+        blend = min((active_day - (EARLY_ACTIVE_DAYS - 1)) / EARLY_ACTIVE_DAYS, 1.0)
         return early * (1 - blend) + late * blend
 
     return np.array([0.13, 0.25, 0.20, 0.22, 0.12, 0.08])
@@ -128,7 +129,7 @@ def new_customer_probability(product: str, phase: str, date: pd.Timestamp) -> fl
     if product == "Ultra Glide 15":
         if phase == "Active campaign":
             active_day = (date - CAMPAIGN_START).days
-            return 0.42 if active_day < 21 else 0.39
+            return 0.42 if active_day < EARLY_ACTIVE_DAYS else 0.39
         return 0.34
     if CATEGORIES[product] == "Footwear":
         return 0.25 if phase == "Pre-campaign" else 0.28 if phase == "Active campaign" else 0.24
@@ -350,9 +351,9 @@ def product_availability(
         if date < CAMPAIGN_START:
             return 0.0, 0.0
         launch_day = (date - CAMPAIGN_START).days
-        in_stock_rate = 0.985 - 0.0085 * max(launch_day - 14, 0)
-        core_availability = 0.975 - 0.0175 * max(launch_day - 14, 0)
-        if 28 <= launch_day <= 34:
+        in_stock_rate = 0.985 - 0.018 * max(launch_day - (EARLY_ACTIVE_DAYS - 1), 0)
+        core_availability = 0.975 - 0.035 * max(launch_day - (EARLY_ACTIVE_DAYS - 1), 0)
+        if 14 <= launch_day <= 17:
             in_stock_rate += 0.035
             core_availability += 0.05
         in_stock_rate += rng.normal(0, 0.012)
@@ -381,7 +382,7 @@ def product_sessions(
         if date < CAMPAIGN_START:
             return 0
         launch_day = (date - CAMPAIGN_START).days
-        if launch_day < 21:
+        if launch_day < EARLY_ACTIVE_DAYS:
             base = 760
         elif date <= CAMPAIGN_END:
             base = 710
@@ -418,9 +419,9 @@ def build_product_daily(
     for day in daily_context.itertuples(index=False):
         day_orders = internal_orders[internal_orders["order_date"] == day.date]
         if day.date == CAMPAIGN_START:
-            inventory["Ultra Glide 15"] = 1750
-        if day.date == CAMPAIGN_START + pd.Timedelta(days=28):
-            inventory["Ultra Glide 15"] += 180
+            inventory["Ultra Glide 15"] = 1250
+        if day.date == CAMPAIGN_START + pd.Timedelta(days=14):
+            inventory["Ultra Glide 15"] += 120
         if (day.date - START_DATE).days in {35, 70, 105}:
             for product in FRANCHISES[1:]:
                 inventory[product] += 450 if CATEGORIES[product] == "Footwear" else 600
@@ -473,12 +474,12 @@ def channel_spend(
         base = {"Pre-campaign": 80, "Active campaign": 125, "Post-campaign": 90}[phase]
     elif channel == "Paid Social":
         if phase == "Active campaign":
-            base = 2300 if (date - CAMPAIGN_START).days < 21 else 2150
+            base = 2300 if (date - CAMPAIGN_START).days < EARLY_ACTIVE_DAYS else 2150
         else:
             base = 620 if phase == "Pre-campaign" else 900
     elif channel == "Paid Search":
         if phase == "Active campaign":
-            base = 980 if (date - CAMPAIGN_START).days < 21 else 920
+            base = 980 if (date - CAMPAIGN_START).days < EARLY_ACTIVE_DAYS else 920
         else:
             base = 560 if phase == "Pre-campaign" else 640
     elif channel == "Affiliate":
@@ -538,7 +539,7 @@ def build_channel_daily(
             if (
                 channel in {"Paid Social", "Paid Search"}
                 and day.campaign_phase == "Active campaign"
-                and (day.date - CAMPAIGN_START).days >= 21
+                and (day.date - CAMPAIGN_START).days >= EARLY_ACTIVE_DAYS
             ):
                 conversion_target *= 0.82
             sessions = max(
@@ -594,7 +595,11 @@ def contact_reason_weights(product: str, order_date: pd.Timestamp) -> tuple[list
     ]
 
     if product == "Ultra Glide 15":
-        late_campaign = CAMPAIGN_START + pd.Timedelta(days=21) <= order_date <= CAMPAIGN_END
+        late_campaign = (
+            CAMPAIGN_START + pd.Timedelta(days=EARLY_ACTIVE_DAYS)
+            <= order_date
+            <= CAMPAIGN_END
+        )
         weights = [0.30, 0.21, 0.23 if late_campaign else 0.15, 0.09, 0.07, 0.09, 0.01]
         if late_campaign:
             weights[1] -= 0.05
@@ -604,6 +609,10 @@ def contact_reason_weights(product: str, order_date: pd.Timestamp) -> tuple[list
         weights = [0.235, 0.19, 0.11, 0.17, 0.13, 0.15, 0.015]
     else:
         weights = [0.08, 0.14, 0.12, 0.27, 0.20, 0.17, 0.02]
+
+    if CAMPAIGN_START <= order_date <= CAMPAIGN_END:
+        active_adjustment = np.array([0.11, 0.04, 0.04, -0.05, -0.07, -0.07, 0.0])
+        weights = (np.array(weights) + active_adjustment).tolist()
 
     normalized = np.array(weights) / np.sum(weights)
     return reasons, normalized.tolist()
@@ -749,14 +758,34 @@ def validate_data(
     assert channel.groupby("channel")["new_customers"].sum().idxmax() == "Paid Social"
 
     early_active = ecommerce[
-        ecommerce["date"].between(CAMPAIGN_START, CAMPAIGN_START + pd.Timedelta(days=20))
+        ecommerce["date"].between(
+            CAMPAIGN_START, CAMPAIGN_START + pd.Timedelta(days=EARLY_ACTIVE_DAYS - 1)
+        )
     ]
     late_active = ecommerce[
-        ecommerce["date"].between(CAMPAIGN_START + pd.Timedelta(days=21), CAMPAIGN_END)
+        ecommerce["date"].between(
+            CAMPAIGN_START + pd.Timedelta(days=EARLY_ACTIVE_DAYS), CAMPAIGN_END
+        )
     ]
     pre = ecommerce[ecommerce["campaign_phase"] == "Pre-campaign"]
     assert early_active["conversion_rate"].mean() > pre["conversion_rate"].mean()
     assert late_active["conversion_rate"].mean() < early_active["conversion_rate"].mean()
+
+    phase_days = ecommerce.groupby("campaign_phase")["date"].nunique()
+    service_rates = (
+        services.groupby(["contact_reason", "campaign_phase"])
+        .size()
+        .unstack(fill_value=0)
+        .div(phase_days, axis="columns")
+    )
+    service_lift = service_rates["Active campaign"] / service_rates["Pre-campaign"] - 1
+    expected_top_reasons = {
+        "Sizing and fit",
+        "Product comparison",
+        "Inventory availability",
+    }
+    assert set(service_lift.nlargest(3).index) == expected_top_reasons
+    assert (services["contact_reason"] == "Product defect").mean() < 0.03
 
 
 def write_outputs(

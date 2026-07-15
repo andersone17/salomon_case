@@ -2,7 +2,7 @@
 
 This directory contains fictional, reproducible data for the Salomon Ultra Glide 15 North America eCommerce campaign case. It does not represent actual Salomon customers or business performance.
 
-All files cover January 5 through May 10, 2026. The pre-campaign period is January 5–March 1, the active campaign is March 2–April 12, and the post-campaign period is April 13–May 10.
+All files cover March 1 through July 20, 2026. The pre-campaign period is March 1–May 31, the active campaign is June 1–20, and the post-campaign period is June 21–July 20.
 
 ## Files
 

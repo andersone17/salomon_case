@@ -31,9 +31,9 @@ The data should contain realistic variation, uncertainty, and conflicting signal
 
 | Period | Start Date | End Date |
 |---|---|---|
-| Pre-Campaign Baseline | 2026-01-05 | 2026-03-01 |
-| Active Campaign | 2026-03-02 | 2026-04-12 |
-| Post-Campaign Period | 2026-04-13 | 2026-05-10 |
+| Pre-Campaign Baseline | 2026-03-01 | 2026-05-31 |
+| Active Campaign | 2026-06-01 | 2026-06-20 |
+| Post-Campaign Period | 2026-06-21 | 2026-07-20 |
 
 The generated data should use daily granularity unless another level is specified.
 
@@ -93,7 +93,7 @@ These ranges are directional and should not be implemented as perfectly fixed ou
 The Ultra Glide 15 should:
 
 - Sell primarily at full price.
-- Generate strong demand during the first three campaign weeks.
+- Generate strongest demand during the first half of the 20-day campaign.
 - Experience declining availability in core sizes.
 - Perform most strongly in men's sizes 9 through 11.
 - Perform most strongly in women's sizes 7 through 9.
@@ -185,7 +185,7 @@ Inventory availability should be one of the campaign's primary constraints.
 The generated data should reflect:
 
 - Healthy inventory at launch.
-- Rapid depletion of core sizes beginning during campaign week three.
+- Rapid depletion of core sizes during the latter half of the campaign.
 - Higher availability in fringe sizes.
 - Continued paid-media traffic to products with declining availability.
 - Lower conversion when fewer sizes are available.

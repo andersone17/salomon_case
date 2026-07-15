@@ -25,11 +25,11 @@ These assumptions are intended to make the synthetic analysis internally consist
 
 | Period | Start Date | End Date |
 |---|---|---|
-| Pre-Campaign Baseline | 2026-01-05 | 2026-03-01 |
-| Active Campaign | 2026-03-02 | 2026-04-12 |
-| Post-Campaign Period | 2026-04-13 | 2026-05-10 |
+| Pre-Campaign Baseline | 2026-03-01 | 2026-05-31 |
+| Active Campaign | 2026-06-01 | 2026-06-20 |
+| Post-Campaign Period | 2026-06-21 | 2026-07-20 |
 
-The active campaign lasts six weeks.
+The active campaign lasts 20 days.
 
 The pre-campaign period is used to estimate expected performance without the campaign.
 

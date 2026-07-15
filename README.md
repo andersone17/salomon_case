@@ -63,9 +63,9 @@ The campaign will be evaluated across three periods:
 
 | Period | Dates | Purpose |
 |---|---|---|
-| Pre-Campaign Baseline | March 1-June 15, 2026 | Establish normal sales, traffic, conversion, and channel-performance patterns |
-| Active Campaign | June 16-July 1, 2026 | Measure launch-period performance and campaign impact |
-| Post-Campaign Period | July 2-August 15, 2026 | Measure demand persistence, delayed conversions, returns, and repeat purchases |
+| Pre-Campaign Baseline | March 1-May 31, 2026 | Establish normal sales, traffic, conversion, and channel-performance patterns |
+| Active Campaign | June 1-June 20, 2026 | Measure launch-period performance and campaign impact |
+| Post-Campaign Period | June 21-July 20, 2026 | Measure demand persistence, delayed conversions, returns, and repeat purchases |
 
 Need to generate daily data across all channels and product categories to support the analysis of incremental revenue, cannibalization, and halo effects, etc...
 
