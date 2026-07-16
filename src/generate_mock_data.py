@@ -17,7 +17,7 @@ EARLY_ACTIVE_DAYS = 10
 OUTPUT_DIR = Path(__file__).resolve().parents[1] / "data" / "mock"
 
 FRANCHISES = [
-    "Ultra Glide 15",
+    "Vestal Pro",
     "Sense Ride",
     "Genesis",
     "Speedcross",
@@ -36,7 +36,7 @@ CHANNELS = [
 ]
 
 CATEGORIES = {
-    "Ultra Glide 15": "Footwear",
+    "Vestal Pro": "Footwear",
     "Sense Ride": "Footwear",
     "Genesis": "Footwear",
     "Speedcross": "Footwear",
@@ -45,7 +45,7 @@ CATEGORIES = {
 }
 
 PRICE_ASSUMPTIONS = {
-    "Ultra Glide 15": (170.0, 3.5),
+    "Vestal Pro": (170.0, 3.5),
     "Sense Ride": (140.0, 9.0),
     "Genesis": (165.0, 10.0),
     "Speedcross": (150.0, 10.0),
@@ -126,7 +126,7 @@ def product_weights(date: pd.Timestamp) -> np.ndarray:
 
 def new_customer_probability(product: str, phase: str, date: pd.Timestamp) -> float:
     """Set product- and phase-specific first-purchase probabilities."""
-    if product == "Ultra Glide 15":
+    if product == "Vestal Pro":
         if phase == "Active campaign":
             active_day = (date - CAMPAIGN_START).days
             return 0.42 if active_day < EARLY_ACTIVE_DAYS else 0.39
@@ -153,8 +153,8 @@ def draw_price(product: str, rng: np.random.Generator) -> float:
 
 
 def discount_rate(product: str, rng: np.random.Generator) -> float:
-    """Apply small markdowns while keeping Ultra Glide 15 near full price."""
-    if product == "Ultra Glide 15":
+    """Apply small markdowns while keeping Vestal Pro near full price."""
+    if product == "Vestal Pro":
         return float(rng.choice([0.0, 0.0, 0.0, 0.02]))
     if CATEGORIES[product] == "Footwear":
         return float(np.clip(rng.normal(0.025, 0.018), 0.0, 0.08))
@@ -164,7 +164,7 @@ def discount_rate(product: str, rng: np.random.Generator) -> float:
 def return_probability(product: str, phase: str) -> float:
     """Return an observed return probability for the primary item."""
     base = {
-        "Ultra Glide 15": 0.135,
+        "Vestal Pro": 0.135,
         "Sense Ride": 0.085,
         "Genesis": 0.090,
         "Speedcross": 0.080,
@@ -182,7 +182,7 @@ def attach_probability(product: str, customer_type: str, phase: str) -> float:
     base = 0.10 if customer_type == "New" else 0.20
     if phase == "Post-campaign":
         base += 0.03 if customer_type == "New" else 0.05
-    if product == "Ultra Glide 15":
+    if product == "Vestal Pro":
         base += 0.02
     return base
 
@@ -236,8 +236,8 @@ def build_customer_orders(
 
             acquisition_channel = draw_channel(customer_type, rng)
             if customer_type == "New":
-                email_probability = 0.76 if product == "Ultra Glide 15" else 0.66
-                sms_probability = 0.48 if product == "Ultra Glide 15" else 0.36
+                email_probability = 0.76 if product == "Vestal Pro" else 0.66
+                sms_probability = 0.48 if product == "Vestal Pro" else 0.36
             else:
                 email_probability = 0.52
                 sms_probability = 0.25
@@ -347,7 +347,7 @@ def product_availability(
     product: str, date: pd.Timestamp, rng: np.random.Generator
 ) -> tuple[float, float]:
     """Create product availability rates, including launch constraints."""
-    if product == "Ultra Glide 15":
+    if product == "Vestal Pro":
         if date < CAMPAIGN_START:
             return 0.0, 0.0
         launch_day = (date - CAMPAIGN_START).days
@@ -378,7 +378,7 @@ def product_sessions(
     product: str, date: pd.Timestamp, units_sold: int, rng: np.random.Generator
 ) -> int:
     """Generate product traffic while allowing inventory to weaken conversion."""
-    if product == "Ultra Glide 15":
+    if product == "Vestal Pro":
         if date < CAMPAIGN_START:
             return 0
         launch_day = (date - CAMPAIGN_START).days
@@ -407,7 +407,7 @@ def build_product_daily(
 ) -> pd.DataFrame:
     """Create daily franchise performance and inventory rows."""
     inventory = {
-        "Ultra Glide 15": 0,
+        "Vestal Pro": 0,
         "Sense Ride": 2800,
         "Genesis": 2400,
         "Speedcross": 2700,
@@ -419,9 +419,9 @@ def build_product_daily(
     for day in daily_context.itertuples(index=False):
         day_orders = internal_orders[internal_orders["order_date"] == day.date]
         if day.date == CAMPAIGN_START:
-            inventory["Ultra Glide 15"] = 1250
+            inventory["Vestal Pro"] = 1250
         if day.date == CAMPAIGN_START + pd.Timedelta(days=14):
-            inventory["Ultra Glide 15"] += 120
+            inventory["Vestal Pro"] += 120
         if (day.date - START_DATE).days in {35, 70, 105}:
             for product in FRANCHISES[1:]:
                 inventory[product] += 450 if CATEGORIES[product] == "Footwear" else 600
@@ -594,7 +594,7 @@ def contact_reason_weights(product: str, order_date: pd.Timestamp) -> tuple[list
         "Product defect",
     ]
 
-    if product == "Ultra Glide 15":
+    if product == "Vestal Pro":
         late_campaign = (
             CAMPAIGN_START + pd.Timedelta(days=EARLY_ACTIVE_DAYS)
             <= order_date
@@ -631,7 +631,7 @@ def build_consumer_services(
             "Active campaign": 0.064,
             "Post-campaign": 0.054,
         }[order.campaign_phase]
-        if order.primary_product == "Ultra Glide 15":
+        if order.primary_product == "Vestal Pro":
             base_probability += 0.035
         if order.returned:
             base_probability += 0.035
@@ -741,11 +741,11 @@ def validate_data(
     assert services["order_id"].isin(orders["order_id"]).all()
     assert services["customer_id"].isin(orders["customer_id"]).all()
 
-    ultra = product[product["franchise"] == "Ultra Glide 15"]
+    ultra = product[product["franchise"] == "Vestal Pro"]
     assert (ultra.loc[ultra["campaign_phase"] == "Pre-campaign", "units_sold"] == 0).all()
     assert ultra.loc[ultra["date"] == CAMPAIGN_START, "units_sold"].iloc[0] > 0
 
-    ultra_orders = orders[orders["primary_product"] == "Ultra Glide 15"]
+    ultra_orders = orders[orders["primary_product"] == "Vestal Pro"]
     ultra_customer_types = ultra_orders.groupby("customer_id")["customer_type"].first()
     new_customer_share = (ultra_customer_types == "New").mean()
     assert 0.35 <= new_customer_share <= 0.45
@@ -825,14 +825,14 @@ def print_summary(outputs: dict[str, pd.DataFrame]) -> None:
     for phase, revenue in phase_revenue.items():
         print(f"- {phase}: ${revenue:,.2f}")
 
-    ultra = product[product["franchise"] == "Ultra Glide 15"]
+    ultra = product[product["franchise"] == "Vestal Pro"]
     print(
-        "Ultra Glide 15: "
+        "Vestal Pro: "
         f"{ultra['units_sold'].sum():,} units, ${ultra['net_revenue'].sum():,.2f} net revenue"
     )
-    ultra_orders = orders[orders["primary_product"] == "Ultra Glide 15"]
+    ultra_orders = orders[orders["primary_product"] == "Vestal Pro"]
     ultra_customer_types = ultra_orders.groupby("customer_id")["customer_type"].first()
-    print(f"Ultra Glide 15 new-customer share: {(ultra_customer_types == 'New').mean():.1%}")
+    print(f"Vestal Pro new-customer share: {(ultra_customer_types == 'New').mean():.1%}")
 
     paid = channel[channel["spend"] > 0].groupby("channel").agg(
         attributed_revenue=("attributed_revenue", "sum"), spend=("spend", "sum")

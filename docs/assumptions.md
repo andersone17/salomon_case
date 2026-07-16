@@ -2,7 +2,7 @@
 
 ## **1. Purpose**
 
-This document records the assumptions used to construct and evaluate the fictional Salomon Ultra Glide 15 campaign.
+This document records the assumptions used to construct and evaluate the fictional Salomon Vestal Pro campaign.
 
 These assumptions are intended to make the synthetic analysis internally consistent and transparent.
 
@@ -46,14 +46,14 @@ The post-campaign period is used to evaluate:
 
 ## **4. Product Assumptions**
 
-- The Ultra Glide 15 is treated as a newly launched trail-running franchise.
+- The Vestal Pro is treated as a newly launched trail-running franchise.
 - The product is sold at or near full price during the campaign.
-- The Ultra Glide 15 has men's and women's variants.
+- The Vestal Pro has men's and women's variants.
 - Each gender variant includes multiple sizes and colorways.
 - Specific core sizes generate a disproportionate share of demand.
 - Hero colorways receive greater campaign exposure and demand.
 - Existing footwear franchises remain available throughout the campaign, although availability varies by product and size.
-- The Ultra Glide 15 competes most directly with Sense Ride and Genesis.
+- The Vestal Pro competes most directly with Sense Ride and Genesis.
 - Highly specialized footwear such as Speedcross experiences less cannibalization.
 - Apparel, socks, hydration products, and trail accessories are considered adjacent categories for halo analysis.
 
@@ -65,7 +65,7 @@ Illustrative price points may include:
 
 | Product Category | Approximate Price Range |
 |---|---|
-| Ultra Glide 15 | $150 to $180 |
+| Vestal Pro | $150 to $180 |
 | Existing Trail Footwear | $130 to $200 |
 | Trail Apparel | $40 to $160 |
 | Trail Accessories | $15 to $90 |
@@ -73,7 +73,7 @@ Illustrative price points may include:
 
 Additional assumptions:
 
-- The Ultra Glide 15 launches without a major promotional discount.
+- The Vestal Pro launches without a major promotional discount.
 - Existing footwear may contain a small amount of markdown activity.
 - Accessories and apparel may have higher percentage margins than footwear.
 - Returns reduce net revenue and gross margin.
@@ -90,7 +90,7 @@ Additional assumptions:
 - CRM produces the highest share of existing-customer orders.
 - Existing customers generally have higher conversion rates and average order values.
 - New customers generally have lower first-order average order values.
-- New Ultra Glide 15 customers have relatively strong email and SMS opt-in rates.
+- New Vestal Pro customers have relatively strong email and SMS opt-in rates.
 - The observation window is too short to measure complete customer lifetime value.
 - Repeat-purchase behavior is treated as an early indicator of future customer value.
 
@@ -161,7 +161,7 @@ Additional assumptions:
 
 ## **10. Cannibalization Assumptions**
 
-- Some Ultra Glide 15 customers would have purchased another Salomon trail shoe if the Ultra Glide 15 had not launched.
+- Some Vestal Pro customers would have purchased another Salomon trail shoe if the Vestal Pro had not launched.
 - Cannibalization is strongest among products with similar use cases and consumer positioning.
 - Cannibalization should be estimated after accounting for:
   - Inventory
@@ -186,7 +186,7 @@ Additional assumptions:
 - Attach-rate growth is treated as one indicator of halo demand.
 - Adjacent-category sales growth must be compared against an expected baseline.
 - Not all adjacent-category growth should be attributed to the campaign.
-- A positive halo effect should remain smaller than direct Ultra Glide 15 revenue.
+- A positive halo effect should remain smaller than direct Vestal Pro revenue.
 
 ---
 
@@ -209,7 +209,7 @@ Additional assumptions:
 
 - Returns occur after a delay from the original transaction.
 - The post-campaign period captures only part of the final return volume.
-- Ultra Glide 15 return rates are modestly higher than the existing trail-footwear average.
+- Vestal Pro return rates are modestly higher than the existing trail-footwear average.
 - Sizing and fit are the most common return reasons.
 - Product-defect returns remain uncommon.
 - Net revenue should reflect known returns within the observation window.

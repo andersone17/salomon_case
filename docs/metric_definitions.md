@@ -2,7 +2,7 @@
 
 ## **1. Purpose**
 
-This document defines the primary metrics used to evaluate the Salomon Ultra Glide 15 campaign.
+This document defines the primary metrics used to evaluate the Salomon Vestal Pro campaign.
 
 All reporting and analysis should use these definitions consistently.
 
@@ -50,7 +50,7 @@ Attributed revenue is not assumed to equal incremental revenue.
 
 ### **Halo Revenue**
 
-Estimated incremental revenue generated across products or categories other than the Ultra Glide 15 because of campaign exposure.
+Estimated incremental revenue generated across products or categories other than the Vestal Pro because of campaign exposure.
 
     Halo Revenue =
     Observed Adjacent-Category Revenue
@@ -58,7 +58,7 @@ Estimated incremental revenue generated across products or categories other than
 
 ### **Cannibalized Revenue**
 
-Estimated revenue shifted from existing Salomon footwear franchises to the Ultra Glide 15.
+Estimated revenue shifted from existing Salomon footwear franchises to the Vestal Pro.
 
     Cannibalized Revenue =
     Expected Existing-Franchise Revenue
@@ -469,8 +469,8 @@ Estimated contribution margin generated beyond the no-campaign counterfactual.
 The estimated share of new-franchise sales shifted from existing Salomon products.
 
     Cannibalization Rate =
-    Estimated Cannibalized Ultra Glide 15 Sales
-    / Total Ultra Glide 15 Sales
+    Estimated Cannibalized Vestal Pro Sales
+    / Total Vestal Pro Sales
 
 ### **Halo Rate**
 

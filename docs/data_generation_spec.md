@@ -2,7 +2,7 @@
 
 ## **1. Purpose**
 
-This document defines the intended business story and statistical relationships underlying the synthetic data for the Salomon Ultra Glide 15 campaign case study.
+This document defines the intended business story and statistical relationships underlying the synthetic data for the Salomon Vestal Pro campaign case study.
 
 The synthetic data should support a realistic evaluation of campaign performance across:
 
@@ -21,7 +21,7 @@ The data should contain realistic variation, uncertainty, and conflicting signal
 
 ## **2. Campaign Overview**
 
-**Campaign:** Salomon Ultra Glide 15 Trail Shoe Launch
+**Campaign:** Salomon Vestal Pro Trail Shoe Launch
 
 **Market:** North America eCommerce
 
@@ -41,7 +41,7 @@ The generated data should use daily granularity unless another level is specifie
 
 ## **3. Intended Executive Conclusion**
 
-The Ultra Glide 15 campaign should appear successful based on topline revenue and attributed channel reporting.
+The Vestal Pro campaign should appear successful based on topline revenue and attributed channel reporting.
 
 A deeper analysis should reveal a more nuanced conclusion:
 
@@ -61,12 +61,12 @@ The generated data should reflect the following outcomes:
 
 - Total North America eCommerce revenue increases during the active campaign.
 - Footwear revenue grows more strongly than total eCommerce revenue.
-- Ultra Glide 15 revenue exceeds the internal launch target.
+- Vestal Pro revenue exceeds the internal launch target.
 - Observed campaign-period revenue exceeds the estimated no-campaign counterfactual.
 - Conversion improves during the first half of the campaign.
 - Conversion weakens later as core sizes and colorways become constrained.
 - Average order value increases modestly because of footwear purchases and accessory attachment.
-- Gross margin remains healthy because the Ultra Glide 15 launches at full price.
+- Gross margin remains healthy because the Vestal Pro launches at full price.
 - Net revenue growth is lower than gross revenue growth because of returns.
 
 ### **Approximate Intended Ranges**
@@ -75,7 +75,7 @@ The generated data should reflect the following outcomes:
 |---|---|
 | Total eCommerce net-revenue lift vs. baseline | 12% to 20% |
 | Footwear net-revenue lift vs. baseline | 20% to 35% |
-| Ultra Glide 15 performance vs. launch target | 5% to 15% above target |
+| Vestal Pro performance vs. launch target | 5% to 15% above target |
 | Estimated incremental revenue vs. counterfactual | 10% to 18% |
 | Site conversion-rate change | 5% to 12% relative increase |
 | Average-order-value change | 3% to 8% increase |
@@ -88,9 +88,9 @@ These ranges are directional and should not be implemented as perfectly fixed ou
 
 ## **5. Product and Merchandising Story**
 
-### **5.1 Ultra Glide 15**
+### **5.1 Vestal Pro**
 
-The Ultra Glide 15 should:
+The Vestal Pro should:
 
 - Sell primarily at full price.
 - Generate strongest demand during the first half of the 20-day campaign.
@@ -111,7 +111,7 @@ The synthetic assortment should include existing trail footwear franchises such 
 - Thundercross
 - Pulsar Trail
 
-The Ultra Glide 15 should partially cannibalize sales from the most similar products.
+The Vestal Pro should partially cannibalize sales from the most similar products.
 
 Cannibalization should be strongest for:
 
@@ -127,7 +127,7 @@ Cannibalization should be weaker for:
 
 ### **5.3 Intended Cannibalization Range**
 
-Approximately 15% to 25% of Ultra Glide 15 unit sales should represent demand shifted from existing Salomon footwear franchises.
+Approximately 15% to 25% of Vestal Pro unit sales should represent demand shifted from existing Salomon footwear franchises.
 
 Cannibalization should not eliminate the incremental value of the launch.
 
@@ -189,7 +189,7 @@ The generated data should reflect:
 - Higher availability in fringe sizes.
 - Continued paid-media traffic to products with declining availability.
 - Lower conversion when fewer sizes are available.
-- Increased use of site search and alternative-product navigation when Ultra Glide 15 sizes are unavailable.
+- Increased use of site search and alternative-product navigation when Vestal Pro sizes are unavailable.
 - Some substitution into existing trail footwear products.
 - Estimated lost demand caused by unavailable sizes.
 
@@ -290,7 +290,7 @@ Organic and direct revenue should not be directly assigned campaign spend.
 
 ## **9. Site Merchandising Story**
 
-The Ultra Glide 15 should receive:
+The Vestal Pro should receive:
 
 - Homepage placement
 - Trail-running category-page placement
@@ -305,7 +305,7 @@ The site data should show:
 - Strong product-detail-page click-through.
 - Lower conversion among consumers who encounter unavailable sizes.
 - Higher conversion among visitors who use product-comparison or fit content.
-- Increased navigation to related footwear when the Ultra Glide 15 is unavailable.
+- Increased navigation to related footwear when the Vestal Pro is unavailable.
 - Some mobile conversion friction relative to desktop.
 
 Site merchandising should support the campaign but should not fully overcome inventory constraints.
@@ -340,7 +340,7 @@ Existing customers should generally have:
 
 ### **Intended New-Customer Range**
 
-Approximately 35% to 45% of Ultra Glide 15 purchasers should be new Salomon eCommerce customers.
+Approximately 35% to 45% of Vestal Pro purchasers should be new Salomon eCommerce customers.
 
 ---
 
@@ -360,7 +360,7 @@ The data should show:
 - Paid social generating the greatest number of new leads.
 - CRM converting existing database members efficiently.
 - Some overlap between email, SMS, paid-media, and direct audiences.
-- Higher opt-in rates among new Ultra Glide 15 customers than the site average.
+- Higher opt-in rates among new Vestal Pro customers than the site average.
 
 ---
 
@@ -383,7 +383,7 @@ The largest campaign-specific increases should come from:
 
 - Sizing and fit questions
 - Core-size availability questions
-- Comparisons between Ultra Glide 15 and existing trail shoes
+- Comparisons between Vestal Pro and existing trail shoes
 - Return inquiries
 
 Product defects should remain relatively uncommon.
@@ -398,7 +398,7 @@ Consumer Services data should provide an early warning that:
 
 ## **13. Returns Story**
 
-The Ultra Glide 15 return rate should be modestly higher than the existing trail-footwear average.
+The Vestal Pro return rate should be modestly higher than the existing trail-footwear average.
 
 Return reasons should include:
 
@@ -410,7 +410,7 @@ Return reasons should include:
 - Changed mind
 - Product defect
 
-Sizing-related reasons should account for the greatest share of Ultra Glide 15 returns.
+Sizing-related reasons should account for the greatest share of Vestal Pro returns.
 
 Returns should occur with a realistic delay after purchase rather than on the original transaction date.
 

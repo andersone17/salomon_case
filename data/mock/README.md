@@ -1,6 +1,6 @@
 # Mock Campaign Data
 
-This directory contains fictional, reproducible data for the Salomon Ultra Glide 15 North America eCommerce campaign case. It does not represent actual Salomon customers or business performance.
+This directory contains fictional, reproducible data for the Salomon Vestal Pro North America eCommerce campaign case. It does not represent actual Salomon customers or business performance.
 
 All files cover March 1 through July 20, 2026. The pre-campaign period is March 1–May 31, the active campaign is June 1–20, and the post-campaign period is June 21–July 20.
 
@@ -14,7 +14,7 @@ All files cover March 1 through July 20, 2026. The pre-campaign period is March 
 
 ## Intended Relationships
 
-The mock data includes a successful launch lift, meaningful new-customer acquisition, moderate adjacent-category halo demand, partial declines in Sense Ride and Genesis, and late-campaign Ultra Glide 15 availability constraints. Email is designed to be the most revenue-efficient channel, SMS has strong conversion at lower volume, and Paid Social drives the most new customers at a higher cost. Service contacts rise during launch, especially for sizing, comparison, and inventory questions, while defects remain uncommon.
+The mock data includes a successful launch lift, meaningful new-customer acquisition, moderate adjacent-category halo demand, partial declines in Sense Ride and Genesis, and late-campaign Vestal Pro availability constraints. Email is designed to be the most revenue-efficient channel, SMS has strong conversion at lower volume, and Paid Social drives the most new customers at a higher cost. Service contacts rise during launch, especially for sizing, comparison, and inventory questions, while defects remain uncommon.
 
 Channel attribution intentionally does not reconcile perfectly to total eCommerce revenue because channel reports apply overlapping attribution credit. Returns are recognized against order revenue, and recent return rates should be treated as partially mature.
 
