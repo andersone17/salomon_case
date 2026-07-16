@@ -2,6 +2,23 @@
 ## **Edward Anderson**
 
 ---
+## Local Notebook Environment
+
+The repository uses a uv-managed, project-local Python environment that VS Code is configured to select automatically:
+
+```bash
+uv sync
+```
+
+`uv sync` reads `pyproject.toml` and `uv.lock`, installs Python 3.12 when needed, and creates `.venv`. After opening the repository in VS Code, select `.venv/bin/python` if prompted for a Python interpreter or notebook kernel.
+
+To refresh the presentation-ready campaign charts, execute the analysis notebook. It writes five high-resolution PNGs to `plots/`:
+
+```bash
+uv run python -m jupyter nbconvert --execute --to notebook --inplace notebooks/03_campaign_analysis.ipynb
+```
+
+---
 ## **1. Campaign**
 
 **Campaign:** Salomon Vestal Pro Trail Shoe Launch
