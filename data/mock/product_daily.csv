@@ -1,853 +1,853 @@
 date,campaign_phase,franchise,category,sessions,units_sold,net_revenue,average_selling_price,inventory_ats,in_stock_rate,core_size_availability,return_rate
 2026-03-01,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-01,Pre-campaign,Sense Ride,Footwear,613,26,3319.5,127.67,2774,0.9666,0.9468,0.0769
-2026-03-01,Pre-campaign,Genesis,Footwear,540,22,2772.92,126.04,2378,0.917,0.8954,0.2273
+2026-03-01,Pre-campaign,Ultra Glide,Footwear,540,22,2772.92,126.04,2378,0.917,0.8954,0.2273
 2026-03-01,Pre-campaign,Speedcross,Footwear,416,19,2640.85,138.99,2681,0.9786,0.9623,0.0526
 2026-03-01,Pre-campaign,Trail Apparel,Adjacent,251,15,907.62,60.51,4385,0.9616,0.9301,0.2
 2026-03-01,Pre-campaign,Trail Accessories,Adjacent,142,10,435.09,43.51,5190,0.9655,0.9682,0.0
 2026-03-02,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-02,Pre-campaign,Sense Ride,Footwear,497,22,2873.04,130.59,2752,0.9529,0.9257,0.0455
-2026-03-02,Pre-campaign,Genesis,Footwear,404,21,3194.52,152.12,2357,0.965,0.8857,0.0476
+2026-03-02,Pre-campaign,Ultra Glide,Footwear,404,21,3194.52,152.12,2357,0.965,0.8857,0.0476
 2026-03-02,Pre-campaign,Speedcross,Footwear,414,21,3053.48,145.4,2660,0.9529,0.9559,0.0
 2026-03-02,Pre-campaign,Trail Apparel,Adjacent,204,11,852.95,77.54,4374,0.9728,0.9189,0.0
 2026-03-02,Pre-campaign,Trail Accessories,Adjacent,226,16,580.99,36.31,5174,0.9672,0.9168,0.125
 2026-03-03,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-03,Pre-campaign,Sense Ride,Footwear,739,32,3930.52,122.83,2720,0.9488,0.909,0.0938
-2026-03-03,Pre-campaign,Genesis,Footwear,488,23,3348.28,145.58,2334,0.9257,0.9387,0.1304
+2026-03-03,Pre-campaign,Ultra Glide,Footwear,488,23,3348.28,145.58,2334,0.9257,0.9387,0.1304
 2026-03-03,Pre-campaign,Speedcross,Footwear,359,18,2245.62,124.76,2642,0.9502,0.9641,0.1667
 2026-03-03,Pre-campaign,Trail Apparel,Adjacent,292,19,1550.29,81.59,4355,0.9642,0.9434,0.0526
 2026-03-03,Pre-campaign,Trail Accessories,Adjacent,263,18,853.8,47.43,5156,0.9857,0.9365,0.0
 2026-03-04,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-04,Pre-campaign,Sense Ride,Footwear,372,17,2167.91,127.52,2703,0.9435,0.9141,0.0588
-2026-03-04,Pre-campaign,Genesis,Footwear,312,14,2066.5,147.61,2320,0.899,0.9122,0.0714
+2026-03-04,Pre-campaign,Ultra Glide,Footwear,312,14,2066.5,147.61,2320,0.899,0.9122,0.0714
 2026-03-04,Pre-campaign,Speedcross,Footwear,397,23,3255.23,141.53,2619,0.9487,0.9632,0.0435
 2026-03-04,Pre-campaign,Trail Apparel,Adjacent,350,19,1306.92,68.79,4336,0.957,0.9054,0.0526
 2026-03-04,Pre-campaign,Trail Accessories,Adjacent,349,23,1031.28,44.84,5133,0.9502,0.9651,0.0435
 2026-03-05,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-05,Pre-campaign,Sense Ride,Footwear,459,23,3067.74,133.38,2680,0.961,0.8858,0.0435
-2026-03-05,Pre-campaign,Genesis,Footwear,478,23,3539.43,153.89,2297,0.9156,0.8696,0.0435
+2026-03-05,Pre-campaign,Ultra Glide,Footwear,478,23,3539.43,153.89,2297,0.9156,0.8696,0.0435
 2026-03-05,Pre-campaign,Speedcross,Footwear,225,12,1628.63,135.72,2607,0.9544,0.9179,0.0833
 2026-03-05,Pre-campaign,Trail Apparel,Adjacent,251,16,1108.24,69.27,4320,0.9639,0.9116,0.0625
 2026-03-05,Pre-campaign,Trail Accessories,Adjacent,131,10,425.24,42.52,5123,1.0,0.9235,0.0
 2026-03-06,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-06,Pre-campaign,Sense Ride,Footwear,476,24,3170.68,132.11,2656,0.9555,0.864,0.0417
-2026-03-06,Pre-campaign,Genesis,Footwear,426,18,2410.81,133.93,2279,0.9237,0.8935,0.1667
+2026-03-06,Pre-campaign,Ultra Glide,Footwear,426,18,2410.81,133.93,2279,0.9237,0.8935,0.1667
 2026-03-06,Pre-campaign,Speedcross,Footwear,414,22,2825.97,128.45,2585,0.9325,0.9651,0.1364
 2026-03-06,Pre-campaign,Trail Apparel,Adjacent,282,18,1388.74,77.15,4302,0.9477,0.9089,0.0556
 2026-03-06,Pre-campaign,Trail Accessories,Adjacent,225,16,780.9,48.81,5107,0.9747,0.9679,0.0
 2026-03-07,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-07,Pre-campaign,Sense Ride,Footwear,583,28,3521.68,125.77,2628,0.9475,0.8956,0.0714
-2026-03-07,Pre-campaign,Genesis,Footwear,479,20,3312.29,165.61,2259,0.9376,0.86,0.0
+2026-03-07,Pre-campaign,Ultra Glide,Footwear,479,20,3312.29,165.61,2259,0.9376,0.86,0.0
 2026-03-07,Pre-campaign,Speedcross,Footwear,600,29,3959.51,136.53,2556,0.9906,0.9064,0.069
 2026-03-07,Pre-campaign,Trail Apparel,Adjacent,273,16,1173.74,73.36,4286,0.968,0.9389,0.125
 2026-03-07,Pre-campaign,Trail Accessories,Adjacent,357,24,887.18,36.97,5083,0.9202,0.9554,0.0417
 2026-03-08,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-08,Pre-campaign,Sense Ride,Footwear,469,23,2504.53,108.89,2605,0.9667,0.8936,0.2174
-2026-03-08,Pre-campaign,Genesis,Footwear,490,24,3536.62,147.36,2235,0.9517,0.8684,0.0833
+2026-03-08,Pre-campaign,Ultra Glide,Footwear,490,24,3536.62,147.36,2235,0.9517,0.8684,0.0833
 2026-03-08,Pre-campaign,Speedcross,Footwear,327,17,2192.97,129.0,2539,0.9844,0.9357,0.1176
 2026-03-08,Pre-campaign,Trail Apparel,Adjacent,275,15,932.53,62.17,4271,0.9323,0.8984,0.0
 2026-03-08,Pre-campaign,Trail Accessories,Adjacent,272,18,817.17,45.4,5065,0.957,0.9891,0.0556
 2026-03-09,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-09,Pre-campaign,Sense Ride,Footwear,326,16,2195.2,137.2,2589,0.9737,0.8682,0.0
-2026-03-09,Pre-campaign,Genesis,Footwear,315,14,2127.27,151.95,2221,0.9306,0.8751,0.0714
+2026-03-09,Pre-campaign,Ultra Glide,Footwear,315,14,2127.27,151.95,2221,0.9306,0.8751,0.0714
 2026-03-09,Pre-campaign,Speedcross,Footwear,313,16,2126.67,132.92,2523,0.9576,0.9457,0.0625
 2026-03-09,Pre-campaign,Trail Apparel,Adjacent,350,21,1440.1,68.58,4250,0.9471,0.9389,0.1429
 2026-03-09,Pre-campaign,Trail Accessories,Adjacent,230,16,675.22,42.2,5049,0.9592,0.9664,0.0
 2026-03-10,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-10,Pre-campaign,Sense Ride,Footwear,470,23,2910.7,126.55,2566,0.9032,0.9082,0.087
-2026-03-10,Pre-campaign,Genesis,Footwear,439,20,3248.64,162.43,2201,0.9365,0.9163,0.0
+2026-03-10,Pre-campaign,Ultra Glide,Footwear,439,20,3248.64,162.43,2201,0.9365,0.9163,0.0
 2026-03-10,Pre-campaign,Speedcross,Footwear,397,19,2326.95,122.47,2504,0.9764,0.9555,0.1579
 2026-03-10,Pre-campaign,Trail Apparel,Adjacent,206,13,985.28,75.79,4237,0.9304,0.9233,0.0769
 2026-03-10,Pre-campaign,Trail Accessories,Adjacent,199,13,590.16,45.4,5036,0.9324,0.9394,0.0
 2026-03-11,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-11,Pre-campaign,Sense Ride,Footwear,568,28,3427.32,122.4,2538,0.9321,0.9468,0.1071
-2026-03-11,Pre-campaign,Genesis,Footwear,377,18,2594.85,144.16,2183,0.9332,0.91,0.1111
+2026-03-11,Pre-campaign,Ultra Glide,Footwear,377,18,2594.85,144.16,2183,0.9332,0.91,0.1111
 2026-03-11,Pre-campaign,Speedcross,Footwear,398,18,2618.57,145.48,2486,0.9345,0.9159,0.0
 2026-03-11,Pre-campaign,Trail Apparel,Adjacent,232,15,1070.55,71.37,4222,0.9328,0.9051,0.0
 2026-03-11,Pre-campaign,Trail Accessories,Adjacent,203,15,677.7,45.18,5021,0.9632,0.9742,0.0
 2026-03-12,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-12,Pre-campaign,Sense Ride,Footwear,537,27,3518.9,130.33,2511,0.9402,0.8745,0.037
-2026-03-12,Pre-campaign,Genesis,Footwear,578,25,3399.11,135.96,2158,0.9519,0.8637,0.16
+2026-03-12,Pre-campaign,Ultra Glide,Footwear,578,25,3399.11,135.96,2158,0.9519,0.8637,0.16
 2026-03-12,Pre-campaign,Speedcross,Footwear,262,14,1833.99,131.0,2472,0.9613,0.9756,0.0714
 2026-03-12,Pre-campaign,Trail Apparel,Adjacent,323,20,1424.72,71.24,4202,0.9516,0.9591,0.0
 2026-03-12,Pre-campaign,Trail Accessories,Adjacent,194,14,686.52,49.04,5007,0.9666,0.9343,0.0
 2026-03-13,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-13,Pre-campaign,Sense Ride,Footwear,582,29,3865.03,133.28,2482,0.9342,0.8696,0.0345
-2026-03-13,Pre-campaign,Genesis,Footwear,421,21,2877.69,137.03,2137,0.9042,0.8739,0.1429
+2026-03-13,Pre-campaign,Ultra Glide,Footwear,421,21,2877.69,137.03,2137,0.9042,0.8739,0.1429
 2026-03-13,Pre-campaign,Speedcross,Footwear,386,19,2145.52,112.92,2453,0.9665,0.9407,0.2105
 2026-03-13,Pre-campaign,Trail Apparel,Adjacent,381,23,1646.45,71.58,4179,0.9417,0.9584,0.087
 2026-03-13,Pre-campaign,Trail Accessories,Adjacent,203,15,663.33,44.22,4992,0.9776,0.9335,0.0
 2026-03-14,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-14,Pre-campaign,Sense Ride,Footwear,598,31,3716.89,119.9,2451,0.9413,0.9502,0.129
-2026-03-14,Pre-campaign,Genesis,Footwear,489,25,3332.77,133.31,2112,0.898,0.938,0.16
+2026-03-14,Pre-campaign,Ultra Glide,Footwear,489,25,3332.77,133.31,2112,0.898,0.938,0.16
 2026-03-14,Pre-campaign,Speedcross,Footwear,429,20,2915.0,145.75,2433,0.9953,0.9853,0.0
 2026-03-14,Pre-campaign,Trail Apparel,Adjacent,386,20,1475.87,73.79,4159,0.9511,0.9424,0.05
 2026-03-14,Pre-campaign,Trail Accessories,Adjacent,255,19,875.84,46.1,4973,0.9684,0.9472,0.0
 2026-03-15,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-15,Pre-campaign,Sense Ride,Footwear,428,21,2676.19,127.44,2430,0.9427,0.9361,0.0476
-2026-03-15,Pre-campaign,Genesis,Footwear,252,11,1575.31,143.21,2101,0.9412,0.8863,0.0909
+2026-03-15,Pre-campaign,Ultra Glide,Footwear,252,11,1575.31,143.21,2101,0.9412,0.8863,0.0909
 2026-03-15,Pre-campaign,Speedcross,Footwear,377,20,2345.98,117.3,2413,0.9433,0.903,0.2
 2026-03-15,Pre-campaign,Trail Apparel,Adjacent,553,31,2213.87,71.42,4128,0.9289,0.9152,0.0
 2026-03-15,Pre-campaign,Trail Accessories,Adjacent,91,6,288.32,48.05,4967,0.9613,0.9501,0.0
 2026-03-16,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-16,Pre-campaign,Sense Ride,Footwear,451,25,3083.61,123.34,2405,0.9447,0.928,0.12
-2026-03-16,Pre-campaign,Genesis,Footwear,396,18,2126.55,118.14,2083,0.9316,0.9301,0.2778
+2026-03-16,Pre-campaign,Ultra Glide,Footwear,396,18,2126.55,118.14,2083,0.9316,0.9301,0.2778
 2026-03-16,Pre-campaign,Speedcross,Footwear,279,14,2005.44,143.25,2399,0.9421,0.9412,0.0
 2026-03-16,Pre-campaign,Trail Apparel,Adjacent,270,15,987.57,65.84,4113,0.9549,0.9324,0.0667
 2026-03-16,Pre-campaign,Trail Accessories,Adjacent,180,13,530.61,40.82,4954,0.9663,0.9497,0.0
 2026-03-17,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-17,Pre-campaign,Sense Ride,Footwear,343,20,2701.12,135.06,2385,0.953,0.8755,0.0
-2026-03-17,Pre-campaign,Genesis,Footwear,371,16,1925.03,120.31,2067,0.8931,0.9287,0.25
+2026-03-17,Pre-campaign,Ultra Glide,Footwear,371,16,1925.03,120.31,2067,0.8931,0.9287,0.25
 2026-03-17,Pre-campaign,Speedcross,Footwear,348,21,2615.14,124.53,2378,0.9477,0.9361,0.1429
 2026-03-17,Pre-campaign,Trail Apparel,Adjacent,324,19,1550.62,81.61,4094,0.9809,0.9266,0.0526
 2026-03-17,Pre-campaign,Trail Accessories,Adjacent,99,7,288.56,41.22,4947,0.9985,0.9422,0.0
 2026-03-18,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-18,Pre-campaign,Sense Ride,Footwear,383,20,2743.8,137.19,2365,0.8936,0.9047,0.0
-2026-03-18,Pre-campaign,Genesis,Footwear,416,19,2887.82,151.99,2048,0.9346,0.921,0.0526
+2026-03-18,Pre-campaign,Ultra Glide,Footwear,416,19,2887.82,151.99,2048,0.9346,0.921,0.0526
 2026-03-18,Pre-campaign,Speedcross,Footwear,517,27,3891.97,144.15,2351,0.9764,0.9596,0.037
 2026-03-18,Pre-campaign,Trail Apparel,Adjacent,352,21,1530.46,72.88,4073,0.943,0.9132,0.0476
 2026-03-18,Pre-campaign,Trail Accessories,Adjacent,189,13,548.34,42.18,4934,0.9848,0.9779,0.0
 2026-03-19,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-19,Pre-campaign,Sense Ride,Footwear,424,21,2549.29,121.39,2344,0.9532,0.8995,0.0952
-2026-03-19,Pre-campaign,Genesis,Footwear,433,20,3091.02,154.55,2028,0.9353,0.9528,0.05
+2026-03-19,Pre-campaign,Ultra Glide,Footwear,433,20,3091.02,154.55,2028,0.9353,0.9528,0.05
 2026-03-19,Pre-campaign,Speedcross,Footwear,434,23,3384.63,147.16,2328,0.9847,0.9668,0.0
 2026-03-19,Pre-campaign,Trail Apparel,Adjacent,324,18,1221.9,67.88,4055,0.9176,0.8943,0.1111
 2026-03-19,Pre-campaign,Trail Accessories,Adjacent,251,18,787.88,43.77,4916,0.9705,0.9558,0.0
 2026-03-20,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-20,Pre-campaign,Sense Ride,Footwear,699,37,4445.56,120.15,2307,0.9302,0.9448,0.1351
-2026-03-20,Pre-campaign,Genesis,Footwear,307,17,2655.94,156.23,2011,0.9658,0.9056,0.0588
+2026-03-20,Pre-campaign,Ultra Glide,Footwear,307,17,2655.94,156.23,2011,0.9658,0.9056,0.0588
 2026-03-20,Pre-campaign,Speedcross,Footwear,436,21,2874.25,136.87,2307,0.9274,0.9619,0.0476
 2026-03-20,Pre-campaign,Trail Apparel,Adjacent,288,17,1207.75,71.04,4038,0.9481,0.9512,0.0
 2026-03-20,Pre-campaign,Trail Accessories,Adjacent,247,19,677.7,35.67,4897,0.9639,0.9439,0.0526
 2026-03-21,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-21,Pre-campaign,Sense Ride,Footwear,832,41,5165.45,125.99,2266,0.9108,0.8957,0.0732
-2026-03-21,Pre-campaign,Genesis,Footwear,426,20,2702.45,135.12,1991,0.9149,0.8896,0.15
+2026-03-21,Pre-campaign,Ultra Glide,Footwear,426,20,2702.45,135.12,1991,0.9149,0.8896,0.15
 2026-03-21,Pre-campaign,Speedcross,Footwear,433,20,2795.68,139.78,2287,0.9411,0.9309,0.05
 2026-03-21,Pre-campaign,Trail Apparel,Adjacent,300,18,1363.29,75.74,4020,0.9641,0.8709,0.0
 2026-03-21,Pre-campaign,Trail Accessories,Adjacent,270,20,940.33,47.02,4877,0.9828,0.9627,0.0
 2026-03-22,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-22,Pre-campaign,Sense Ride,Footwear,424,24,3228.55,134.52,2242,0.933,0.9538,0.0
-2026-03-22,Pre-campaign,Genesis,Footwear,513,24,3675.48,153.15,1967,0.9459,0.8935,0.0417
+2026-03-22,Pre-campaign,Ultra Glide,Footwear,513,24,3675.48,153.15,1967,0.9459,0.8935,0.0417
 2026-03-22,Pre-campaign,Speedcross,Footwear,352,19,2772.44,145.92,2268,0.9463,0.9509,0.0
 2026-03-22,Pre-campaign,Trail Apparel,Adjacent,292,18,1094.57,60.81,4002,0.9524,0.8979,0.1667
 2026-03-22,Pre-campaign,Trail Accessories,Adjacent,305,21,871.88,41.52,4856,0.9868,0.9371,0.0476
 2026-03-23,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-23,Pre-campaign,Sense Ride,Footwear,423,23,2989.63,129.98,2219,0.9257,0.8982,0.0435
-2026-03-23,Pre-campaign,Genesis,Footwear,455,20,3077.97,153.9,1947,0.9327,0.9096,0.05
+2026-03-23,Pre-campaign,Ultra Glide,Footwear,455,20,3077.97,153.9,1947,0.9327,0.9096,0.05
 2026-03-23,Pre-campaign,Speedcross,Footwear,603,24,3095.94,129.0,2244,0.9864,0.9672,0.125
 2026-03-23,Pre-campaign,Trail Apparel,Adjacent,245,15,954.03,63.6,3987,0.9292,0.9306,0.1333
 2026-03-23,Pre-campaign,Trail Accessories,Adjacent,194,15,701.97,46.8,4841,0.9605,0.9112,0.0
 2026-03-24,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-24,Pre-campaign,Sense Ride,Footwear,513,23,2447.74,106.42,2196,0.9461,0.9291,0.2174
-2026-03-24,Pre-campaign,Genesis,Footwear,508,23,3394.92,147.61,1924,0.9326,0.9135,0.087
+2026-03-24,Pre-campaign,Ultra Glide,Footwear,508,23,3394.92,147.61,1924,0.9326,0.9135,0.087
 2026-03-24,Pre-campaign,Speedcross,Footwear,362,17,1945.82,114.46,2227,0.9565,0.9423,0.2353
 2026-03-24,Pre-campaign,Trail Apparel,Adjacent,296,17,1330.71,78.28,3970,0.9542,0.8988,0.0
 2026-03-24,Pre-campaign,Trail Accessories,Adjacent,174,12,575.17,47.93,4829,0.9515,0.9838,0.0
 2026-03-25,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-25,Pre-campaign,Sense Ride,Footwear,473,24,2989.61,124.57,2172,0.9459,0.9156,0.0833
-2026-03-25,Pre-campaign,Genesis,Footwear,348,15,2457.99,163.87,1909,0.917,0.9073,0.0
+2026-03-25,Pre-campaign,Ultra Glide,Footwear,348,15,2457.99,163.87,1909,0.917,0.9073,0.0
 2026-03-25,Pre-campaign,Speedcross,Footwear,600,26,3732.73,143.57,2201,0.9409,0.9356,0.0385
 2026-03-25,Pre-campaign,Trail Apparel,Adjacent,330,20,1495.95,74.8,3950,0.9334,0.9036,0.05
 2026-03-25,Pre-campaign,Trail Accessories,Adjacent,207,14,684.1,48.86,4815,0.9891,0.9621,0.0
 2026-03-26,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-26,Pre-campaign,Sense Ride,Footwear,325,17,2321.82,136.58,2155,0.9382,0.9157,0.0
-2026-03-26,Pre-campaign,Genesis,Footwear,461,23,3427.07,149.0,1886,0.9226,0.9022,0.087
+2026-03-26,Pre-campaign,Ultra Glide,Footwear,461,23,3427.07,149.0,1886,0.9226,0.9022,0.087
 2026-03-26,Pre-campaign,Speedcross,Footwear,389,21,2763.17,131.58,2180,0.9531,0.9312,0.0952
 2026-03-26,Pre-campaign,Trail Apparel,Adjacent,294,18,1298.84,72.16,3932,0.9739,0.9164,0.0
 2026-03-26,Pre-campaign,Trail Accessories,Adjacent,206,13,541.02,41.62,4802,0.9738,0.953,0.0
 2026-03-27,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-27,Pre-campaign,Sense Ride,Footwear,465,25,3271.84,130.87,2130,0.9583,0.9263,0.04
-2026-03-27,Pre-campaign,Genesis,Footwear,606,26,3733.19,143.58,1860,0.8991,0.873,0.1154
+2026-03-27,Pre-campaign,Ultra Glide,Footwear,606,26,3733.19,143.58,1860,0.8991,0.873,0.1154
 2026-03-27,Pre-campaign,Speedcross,Footwear,368,19,2781.51,146.4,2161,0.9597,0.9491,0.0
 2026-03-27,Pre-campaign,Trail Apparel,Adjacent,313,20,1432.74,71.64,3912,0.9502,0.9084,0.05
 2026-03-27,Pre-campaign,Trail Accessories,Adjacent,201,13,529.37,40.72,4789,0.9774,0.9526,0.0
 2026-03-28,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-28,Pre-campaign,Sense Ride,Footwear,461,24,3123.44,130.14,2106,0.9826,0.9168,0.0417
-2026-03-28,Pre-campaign,Genesis,Footwear,588,28,4366.42,155.94,1832,0.9141,0.9057,0.0357
+2026-03-28,Pre-campaign,Ultra Glide,Footwear,588,28,4366.42,155.94,1832,0.9141,0.9057,0.0357
 2026-03-28,Pre-campaign,Speedcross,Footwear,392,25,3337.72,133.51,2136,0.9778,0.9554,0.08
 2026-03-28,Pre-campaign,Trail Apparel,Adjacent,366,22,1385.75,62.99,3890,0.9252,0.9322,0.1818
 2026-03-28,Pre-campaign,Trail Accessories,Adjacent,322,20,880.0,44.0,4769,0.9712,0.9467,0.0
 2026-03-29,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-29,Pre-campaign,Sense Ride,Footwear,626,29,3799.64,131.02,2077,0.948,0.8835,0.0345
-2026-03-29,Pre-campaign,Genesis,Footwear,498,23,2836.51,123.33,1809,0.916,0.8961,0.2174
+2026-03-29,Pre-campaign,Ultra Glide,Footwear,498,23,2836.51,123.33,1809,0.916,0.8961,0.2174
 2026-03-29,Pre-campaign,Speedcross,Footwear,366,19,2495.96,131.37,2117,0.9451,0.9227,0.1053
 2026-03-29,Pre-campaign,Trail Apparel,Adjacent,342,20,1470.45,73.52,3870,0.9691,0.9363,0.0
 2026-03-29,Pre-campaign,Trail Accessories,Adjacent,297,21,856.52,40.79,4748,0.9471,0.9892,0.0476
 2026-03-30,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-30,Pre-campaign,Sense Ride,Footwear,520,25,2977.07,119.08,2052,0.9797,0.9277,0.12
-2026-03-30,Pre-campaign,Genesis,Footwear,459,21,3301.44,157.21,1788,0.9382,0.915,0.0
+2026-03-30,Pre-campaign,Ultra Glide,Footwear,459,21,3301.44,157.21,1788,0.9382,0.915,0.0
 2026-03-30,Pre-campaign,Speedcross,Footwear,272,13,1742.16,134.01,2104,0.95,0.9424,0.0769
 2026-03-30,Pre-campaign,Trail Apparel,Adjacent,245,15,1140.67,76.04,3855,0.9378,0.9269,0.0
 2026-03-30,Pre-campaign,Trail Accessories,Adjacent,283,21,1024.28,48.78,4727,0.9904,0.9434,0.0
 2026-03-31,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-03-31,Pre-campaign,Sense Ride,Footwear,385,19,2458.45,129.39,2033,0.9349,0.8639,0.0526
-2026-03-31,Pre-campaign,Genesis,Footwear,260,13,2069.34,159.18,1775,0.9232,0.903,0.0
+2026-03-31,Pre-campaign,Ultra Glide,Footwear,260,13,2069.34,159.18,1775,0.9232,0.903,0.0
 2026-03-31,Pre-campaign,Speedcross,Footwear,413,21,2834.28,134.97,2083,0.9479,0.9425,0.0952
 2026-03-31,Pre-campaign,Trail Apparel,Adjacent,361,22,1729.64,78.62,3833,0.9652,0.9288,0.0455
 2026-03-31,Pre-campaign,Trail Accessories,Adjacent,163,12,522.24,43.52,4715,0.9566,0.9115,0.0833
 2026-04-01,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-01,Pre-campaign,Sense Ride,Footwear,551,28,3454.25,123.37,2005,0.9673,0.9327,0.1071
-2026-04-01,Pre-campaign,Genesis,Footwear,524,24,3354.0,139.75,1751,0.9138,0.9251,0.125
+2026-04-01,Pre-campaign,Ultra Glide,Footwear,524,24,3354.0,139.75,1751,0.9138,0.9251,0.125
 2026-04-01,Pre-campaign,Speedcross,Footwear,418,19,2539.13,133.64,2064,0.9861,0.9595,0.0526
 2026-04-01,Pre-campaign,Trail Apparel,Adjacent,244,17,1226.85,72.17,3816,0.9698,0.9339,0.0
 2026-04-01,Pre-campaign,Trail Accessories,Adjacent,180,12,472.22,39.35,4703,0.9879,0.9346,0.0
 2026-04-02,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-02,Pre-campaign,Sense Ride,Footwear,675,31,3806.1,122.78,1974,0.9441,0.9079,0.0968
-2026-04-02,Pre-campaign,Genesis,Footwear,332,14,1856.79,132.63,1737,0.9421,0.9073,0.1429
+2026-04-02,Pre-campaign,Ultra Glide,Footwear,332,14,1856.79,132.63,1737,0.9421,0.9073,0.1429
 2026-04-02,Pre-campaign,Speedcross,Footwear,514,26,3042.42,117.02,2038,0.9769,0.959,0.1923
 2026-04-02,Pre-campaign,Trail Apparel,Adjacent,194,12,770.61,64.22,3804,0.921,0.9257,0.1667
 2026-04-02,Pre-campaign,Trail Accessories,Adjacent,327,23,1033.23,44.92,4680,0.9636,0.9538,0.0
 2026-04-03,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-03,Pre-campaign,Sense Ride,Footwear,547,28,3406.18,121.65,1946,0.9637,0.8481,0.1071
-2026-04-03,Pre-campaign,Genesis,Footwear,510,22,2875.39,130.7,1715,0.9391,0.8706,0.1818
+2026-04-03,Pre-campaign,Ultra Glide,Footwear,510,22,2875.39,130.7,1715,0.9391,0.8706,0.1818
 2026-04-03,Pre-campaign,Speedcross,Footwear,392,20,2651.41,132.57,2018,0.9444,0.8959,0.1
 2026-04-03,Pre-campaign,Trail Apparel,Adjacent,367,20,1223.18,61.16,3784,0.9505,0.9502,0.1
 2026-04-03,Pre-campaign,Trail Accessories,Adjacent,169,11,582.99,53.0,4669,0.9959,0.9593,0.0
 2026-04-04,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-04,Pre-campaign,Sense Ride,Footwear,529,27,3475.02,128.7,1919,0.9419,0.908,0.037
-2026-04-04,Pre-campaign,Genesis,Footwear,491,24,3528.8,147.03,1691,0.9259,0.8888,0.0833
+2026-04-04,Pre-campaign,Ultra Glide,Footwear,491,24,3528.8,147.03,1691,0.9259,0.8888,0.0833
 2026-04-04,Pre-campaign,Speedcross,Footwear,462,24,3390.62,141.28,1994,0.9728,0.9629,0.0417
 2026-04-04,Pre-campaign,Trail Apparel,Adjacent,336,21,1623.38,77.3,3763,0.9536,0.9422,0.0476
 2026-04-04,Pre-campaign,Trail Accessories,Adjacent,215,15,695.65,46.38,4654,0.9612,0.97,0.0
 2026-04-05,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-05,Pre-campaign,Sense Ride,Footwear,708,33,3974.91,120.45,2336,0.9282,0.9209,0.1212
-2026-04-05,Pre-campaign,Genesis,Footwear,351,16,2277.4,142.34,2125,0.921,0.8888,0.125
+2026-04-05,Pre-campaign,Ultra Glide,Footwear,351,16,2277.4,142.34,2125,0.921,0.8888,0.125
 2026-04-05,Pre-campaign,Speedcross,Footwear,400,23,3048.12,132.53,2421,0.9984,1.0,0.087
 2026-04-05,Pre-campaign,Trail Apparel,Adjacent,353,20,1595.6,79.78,4343,0.9814,0.9535,0.0
 2026-04-05,Pre-campaign,Trail Accessories,Adjacent,286,18,762.74,42.37,5236,0.9871,0.9493,0.0
 2026-04-06,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-06,Pre-campaign,Sense Ride,Footwear,523,25,3338.43,133.54,2311,0.9508,0.8945,0.04
-2026-04-06,Pre-campaign,Genesis,Footwear,606,26,3450.12,132.7,2099,0.9435,0.8845,0.1923
+2026-04-06,Pre-campaign,Ultra Glide,Footwear,606,26,3450.12,132.7,2099,0.9435,0.8845,0.1923
 2026-04-06,Pre-campaign,Speedcross,Footwear,547,26,3295.82,126.76,2395,0.9656,0.9172,0.1154
 2026-04-06,Pre-campaign,Trail Apparel,Adjacent,239,14,984.03,70.29,4329,0.9731,0.9564,0.0
 2026-04-06,Pre-campaign,Trail Accessories,Adjacent,168,12,505.71,42.14,5224,0.9881,0.9254,0.0
 2026-04-07,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-07,Pre-campaign,Sense Ride,Footwear,529,27,3365.87,124.66,2284,0.9629,0.9101,0.0741
-2026-04-07,Pre-campaign,Genesis,Footwear,285,12,1794.5,149.54,2087,0.9568,0.8799,0.0833
+2026-04-07,Pre-campaign,Ultra Glide,Footwear,285,12,1794.5,149.54,2087,0.9568,0.8799,0.0833
 2026-04-07,Pre-campaign,Speedcross,Footwear,295,15,2218.1,147.87,2380,0.954,0.9593,0.0
 2026-04-07,Pre-campaign,Trail Apparel,Adjacent,289,17,1107.97,65.17,4312,0.9754,0.9168,0.0588
 2026-04-07,Pre-campaign,Trail Accessories,Adjacent,247,16,756.02,47.25,5208,0.9493,0.9764,0.0
 2026-04-08,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-08,Pre-campaign,Sense Ride,Footwear,588,27,3162.34,117.12,2257,0.9594,0.9356,0.1481
-2026-04-08,Pre-campaign,Genesis,Footwear,322,14,2112.76,150.91,2073,0.9436,0.8996,0.0714
+2026-04-08,Pre-campaign,Ultra Glide,Footwear,322,14,2112.76,150.91,2073,0.9436,0.8996,0.0714
 2026-04-08,Pre-campaign,Speedcross,Footwear,240,12,1611.5,134.29,2368,0.9412,0.9676,0.0833
 2026-04-08,Pre-campaign,Trail Apparel,Adjacent,330,19,1109.07,58.37,4293,0.9379,0.9106,0.0526
 2026-04-08,Pre-campaign,Trail Accessories,Adjacent,258,19,935.17,49.22,5189,0.9485,0.9686,0.0
 2026-04-09,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-09,Pre-campaign,Sense Ride,Footwear,483,24,3109.77,129.57,2233,0.953,0.9188,0.0417
-2026-04-09,Pre-campaign,Genesis,Footwear,398,19,3099.91,163.15,2054,0.9255,0.8897,0.0
+2026-04-09,Pre-campaign,Ultra Glide,Footwear,398,19,3099.91,163.15,2054,0.9255,0.8897,0.0
 2026-04-09,Pre-campaign,Speedcross,Footwear,534,27,3728.37,138.09,2341,0.9522,0.9298,0.037
 2026-04-09,Pre-campaign,Trail Apparel,Adjacent,196,12,822.77,68.56,4281,0.9615,0.9273,0.0833
 2026-04-09,Pre-campaign,Trail Accessories,Adjacent,365,22,1059.53,48.16,5167,0.9506,0.9493,0.0
 2026-04-10,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-10,Pre-campaign,Sense Ride,Footwear,615,29,3501.66,120.75,2204,0.9176,0.8823,0.1034
-2026-04-10,Pre-campaign,Genesis,Footwear,464,23,3499.37,152.15,2031,0.9166,0.9105,0.0435
+2026-04-10,Pre-campaign,Ultra Glide,Footwear,464,23,3499.37,152.15,2031,0.9166,0.9105,0.0435
 2026-04-10,Pre-campaign,Speedcross,Footwear,444,22,3162.86,143.77,2319,0.9152,0.8829,0.0
 2026-04-10,Pre-campaign,Trail Apparel,Adjacent,337,20,1575.44,78.77,4261,1.0,0.9003,0.05
 2026-04-10,Pre-campaign,Trail Accessories,Adjacent,199,14,590.15,42.15,5153,0.9806,0.9146,0.0
 2026-04-11,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-11,Pre-campaign,Sense Ride,Footwear,517,26,3231.47,124.29,2178,0.9522,0.9492,0.0769
-2026-04-11,Pre-campaign,Genesis,Footwear,561,28,4005.54,143.05,2003,0.9403,0.91,0.1071
+2026-04-11,Pre-campaign,Ultra Glide,Footwear,561,28,4005.54,143.05,2003,0.9403,0.91,0.1071
 2026-04-11,Pre-campaign,Speedcross,Footwear,449,23,3065.98,133.3,2296,0.9694,0.9575,0.087
 2026-04-11,Pre-campaign,Trail Apparel,Adjacent,215,14,1054.07,75.29,4247,0.9473,0.936,0.0
 2026-04-11,Pre-campaign,Trail Accessories,Adjacent,196,14,656.45,46.89,5139,0.9837,0.9147,0.0
 2026-04-12,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-12,Pre-campaign,Sense Ride,Footwear,564,31,4032.39,130.08,2147,0.9255,0.8794,0.0323
-2026-04-12,Pre-campaign,Genesis,Footwear,394,18,2563.16,142.4,1985,0.9463,0.8624,0.1111
+2026-04-12,Pre-campaign,Ultra Glide,Footwear,394,18,2563.16,142.4,1985,0.9463,0.8624,0.1111
 2026-04-12,Pre-campaign,Speedcross,Footwear,300,14,1993.58,142.4,2282,0.9608,0.8868,0.0
 2026-04-12,Pre-campaign,Trail Apparel,Adjacent,322,19,1241.45,65.34,4228,0.963,0.893,0.0526
 2026-04-12,Pre-campaign,Trail Accessories,Adjacent,266,20,826.24,41.31,5119,0.9722,0.9429,0.0
 2026-04-13,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-13,Pre-campaign,Sense Ride,Footwear,490,26,3252.93,125.11,2121,0.9496,0.9477,0.0769
-2026-04-13,Pre-campaign,Genesis,Footwear,473,24,3725.54,155.23,1961,0.9319,0.877,0.0417
+2026-04-13,Pre-campaign,Ultra Glide,Footwear,473,24,3725.54,155.23,1961,0.9319,0.877,0.0417
 2026-04-13,Pre-campaign,Speedcross,Footwear,197,11,1267.22,115.2,2271,0.9428,0.9018,0.1818
 2026-04-13,Pre-campaign,Trail Apparel,Adjacent,285,19,1474.45,77.6,4209,0.9662,0.921,0.0526
 2026-04-13,Pre-campaign,Trail Accessories,Adjacent,258,19,829.44,43.65,5100,0.9874,0.9369,0.0526
 2026-04-14,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-14,Pre-campaign,Sense Ride,Footwear,603,29,3445.85,118.82,2092,0.9458,0.8795,0.1379
-2026-04-14,Pre-campaign,Genesis,Footwear,459,19,2837.03,149.32,1942,0.948,0.9008,0.0526
+2026-04-14,Pre-campaign,Ultra Glide,Footwear,459,19,2837.03,149.32,1942,0.948,0.9008,0.0526
 2026-04-14,Pre-campaign,Speedcross,Footwear,266,14,1998.38,142.74,2257,0.9476,0.9237,0.0
 2026-04-14,Pre-campaign,Trail Apparel,Adjacent,371,23,1481.26,64.4,4186,0.9376,0.9661,0.1304
 2026-04-14,Pre-campaign,Trail Accessories,Adjacent,199,14,540.17,38.58,5086,0.9706,0.9247,0.0714
 2026-04-15,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-15,Pre-campaign,Sense Ride,Footwear,617,31,4143.75,133.67,2061,0.9543,0.9169,0.0
-2026-04-15,Pre-campaign,Genesis,Footwear,384,18,2840.73,157.82,1924,0.9402,0.8969,0.0
+2026-04-15,Pre-campaign,Ultra Glide,Footwear,384,18,2840.73,157.82,1924,0.9402,0.8969,0.0
 2026-04-15,Pre-campaign,Speedcross,Footwear,374,20,2476.69,123.83,2237,0.9432,0.9572,0.15
 2026-04-15,Pre-campaign,Trail Apparel,Adjacent,268,16,1220.43,76.28,4170,0.9788,0.9482,0.0
 2026-04-15,Pre-campaign,Trail Accessories,Adjacent,322,22,962.33,43.74,5064,0.9582,0.9226,0.0455
 2026-04-16,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-16,Pre-campaign,Sense Ride,Footwear,503,26,3232.12,124.31,2035,0.9328,0.8818,0.0769
-2026-04-16,Pre-campaign,Genesis,Footwear,506,23,3493.53,151.89,1901,0.9427,0.9422,0.0435
+2026-04-16,Pre-campaign,Ultra Glide,Footwear,506,23,3493.53,151.89,1901,0.9427,0.9422,0.0435
 2026-04-16,Pre-campaign,Speedcross,Footwear,472,24,3079.97,128.33,2213,0.9622,0.9383,0.125
 2026-04-16,Pre-campaign,Trail Apparel,Adjacent,339,20,1391.9,69.59,4150,0.9592,0.9268,0.05
 2026-04-16,Pre-campaign,Trail Accessories,Adjacent,203,13,576.89,44.38,5051,0.9674,0.9602,0.0
 2026-04-17,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-17,Pre-campaign,Sense Ride,Footwear,656,30,3876.49,129.22,2005,0.9513,0.8979,0.0667
-2026-04-17,Pre-campaign,Genesis,Footwear,362,20,2588.4,129.42,1881,0.9652,0.8755,0.2
+2026-04-17,Pre-campaign,Ultra Glide,Footwear,362,20,2588.4,129.42,1881,0.9652,0.8755,0.2
 2026-04-17,Pre-campaign,Speedcross,Footwear,178,9,1161.63,129.07,2204,0.9721,0.91,0.1111
 2026-04-17,Pre-campaign,Trail Apparel,Adjacent,422,24,1783.17,74.3,4126,0.9455,0.9344,0.0417
 2026-04-17,Pre-campaign,Trail Accessories,Adjacent,184,15,696.02,46.4,5036,0.9605,0.9387,0.0
 2026-04-18,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-18,Pre-campaign,Sense Ride,Footwear,639,34,4369.91,128.53,1971,0.9162,0.9112,0.0882
-2026-04-18,Pre-campaign,Genesis,Footwear,323,14,2110.12,150.72,1867,0.9137,0.9403,0.0714
+2026-04-18,Pre-campaign,Ultra Glide,Footwear,323,14,2110.12,150.72,1867,0.9137,0.9403,0.0714
 2026-04-18,Pre-campaign,Speedcross,Footwear,479,26,3474.18,133.62,2178,0.9901,0.94,0.0769
 2026-04-18,Pre-campaign,Trail Apparel,Adjacent,321,18,1354.74,75.26,4108,0.9455,0.9469,0.0
 2026-04-18,Pre-campaign,Trail Accessories,Adjacent,339,24,1103.71,45.99,5012,0.9834,0.9846,0.0
 2026-04-19,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-19,Pre-campaign,Sense Ride,Footwear,718,30,4023.71,134.12,1941,0.9357,0.9135,0.0
-2026-04-19,Pre-campaign,Genesis,Footwear,444,22,3049.79,138.63,1845,0.9542,0.8912,0.1364
+2026-04-19,Pre-campaign,Ultra Glide,Footwear,444,22,3049.79,138.63,1845,0.9542,0.8912,0.1364
 2026-04-19,Pre-campaign,Speedcross,Footwear,286,17,1875.67,110.33,2161,0.9599,0.9784,0.2353
 2026-04-19,Pre-campaign,Trail Apparel,Adjacent,238,14,1146.78,81.91,4094,0.9162,0.9247,0.0
 2026-04-19,Pre-campaign,Trail Accessories,Adjacent,287,17,684.78,40.28,4995,1.0,0.9275,0.0588
 2026-04-20,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-20,Pre-campaign,Sense Ride,Footwear,377,21,2562.27,122.01,1920,0.9683,0.9018,0.0952
-2026-04-20,Pre-campaign,Genesis,Footwear,461,21,3033.57,144.46,1824,0.9118,0.9242,0.0952
+2026-04-20,Pre-campaign,Ultra Glide,Footwear,461,21,3033.57,144.46,1824,0.9118,0.9242,0.0952
 2026-04-20,Pre-campaign,Speedcross,Footwear,390,18,2450.37,136.13,2143,0.9813,0.9581,0.0556
 2026-04-20,Pre-campaign,Trail Apparel,Adjacent,392,26,1598.76,61.49,4068,0.9387,0.9351,0.1538
 2026-04-20,Pre-campaign,Trail Accessories,Adjacent,164,12,455.63,37.97,4983,0.9644,0.9735,0.0833
 2026-04-21,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-21,Pre-campaign,Sense Ride,Footwear,386,22,2725.62,123.89,1898,0.9236,0.9098,0.0909
-2026-04-21,Pre-campaign,Genesis,Footwear,328,16,2414.05,150.88,1808,0.9284,0.8896,0.0625
+2026-04-21,Pre-campaign,Ultra Glide,Footwear,328,16,2414.05,150.88,1808,0.9284,0.8896,0.0625
 2026-04-21,Pre-campaign,Speedcross,Footwear,511,26,3613.34,138.97,2117,0.9464,0.9345,0.0769
 2026-04-21,Pre-campaign,Trail Apparel,Adjacent,317,20,1467.2,73.36,4048,0.958,0.9348,0.0
 2026-04-21,Pre-campaign,Trail Accessories,Adjacent,206,14,665.23,47.52,4969,0.9745,0.924,0.0
 2026-04-22,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-22,Pre-campaign,Sense Ride,Footwear,539,27,3523.15,130.49,1871,0.9101,0.9006,0.037
-2026-04-22,Pre-campaign,Genesis,Footwear,406,19,2874.51,151.29,1789,0.9368,0.9129,0.0526
+2026-04-22,Pre-campaign,Ultra Glide,Footwear,406,19,2874.51,151.29,1789,0.9368,0.9129,0.0526
 2026-04-22,Pre-campaign,Speedcross,Footwear,297,17,2353.16,138.42,2100,0.9447,0.9486,0.0588
 2026-04-22,Pre-campaign,Trail Apparel,Adjacent,309,20,1560.58,78.03,4028,0.9453,0.9451,0.05
 2026-04-22,Pre-campaign,Trail Accessories,Adjacent,182,14,629.52,44.97,4955,0.9539,0.935,0.0
 2026-04-23,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-23,Pre-campaign,Sense Ride,Footwear,435,24,2707.62,112.82,1847,0.9584,0.8905,0.1667
-2026-04-23,Pre-campaign,Genesis,Footwear,450,21,3061.06,145.76,1768,0.959,0.8515,0.0952
+2026-04-23,Pre-campaign,Ultra Glide,Footwear,450,21,3061.06,145.76,1768,0.959,0.8515,0.0952
 2026-04-23,Pre-campaign,Speedcross,Footwear,219,11,1470.83,133.71,2089,0.9791,0.9169,0.0909
 2026-04-23,Pre-campaign,Trail Apparel,Adjacent,435,24,1702.78,70.95,4004,0.9488,0.8903,0.0417
 2026-04-23,Pre-campaign,Trail Accessories,Adjacent,264,16,682.75,42.67,4939,0.9772,0.9881,0.0
 2026-04-24,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-24,Pre-campaign,Sense Ride,Footwear,707,34,4182.96,123.03,1813,0.9235,0.9316,0.0882
-2026-04-24,Pre-campaign,Genesis,Footwear,430,21,2890.96,137.66,1747,0.9683,0.8988,0.1429
+2026-04-24,Pre-campaign,Ultra Glide,Footwear,430,21,2890.96,137.66,1747,0.9683,0.8988,0.1429
 2026-04-24,Pre-campaign,Speedcross,Footwear,414,20,2225.84,111.29,2069,0.9796,0.9513,0.25
 2026-04-24,Pre-campaign,Trail Apparel,Adjacent,383,23,1626.42,70.71,3981,0.9522,0.9341,0.087
 2026-04-24,Pre-campaign,Trail Accessories,Adjacent,295,19,858.67,45.19,4920,0.977,0.9669,0.0
 2026-04-25,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-25,Pre-campaign,Sense Ride,Footwear,625,28,3115.35,111.26,1785,0.9649,0.8863,0.1786
-2026-04-25,Pre-campaign,Genesis,Footwear,521,24,3588.12,149.5,1723,0.9532,0.9205,0.0833
+2026-04-25,Pre-campaign,Ultra Glide,Footwear,521,24,3588.12,149.5,1723,0.9532,0.9205,0.0833
 2026-04-25,Pre-campaign,Speedcross,Footwear,498,25,3368.1,134.72,2044,1.0,0.9507,0.08
 2026-04-25,Pre-campaign,Trail Apparel,Adjacent,260,17,1439.27,84.66,3964,0.9338,0.9255,0.0
 2026-04-25,Pre-campaign,Trail Accessories,Adjacent,283,19,832.65,43.82,4901,0.9994,0.9476,0.0
 2026-04-26,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-26,Pre-campaign,Sense Ride,Footwear,657,29,3497.91,120.62,1756,0.9271,0.971,0.1034
-2026-04-26,Pre-campaign,Genesis,Footwear,614,26,3623.51,139.37,1697,0.924,0.8935,0.1538
+2026-04-26,Pre-campaign,Ultra Glide,Footwear,614,26,3623.51,139.37,1697,0.924,0.8935,0.1538
 2026-04-26,Pre-campaign,Speedcross,Footwear,525,23,3394.06,147.57,2021,0.9651,0.9201,0.0
 2026-04-26,Pre-campaign,Trail Apparel,Adjacent,297,18,1380.97,76.72,3946,0.9174,0.9068,0.0
 2026-04-26,Pre-campaign,Trail Accessories,Adjacent,210,15,566.7,37.78,4886,0.9658,0.9259,0.0667
 2026-04-27,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-27,Pre-campaign,Sense Ride,Footwear,362,18,2043.57,113.53,1738,0.9493,0.9088,0.1667
-2026-04-27,Pre-campaign,Genesis,Footwear,523,24,3018.48,125.77,1673,0.9252,0.9091,0.2083
+2026-04-27,Pre-campaign,Ultra Glide,Footwear,523,24,3018.48,125.77,1673,0.9252,0.9091,0.2083
 2026-04-27,Pre-campaign,Speedcross,Footwear,361,19,2775.37,146.07,2002,0.9795,0.9096,0.0
 2026-04-27,Pre-campaign,Trail Apparel,Adjacent,304,19,1333.48,70.18,3927,0.9249,0.9186,0.1053
 2026-04-27,Pre-campaign,Trail Accessories,Adjacent,255,19,767.06,40.37,4867,0.968,0.9234,0.0
 2026-04-28,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-28,Pre-campaign,Sense Ride,Footwear,471,22,2886.37,131.2,1716,0.9089,0.9274,0.0455
-2026-04-28,Pre-campaign,Genesis,Footwear,421,21,3133.13,149.2,1652,0.9239,0.9173,0.0476
+2026-04-28,Pre-campaign,Ultra Glide,Footwear,421,21,3133.13,149.2,1652,0.9239,0.9173,0.0476
 2026-04-28,Pre-campaign,Speedcross,Footwear,507,25,3530.24,141.21,1977,0.9955,0.9554,0.04
 2026-04-28,Pre-campaign,Trail Apparel,Adjacent,219,16,1108.6,69.29,3911,0.9727,0.9223,0.0
 2026-04-28,Pre-campaign,Trail Accessories,Adjacent,191,14,589.53,42.11,4853,0.9847,0.9422,0.0
 2026-04-29,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-29,Pre-campaign,Sense Ride,Footwear,477,24,3166.09,131.92,1692,0.9336,0.8781,0.0417
-2026-04-29,Pre-campaign,Genesis,Footwear,579,26,4104.25,157.86,1626,0.894,0.9067,0.0
+2026-04-29,Pre-campaign,Ultra Glide,Footwear,579,26,4104.25,157.86,1626,0.894,0.9067,0.0
 2026-04-29,Pre-campaign,Speedcross,Footwear,365,17,2351.57,138.33,1960,0.9818,0.9118,0.0588
 2026-04-29,Pre-campaign,Trail Apparel,Adjacent,308,19,1186.45,62.44,3892,1.0,0.9132,0.1579
 2026-04-29,Pre-campaign,Trail Accessories,Adjacent,285,20,842.37,42.12,4833,0.9907,0.9722,0.05
 2026-04-30,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-04-30,Pre-campaign,Sense Ride,Footwear,613,29,3863.92,133.24,1663,0.9216,0.9091,0.0345
-2026-04-30,Pre-campaign,Genesis,Footwear,407,18,2578.71,143.26,1608,0.9721,0.9142,0.1111
+2026-04-30,Pre-campaign,Ultra Glide,Footwear,407,18,2578.71,143.26,1608,0.9721,0.9142,0.1111
 2026-04-30,Pre-campaign,Speedcross,Footwear,304,15,1891.92,126.13,1945,0.9984,0.9489,0.1333
 2026-04-30,Pre-campaign,Trail Apparel,Adjacent,359,23,1601.27,69.62,3869,0.9242,0.9661,0.087
 2026-04-30,Pre-campaign,Trail Accessories,Adjacent,189,12,552.53,46.04,4821,0.9585,0.9441,0.0
 2026-05-01,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-01,Pre-campaign,Sense Ride,Footwear,438,21,2395.98,114.09,1642,0.9748,0.9239,0.1429
-2026-05-01,Pre-campaign,Genesis,Footwear,627,28,3779.97,135.0,1580,0.9447,0.9167,0.1429
+2026-05-01,Pre-campaign,Ultra Glide,Footwear,627,28,3779.97,135.0,1580,0.9447,0.9167,0.1429
 2026-05-01,Pre-campaign,Speedcross,Footwear,478,24,3323.94,138.5,1921,0.9401,0.942,0.0417
 2026-05-01,Pre-campaign,Trail Apparel,Adjacent,129,8,471.5,58.94,3861,0.9194,0.9246,0.125
 2026-05-01,Pre-campaign,Trail Accessories,Adjacent,395,25,1071.76,42.87,4796,0.9494,0.9194,0.0
 2026-05-02,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-02,Pre-campaign,Sense Ride,Footwear,591,32,4028.89,125.9,1610,0.9545,0.9382,0.0625
-2026-05-02,Pre-campaign,Genesis,Footwear,378,15,2082.32,138.82,1565,0.9632,0.9329,0.1333
+2026-05-02,Pre-campaign,Ultra Glide,Footwear,378,15,2082.32,138.82,1565,0.9632,0.9329,0.1333
 2026-05-02,Pre-campaign,Speedcross,Footwear,527,25,3658.93,146.36,1896,0.9642,0.902,0.0
 2026-05-02,Pre-campaign,Trail Apparel,Adjacent,292,16,1015.42,63.46,3845,0.9515,0.9384,0.125
 2026-05-02,Pre-campaign,Trail Accessories,Adjacent,216,15,653.13,43.54,4781,1.0,0.9535,0.0667
 2026-05-03,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-03,Pre-campaign,Sense Ride,Footwear,650,32,4163.71,130.12,1578,0.9561,0.9128,0.0625
-2026-05-03,Pre-campaign,Genesis,Footwear,459,22,3121.6,141.89,1543,0.9318,0.9309,0.1364
+2026-05-03,Pre-campaign,Ultra Glide,Footwear,459,22,3121.6,141.89,1543,0.9318,0.9309,0.1364
 2026-05-03,Pre-campaign,Speedcross,Footwear,459,22,3082.0,140.09,1874,0.9681,0.9345,0.0455
 2026-05-03,Pre-campaign,Trail Apparel,Adjacent,247,15,1119.74,74.65,3830,0.9296,0.9429,0.0
 2026-05-03,Pre-campaign,Trail Accessories,Adjacent,319,21,933.97,44.47,4760,1.0,0.8978,0.0
 2026-05-04,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-04,Pre-campaign,Sense Ride,Footwear,447,19,1992.99,104.89,1559,0.9243,0.8981,0.2105
-2026-05-04,Pre-campaign,Genesis,Footwear,438,20,2920.52,146.03,1523,0.9318,0.899,0.1
+2026-05-04,Pre-campaign,Ultra Glide,Footwear,438,20,2920.52,146.03,1523,0.9318,0.899,0.1
 2026-05-04,Pre-campaign,Speedcross,Footwear,456,26,3610.69,138.87,1848,0.982,0.9227,0.0385
 2026-05-04,Pre-campaign,Trail Apparel,Adjacent,200,12,692.68,57.72,3818,0.9731,0.8875,0.0833
 2026-05-04,Pre-campaign,Trail Accessories,Adjacent,183,13,580.35,44.64,4747,0.9607,0.9701,0.0
 2026-05-05,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-05,Pre-campaign,Sense Ride,Footwear,479,25,3286.47,131.46,1534,0.9446,0.9268,0.04
-2026-05-05,Pre-campaign,Genesis,Footwear,393,20,2921.67,146.08,1503,0.912,0.8904,0.1
+2026-05-05,Pre-campaign,Ultra Glide,Footwear,393,20,2921.67,146.08,1503,0.912,0.8904,0.1
 2026-05-05,Pre-campaign,Speedcross,Footwear,211,12,1795.24,149.6,1836,0.9605,0.9035,0.0
 2026-05-05,Pre-campaign,Trail Apparel,Adjacent,371,21,1514.63,72.13,3797,0.9381,0.8927,0.0
 2026-05-05,Pre-campaign,Trail Accessories,Adjacent,243,16,757.29,47.33,4731,0.9569,0.9443,0.0
 2026-05-06,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-06,Pre-campaign,Sense Ride,Footwear,579,28,3480.55,124.31,1506,0.9418,0.914,0.1071
-2026-05-06,Pre-campaign,Genesis,Footwear,383,17,2443.26,143.72,1486,0.947,0.9053,0.1176
+2026-05-06,Pre-campaign,Ultra Glide,Footwear,383,17,2443.26,143.72,1486,0.947,0.9053,0.1176
 2026-05-06,Pre-campaign,Speedcross,Footwear,386,21,2826.13,134.58,1815,0.9498,0.9043,0.0952
 2026-05-06,Pre-campaign,Trail Apparel,Adjacent,298,19,1322.75,69.62,3778,0.9629,0.9118,0.1053
 2026-05-06,Pre-campaign,Trail Accessories,Adjacent,162,11,495.35,45.03,4720,0.9525,0.9631,0.0
 2026-05-07,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-07,Pre-campaign,Sense Ride,Footwear,470,23,2527.81,109.9,1483,0.9197,0.8912,0.1739
-2026-05-07,Pre-campaign,Genesis,Footwear,580,24,3787.78,157.82,1462,0.9304,0.8906,0.0
+2026-05-07,Pre-campaign,Ultra Glide,Footwear,580,24,3787.78,157.82,1462,0.9304,0.8906,0.0
 2026-05-07,Pre-campaign,Speedcross,Footwear,403,20,2779.08,138.95,1795,0.9404,0.9484,0.05
 2026-05-07,Pre-campaign,Trail Apparel,Adjacent,304,18,1338.46,74.36,3760,0.9709,0.9005,0.0
 2026-05-07,Pre-campaign,Trail Accessories,Adjacent,187,13,475.72,36.59,4707,0.9779,0.9659,0.0
 2026-05-08,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-08,Pre-campaign,Sense Ride,Footwear,539,28,3719.73,132.85,1455,0.9455,0.9139,0.0357
-2026-05-08,Pre-campaign,Genesis,Footwear,526,24,3766.32,156.93,1438,0.9345,0.8854,0.0417
+2026-05-08,Pre-campaign,Ultra Glide,Footwear,526,24,3766.32,156.93,1438,0.9345,0.8854,0.0417
 2026-05-08,Pre-campaign,Speedcross,Footwear,461,26,3134.45,120.56,1769,0.9494,0.9345,0.1538
 2026-05-08,Pre-campaign,Trail Apparel,Adjacent,237,14,1060.85,75.77,3746,0.9217,0.9487,0.0
 2026-05-08,Pre-campaign,Trail Accessories,Adjacent,125,9,441.17,49.02,4698,0.965,1.0,0.0
 2026-05-09,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-09,Pre-campaign,Sense Ride,Footwear,742,33,4517.81,136.9,1422,0.9186,0.9179,0.0
-2026-05-09,Pre-campaign,Genesis,Footwear,596,29,4000.11,137.93,1409,0.9469,0.9197,0.1379
+2026-05-09,Pre-campaign,Ultra Glide,Footwear,596,29,4000.11,137.93,1409,0.9469,0.9197,0.1379
 2026-05-09,Pre-campaign,Speedcross,Footwear,530,28,3726.47,133.09,1741,0.9732,0.9134,0.1071
 2026-05-09,Pre-campaign,Trail Apparel,Adjacent,284,18,1342.08,74.56,3728,0.9219,0.9162,0.0
 2026-05-09,Pre-campaign,Trail Accessories,Adjacent,200,14,685.18,48.94,4684,0.9643,0.9718,0.0
 2026-05-10,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-10,Pre-campaign,Sense Ride,Footwear,412,21,2690.18,128.1,1851,0.9559,0.9057,0.0476
-2026-05-10,Pre-campaign,Genesis,Footwear,574,26,3872.74,148.95,1833,0.9181,0.8874,0.0769
+2026-05-10,Pre-campaign,Ultra Glide,Footwear,574,26,3872.74,148.95,1833,0.9181,0.8874,0.0769
 2026-05-10,Pre-campaign,Speedcross,Footwear,431,24,3307.61,137.82,2167,0.9341,0.9488,0.0417
 2026-05-10,Pre-campaign,Trail Apparel,Adjacent,308,19,1440.07,75.79,4309,0.961,0.9068,0.0526
 2026-05-10,Pre-campaign,Trail Accessories,Adjacent,392,24,1100.0,45.83,5260,0.9759,0.9038,0.0417
 2026-05-11,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-11,Pre-campaign,Sense Ride,Footwear,408,20,2345.18,117.26,1831,0.9569,0.9163,0.15
-2026-05-11,Pre-campaign,Genesis,Footwear,379,17,2226.59,130.98,1816,0.8894,0.9198,0.1765
+2026-05-11,Pre-campaign,Ultra Glide,Footwear,379,17,2226.59,130.98,1816,0.8894,0.9198,0.1765
 2026-05-11,Pre-campaign,Speedcross,Footwear,507,26,3416.4,131.4,2141,0.9807,0.9589,0.1154
 2026-05-11,Pre-campaign,Trail Apparel,Adjacent,261,16,1053.92,65.87,4293,0.949,0.945,0.125
 2026-05-11,Pre-campaign,Trail Accessories,Adjacent,165,12,528.3,44.02,5248,0.9884,0.9383,0.0
 2026-05-12,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-12,Pre-campaign,Sense Ride,Footwear,446,22,2790.33,126.83,1809,0.932,0.9239,0.0909
-2026-05-12,Pre-campaign,Genesis,Footwear,435,19,3059.05,161.0,1797,0.9055,0.9177,0.0
+2026-05-12,Pre-campaign,Ultra Glide,Footwear,435,19,3059.05,161.0,1797,0.9055,0.9177,0.0
 2026-05-12,Pre-campaign,Speedcross,Footwear,405,21,2938.29,139.92,2120,0.9413,0.9633,0.0476
 2026-05-12,Pre-campaign,Trail Apparel,Adjacent,302,19,1252.8,65.94,4274,0.9998,0.9076,0.0526
 2026-05-12,Pre-campaign,Trail Accessories,Adjacent,173,13,547.59,42.12,5235,0.9613,0.9702,0.0
 2026-05-13,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-13,Pre-campaign,Sense Ride,Footwear,500,27,3018.95,111.81,1782,0.9581,0.8773,0.1852
-2026-05-13,Pre-campaign,Genesis,Footwear,370,17,2270.15,133.54,1780,0.9404,0.8634,0.1765
+2026-05-13,Pre-campaign,Ultra Glide,Footwear,370,17,2270.15,133.54,1780,0.9404,0.8634,0.1765
 2026-05-13,Pre-campaign,Speedcross,Footwear,303,16,2269.52,141.84,2104,0.9569,0.9448,0.0
 2026-05-13,Pre-campaign,Trail Apparel,Adjacent,238,15,1104.08,73.61,4259,0.9729,0.9077,0.0
 2026-05-13,Pre-campaign,Trail Accessories,Adjacent,167,11,349.0,31.73,5224,0.9727,0.9366,0.0909
 2026-05-14,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-14,Pre-campaign,Sense Ride,Footwear,567,26,3390.54,130.41,1756,0.956,0.8865,0.0385
-2026-05-14,Pre-campaign,Genesis,Footwear,565,24,3533.28,147.22,1756,0.9121,0.8913,0.0833
+2026-05-14,Pre-campaign,Ultra Glide,Footwear,565,24,3533.28,147.22,1756,0.9121,0.8913,0.0833
 2026-05-14,Pre-campaign,Speedcross,Footwear,337,16,2222.85,138.93,2088,0.9497,0.9359,0.0625
 2026-05-14,Pre-campaign,Trail Apparel,Adjacent,448,26,2098.03,80.69,4233,0.9504,0.9139,0.0
 2026-05-14,Pre-campaign,Trail Accessories,Adjacent,220,15,581.93,38.8,5209,0.9617,0.947,0.0667
 2026-05-15,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-15,Pre-campaign,Sense Ride,Footwear,771,34,4226.45,124.31,1722,0.9344,0.9132,0.0882
-2026-05-15,Pre-campaign,Genesis,Footwear,463,20,3228.93,161.45,1736,0.9051,0.8953,0.0
+2026-05-15,Pre-campaign,Ultra Glide,Footwear,463,20,3228.93,161.45,1736,0.9051,0.8953,0.0
 2026-05-15,Pre-campaign,Speedcross,Footwear,411,20,2281.92,114.1,2068,0.9494,0.9231,0.2
 2026-05-15,Pre-campaign,Trail Apparel,Adjacent,398,21,1578.43,75.16,4212,0.9442,0.8969,0.0
 2026-05-15,Pre-campaign,Trail Accessories,Adjacent,239,16,763.26,47.7,5193,0.9893,0.95,0.0
 2026-05-16,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-16,Pre-campaign,Sense Ride,Footwear,626,31,3264.46,105.31,1691,0.9512,0.9574,0.2258
-2026-05-16,Pre-campaign,Genesis,Footwear,414,18,2726.96,151.5,1718,0.9411,0.8659,0.0556
+2026-05-16,Pre-campaign,Ultra Glide,Footwear,414,18,2726.96,151.5,1718,0.9411,0.8659,0.0556
 2026-05-16,Pre-campaign,Speedcross,Footwear,436,21,2888.52,137.55,2047,0.9099,0.9261,0.0476
 2026-05-16,Pre-campaign,Trail Apparel,Adjacent,393,25,1844.64,73.79,4187,0.9678,0.9034,0.0
 2026-05-16,Pre-campaign,Trail Accessories,Adjacent,213,14,641.07,45.79,5179,0.9781,0.9279,0.0
 2026-05-17,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-17,Pre-campaign,Sense Ride,Footwear,543,26,2867.34,110.28,1665,0.9349,0.9184,0.1923
-2026-05-17,Pre-campaign,Genesis,Footwear,563,28,3392.36,121.16,1690,0.9156,0.8791,0.25
+2026-05-17,Pre-campaign,Ultra Glide,Footwear,563,28,3392.36,121.16,1690,0.9156,0.8791,0.25
 2026-05-17,Pre-campaign,Speedcross,Footwear,280,15,2044.51,136.3,2032,0.9288,0.9624,0.0667
 2026-05-17,Pre-campaign,Trail Apparel,Adjacent,293,17,1200.86,70.64,4170,0.9445,0.9549,0.0588
 2026-05-17,Pre-campaign,Trail Accessories,Adjacent,340,23,949.84,41.3,5156,0.9869,0.8848,0.0
 2026-05-18,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-18,Pre-campaign,Sense Ride,Footwear,594,29,3918.13,135.11,1636,0.9453,0.8731,0.0
-2026-05-18,Pre-campaign,Genesis,Footwear,374,17,2429.62,142.92,1673,0.949,0.9339,0.1176
+2026-05-18,Pre-campaign,Ultra Glide,Footwear,374,17,2429.62,142.92,1673,0.949,0.9339,0.1176
 2026-05-18,Pre-campaign,Speedcross,Footwear,380,19,2391.45,125.87,2013,0.9807,0.9457,0.1053
 2026-05-18,Pre-campaign,Trail Apparel,Adjacent,302,17,1071.06,63.0,4153,0.9527,0.9092,0.0588
 2026-05-18,Pre-campaign,Trail Accessories,Adjacent,234,16,659.98,41.25,5140,0.9802,0.9662,0.0625
 2026-05-19,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-19,Pre-campaign,Sense Ride,Footwear,457,22,2810.2,127.74,1614,0.9512,0.9335,0.0455
-2026-05-19,Pre-campaign,Genesis,Footwear,459,21,3078.4,146.59,1652,0.9372,0.907,0.0952
+2026-05-19,Pre-campaign,Ultra Glide,Footwear,459,21,3078.4,146.59,1652,0.9372,0.907,0.0952
 2026-05-19,Pre-campaign,Speedcross,Footwear,393,21,2538.52,120.88,1992,0.949,0.9545,0.1429
 2026-05-19,Pre-campaign,Trail Apparel,Adjacent,280,17,1128.49,66.38,4136,0.9437,0.8981,0.0588
 2026-05-19,Pre-campaign,Trail Accessories,Adjacent,153,11,424.09,38.55,5129,0.9682,0.9527,0.0
 2026-05-20,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-20,Pre-campaign,Sense Ride,Footwear,519,26,3446.81,132.57,1588,0.9483,0.9188,0.0385
-2026-05-20,Pre-campaign,Genesis,Footwear,676,29,4483.28,154.6,1623,0.9559,0.9038,0.0345
+2026-05-20,Pre-campaign,Ultra Glide,Footwear,676,29,4483.28,154.6,1623,0.9559,0.9038,0.0345
 2026-05-20,Pre-campaign,Speedcross,Footwear,403,21,2793.39,133.02,1971,0.956,0.937,0.0952
 2026-05-20,Pre-campaign,Trail Apparel,Adjacent,315,19,1304.51,68.66,4117,0.9598,0.9048,0.0526
 2026-05-20,Pre-campaign,Trail Accessories,Adjacent,248,20,901.4,45.07,5109,0.9674,0.9708,0.05
 2026-05-21,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-21,Pre-campaign,Sense Ride,Footwear,620,31,3821.89,123.29,1557,0.9434,0.8916,0.0968
-2026-05-21,Pre-campaign,Genesis,Footwear,494,23,3527.78,153.38,1600,0.9329,0.8899,0.0435
+2026-05-21,Pre-campaign,Ultra Glide,Footwear,494,23,3527.78,153.38,1600,0.9329,0.8899,0.0435
 2026-05-21,Pre-campaign,Speedcross,Footwear,495,25,3380.02,135.2,1946,0.9349,0.9199,0.08
 2026-05-21,Pre-campaign,Trail Apparel,Adjacent,417,23,1606.42,69.84,4094,0.9623,0.9122,0.0435
 2026-05-21,Pre-campaign,Trail Accessories,Adjacent,137,9,328.81,36.53,5100,0.9648,0.9694,0.2222
 2026-05-22,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-22,Pre-campaign,Sense Ride,Footwear,602,28,2957.05,105.61,1529,0.9169,0.9033,0.2143
-2026-05-22,Pre-campaign,Genesis,Footwear,461,24,3671.37,152.97,1576,0.943,0.8877,0.0417
+2026-05-22,Pre-campaign,Ultra Glide,Footwear,461,24,3671.37,152.97,1576,0.943,0.8877,0.0417
 2026-05-22,Pre-campaign,Speedcross,Footwear,498,26,3777.6,145.29,1920,0.9578,0.9785,0.0
 2026-05-22,Pre-campaign,Trail Apparel,Adjacent,254,15,1151.12,76.74,4079,0.9771,0.9224,0.0
 2026-05-22,Pre-campaign,Trail Accessories,Adjacent,251,17,671.55,39.5,5083,1.0,0.9738,0.0588
 2026-05-23,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-23,Pre-campaign,Sense Ride,Footwear,550,26,3271.53,125.83,1503,0.9533,0.928,0.0769
-2026-05-23,Pre-campaign,Genesis,Footwear,473,23,3231.81,140.51,1553,0.9283,0.909,0.1304
+2026-05-23,Pre-campaign,Ultra Glide,Footwear,473,23,3231.81,140.51,1553,0.9283,0.909,0.1304
 2026-05-23,Pre-campaign,Speedcross,Footwear,480,25,3525.71,141.03,1895,0.9377,0.945,0.04
 2026-05-23,Pre-campaign,Trail Apparel,Adjacent,351,23,1501.91,65.3,4056,0.9512,0.9541,0.1304
 2026-05-23,Pre-campaign,Trail Accessories,Adjacent,211,14,607.71,43.41,5069,0.9605,0.9646,0.0714
 2026-05-24,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-24,Pre-campaign,Sense Ride,Footwear,394,20,2191.14,109.56,1483,0.929,0.9266,0.2
-2026-05-24,Pre-campaign,Genesis,Footwear,457,22,3533.99,160.64,1531,0.9191,0.8838,0.0
+2026-05-24,Pre-campaign,Ultra Glide,Footwear,457,22,3533.99,160.64,1531,0.9191,0.8838,0.0
 2026-05-24,Pre-campaign,Speedcross,Footwear,577,29,3490.59,120.37,1866,0.9628,0.9207,0.1724
 2026-05-24,Pre-campaign,Trail Apparel,Adjacent,317,18,1280.81,71.16,4038,0.9699,0.9047,0.0
 2026-05-24,Pre-campaign,Trail Accessories,Adjacent,239,16,703.04,43.94,5053,0.9618,0.9265,0.0
 2026-05-25,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-25,Pre-campaign,Sense Ride,Footwear,500,25,3421.28,136.85,1458,0.9284,0.9579,0.0
-2026-05-25,Pre-campaign,Genesis,Footwear,461,23,3443.23,149.71,1508,0.9374,0.9012,0.087
+2026-05-25,Pre-campaign,Ultra Glide,Footwear,461,23,3443.23,149.71,1508,0.9374,0.9012,0.087
 2026-05-25,Pre-campaign,Speedcross,Footwear,294,17,2076.74,122.16,1849,0.9678,0.9705,0.1765
 2026-05-25,Pre-campaign,Trail Apparel,Adjacent,292,16,1173.26,73.33,4022,0.9494,0.9377,0.0625
 2026-05-25,Pre-campaign,Trail Accessories,Adjacent,228,15,750.93,50.06,5038,0.9453,0.903,0.0
 2026-05-26,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-26,Pre-campaign,Sense Ride,Footwear,501,25,2978.52,119.14,1433,0.9415,0.8786,0.12
-2026-05-26,Pre-campaign,Genesis,Footwear,535,22,3004.5,136.57,1486,0.9148,0.9153,0.1364
+2026-05-26,Pre-campaign,Ultra Glide,Footwear,535,22,3004.5,136.57,1486,0.9148,0.9153,0.1364
 2026-05-26,Pre-campaign,Speedcross,Footwear,376,16,2194.45,137.15,1833,0.976,0.9311,0.0625
 2026-05-26,Pre-campaign,Trail Apparel,Adjacent,226,15,1122.84,74.86,4007,0.9428,0.9126,0.0
 2026-05-26,Pre-campaign,Trail Accessories,Adjacent,241,15,645.85,43.06,5023,0.9784,0.9241,0.0667
 2026-05-27,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-27,Pre-campaign,Sense Ride,Footwear,501,29,3544.93,122.24,1404,0.9648,0.9409,0.1034
-2026-05-27,Pre-campaign,Genesis,Footwear,490,22,3345.26,152.06,1464,0.9556,0.9251,0.0455
+2026-05-27,Pre-campaign,Ultra Glide,Footwear,490,22,3345.26,152.06,1464,0.9556,0.9251,0.0455
 2026-05-27,Pre-campaign,Speedcross,Footwear,521,30,4083.07,136.1,1803,0.9743,0.9442,0.0667
 2026-05-27,Pre-campaign,Trail Apparel,Adjacent,151,10,754.44,75.44,3997,0.9688,0.9308,0.0
 2026-05-27,Pre-campaign,Trail Accessories,Adjacent,126,10,344.28,34.43,5013,0.9815,0.9284,0.0
 2026-05-28,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-28,Pre-campaign,Sense Ride,Footwear,417,24,2740.27,114.18,1380,0.9598,0.9308,0.1667
-2026-05-28,Pre-campaign,Genesis,Footwear,451,22,3296.81,149.85,1442,0.9292,0.912,0.0909
+2026-05-28,Pre-campaign,Ultra Glide,Footwear,451,22,3296.81,149.85,1442,0.9292,0.912,0.0909
 2026-05-28,Pre-campaign,Speedcross,Footwear,533,26,3637.84,139.92,1777,0.9603,0.9172,0.0385
 2026-05-28,Pre-campaign,Trail Apparel,Adjacent,267,16,1102.9,68.93,3981,0.939,0.9421,0.125
 2026-05-28,Pre-campaign,Trail Accessories,Adjacent,238,17,744.94,43.82,4996,0.9851,0.9534,0.0
 2026-05-29,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-29,Pre-campaign,Sense Ride,Footwear,633,35,4426.99,126.49,1345,0.941,0.878,0.0857
-2026-05-29,Pre-campaign,Genesis,Footwear,425,22,2984.42,135.66,1420,0.9463,0.9013,0.1364
+2026-05-29,Pre-campaign,Ultra Glide,Footwear,425,22,2984.42,135.66,1420,0.9463,0.9013,0.1364
 2026-05-29,Pre-campaign,Speedcross,Footwear,348,20,2911.36,145.57,1757,0.9743,0.9624,0.0
 2026-05-29,Pre-campaign,Trail Apparel,Adjacent,537,31,2388.41,77.05,3950,0.9277,0.9148,0.0
 2026-05-29,Pre-campaign,Trail Accessories,Adjacent,176,12,510.15,42.51,4984,0.9538,0.9222,0.0833
 2026-05-30,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-30,Pre-campaign,Sense Ride,Footwear,447,23,2946.13,128.09,1322,0.9388,0.8799,0.0435
-2026-05-30,Pre-campaign,Genesis,Footwear,413,21,2883.87,137.33,1399,0.9341,0.8878,0.1429
+2026-05-30,Pre-campaign,Ultra Glide,Footwear,413,21,2883.87,137.33,1399,0.9341,0.8878,0.1429
 2026-05-30,Pre-campaign,Speedcross,Footwear,568,29,4032.83,139.06,1728,0.9742,0.9201,0.0345
 2026-05-30,Pre-campaign,Trail Apparel,Adjacent,360,22,1647.67,74.89,3928,0.98,0.9289,0.0909
 2026-05-30,Pre-campaign,Trail Accessories,Adjacent,255,18,789.41,43.86,4966,0.9839,0.977,0.0
 2026-05-31,Pre-campaign,Vestal Pro,Footwear,0,0,0.0,0.0,0,0.0,0.0,0.0
 2026-05-31,Pre-campaign,Sense Ride,Footwear,737,36,3958.36,109.95,1286,0.9777,0.9237,0.1944
-2026-05-31,Pre-campaign,Genesis,Footwear,475,23,3718.89,161.69,1376,0.9514,0.8912,0.0
+2026-05-31,Pre-campaign,Ultra Glide,Footwear,475,23,3718.89,161.69,1376,0.9514,0.8912,0.0
 2026-05-31,Pre-campaign,Speedcross,Footwear,434,22,3038.34,138.11,1706,0.9642,0.9393,0.0455
 2026-05-31,Pre-campaign,Trail Apparel,Adjacent,399,23,1752.44,76.19,3905,0.959,0.9193,0.0435
 2026-05-31,Pre-campaign,Trail Accessories,Adjacent,208,15,650.35,43.36,4951,0.9854,0.9899,0.0
 2026-06-01,Active campaign,Vestal Pro,Footwear,788,45,6440.9,143.13,1205,0.9975,1.0,0.1556
 2026-06-01,Active campaign,Sense Ride,Footwear,305,15,1654.83,110.32,1271,0.9502,0.8769,0.2
-2026-06-01,Active campaign,Genesis,Footwear,223,11,1554.23,141.29,1365,0.9284,0.8871,0.0909
+2026-06-01,Active campaign,Ultra Glide,Footwear,223,11,1554.23,141.29,1365,0.9284,0.8871,0.0909
 2026-06-01,Active campaign,Speedcross,Footwear,346,16,2192.33,137.02,1690,0.9746,0.9457,0.0625
 2026-06-01,Active campaign,Trail Apparel,Adjacent,445,24,1794.64,74.78,3881,0.9728,0.9191,0.0417
 2026-06-01,Active campaign,Trail Accessories,Adjacent,246,18,635.11,35.28,4933,0.9662,0.9471,0.0556
 2026-06-02,Active campaign,Vestal Pro,Footwear,747,35,5093.1,145.52,1170,0.9867,0.9776,0.1429
 2026-06-02,Active campaign,Sense Ride,Footwear,380,19,2361.48,124.29,1252,0.9464,0.8909,0.1053
-2026-06-02,Active campaign,Genesis,Footwear,384,20,3048.77,152.44,1345,0.9385,0.8852,0.05
+2026-06-02,Active campaign,Ultra Glide,Footwear,384,20,3048.77,152.44,1345,0.9385,0.8852,0.05
 2026-06-02,Active campaign,Speedcross,Footwear,401,21,2604.79,124.04,1669,0.9352,0.9436,0.1429
 2026-06-02,Active campaign,Trail Apparel,Adjacent,421,23,1716.56,74.63,3858,0.9499,0.9456,0.0435
 2026-06-02,Active campaign,Trail Accessories,Adjacent,243,18,775.76,43.1,4915,0.9772,0.9638,0.0556
 2026-06-03,Active campaign,Vestal Pro,Footwear,792,42,5929.57,141.18,1128,0.9729,0.9798,0.1667
 2026-06-03,Active campaign,Sense Ride,Footwear,486,25,2991.68,119.67,1227,0.933,0.9186,0.12
-2026-06-03,Active campaign,Genesis,Footwear,399,18,2855.24,158.62,1327,0.9388,0.8966,0.0
+2026-06-03,Active campaign,Ultra Glide,Footwear,399,18,2855.24,158.62,1327,0.9388,0.8966,0.0
 2026-06-03,Active campaign,Speedcross,Footwear,391,17,2361.86,138.93,1652,0.9506,0.9386,0.0588
 2026-06-03,Active campaign,Trail Apparel,Adjacent,329,20,1373.08,68.65,3838,0.9466,0.8902,0.0
 2026-06-03,Active campaign,Trail Accessories,Adjacent,232,18,793.64,44.09,4897,0.9735,0.9494,0.0
 2026-06-04,Active campaign,Vestal Pro,Footwear,771,37,5428.48,146.72,1091,1.0,0.9834,0.1351
 2026-06-04,Active campaign,Sense Ride,Footwear,329,18,2214.23,123.01,1209,0.9269,0.9443,0.1111
-2026-06-04,Active campaign,Genesis,Footwear,332,15,2230.61,148.71,1312,0.959,0.9252,0.0667
+2026-06-04,Active campaign,Ultra Glide,Footwear,332,15,2230.61,148.71,1312,0.959,0.9252,0.0667
 2026-06-04,Active campaign,Speedcross,Footwear,453,25,3401.8,136.07,1627,0.9624,0.9666,0.08
 2026-06-04,Active campaign,Trail Apparel,Adjacent,335,22,1535.58,69.8,3816,0.9737,0.9222,0.0455
 2026-06-04,Active campaign,Trail Accessories,Adjacent,359,26,1208.45,46.48,4871,0.9628,0.9119,0.0
 2026-06-05,Active campaign,Vestal Pro,Footwear,956,32,5043.34,157.6,1059,0.9989,1.0,0.0625
 2026-06-05,Active campaign,Sense Ride,Footwear,617,31,3967.39,127.98,1178,0.9434,0.8831,0.0645
-2026-06-05,Active campaign,Genesis,Footwear,369,15,2455.51,163.7,1297,0.9077,0.9542,0.0
+2026-06-05,Active campaign,Ultra Glide,Footwear,369,15,2455.51,163.7,1297,0.9077,0.9542,0.0
 2026-06-05,Active campaign,Speedcross,Footwear,542,27,3590.85,132.99,1600,0.9813,0.9293,0.0741
 2026-06-05,Active campaign,Trail Apparel,Adjacent,371,22,1625.11,73.87,3794,0.9399,0.8932,0.0455
 2026-06-05,Active campaign,Trail Accessories,Adjacent,327,25,1035.73,41.43,4846,0.9732,0.9376,0.04
 2026-06-06,Active campaign,Vestal Pro,Footwear,973,48,7639.4,159.15,1011,0.9678,0.9708,0.0625
 2026-06-06,Active campaign,Sense Ride,Footwear,709,34,4467.71,131.4,1144,0.9258,0.8826,0.0294
-2026-06-06,Active campaign,Genesis,Footwear,403,18,2574.43,143.02,1279,0.9256,0.9087,0.1111
+2026-06-06,Active campaign,Ultra Glide,Footwear,403,18,2574.43,143.02,1279,0.9256,0.9087,0.1111
 2026-06-06,Active campaign,Speedcross,Footwear,372,18,2027.49,112.64,1582,0.9383,0.925,0.2222
 2026-06-06,Active campaign,Trail Apparel,Adjacent,492,27,1888.86,69.96,3767,0.9275,0.9141,0.0741
 2026-06-06,Active campaign,Trail Accessories,Adjacent,403,28,1133.64,40.49,4818,0.9613,0.9615,0.0
 2026-06-07,Active campaign,Vestal Pro,Footwear,768,29,3712.06,128.0,982,0.9752,0.9506,0.2414
 2026-06-07,Active campaign,Sense Ride,Footwear,527,26,3586.23,137.93,1118,0.9257,0.884,0.0
-2026-06-07,Active campaign,Genesis,Footwear,404,20,2810.73,140.54,1259,0.9208,0.8847,0.1
+2026-06-07,Active campaign,Ultra Glide,Footwear,404,20,2810.73,140.54,1259,0.9208,0.8847,0.1
 2026-06-07,Active campaign,Speedcross,Footwear,413,19,2396.03,126.11,1563,0.9716,0.9651,0.1579
 2026-06-07,Active campaign,Trail Apparel,Adjacent,343,22,1507.05,68.5,3745,0.9646,0.9642,0.0455
 2026-06-07,Active campaign,Trail Accessories,Adjacent,206,16,723.71,45.23,4802,0.9758,0.9711,0.0
 2026-06-08,Active campaign,Vestal Pro,Footwear,658,42,6084.96,144.88,940,0.9726,0.9729,0.1429
 2026-06-08,Active campaign,Sense Ride,Footwear,410,19,2429.69,127.88,1099,0.943,0.9319,0.0526
-2026-06-08,Active campaign,Genesis,Footwear,265,11,1557.18,141.56,1248,0.9244,0.9366,0.0909
+2026-06-08,Active campaign,Ultra Glide,Footwear,265,11,1557.18,141.56,1248,0.9244,0.9366,0.0909
 2026-06-08,Active campaign,Speedcross,Footwear,493,23,3256.59,141.59,1540,0.9445,0.9667,0.0
 2026-06-08,Active campaign,Trail Apparel,Adjacent,379,22,1695.68,77.08,3723,0.9548,0.9161,0.0
 2026-06-08,Active campaign,Trail Accessories,Adjacent,195,14,649.99,46.43,4788,0.9721,0.9492,0.0
 2026-06-09,Active campaign,Vestal Pro,Footwear,734,30,4555.59,151.85,910,0.9915,0.9617,0.1
 2026-06-09,Active campaign,Sense Ride,Footwear,505,27,3571.48,132.28,1072,0.9587,0.8755,0.037
-2026-06-09,Active campaign,Genesis,Footwear,371,19,2860.01,150.53,1229,0.9771,0.9058,0.0526
+2026-06-09,Active campaign,Ultra Glide,Footwear,371,19,2860.01,150.53,1229,0.9771,0.9058,0.0526
 2026-06-09,Active campaign,Speedcross,Footwear,397,20,2492.96,124.65,1520,0.9666,0.9212,0.15
 2026-06-09,Active campaign,Trail Apparel,Adjacent,261,17,1284.6,75.56,3706,0.9399,0.9558,0.0
 2026-06-09,Active campaign,Trail Accessories,Adjacent,233,18,815.31,45.29,4770,0.9515,0.9188,0.0
 2026-06-10,Active campaign,Vestal Pro,Footwear,666,37,5598.03,151.3,873,0.9814,0.9509,0.1081
 2026-06-10,Active campaign,Sense Ride,Footwear,349,18,2506.66,139.26,1054,0.933,0.9289,0.0
-2026-06-10,Active campaign,Genesis,Footwear,208,10,1632.48,163.25,1219,0.8942,0.9109,0.0
+2026-06-10,Active campaign,Ultra Glide,Footwear,208,10,1632.48,163.25,1219,0.8942,0.9109,0.0
 2026-06-10,Active campaign,Speedcross,Footwear,507,31,3714.69,119.83,1489,0.9643,0.9666,0.1935
 2026-06-10,Active campaign,Trail Apparel,Adjacent,346,19,1255.27,66.07,3687,0.9773,0.9018,0.0526
 2026-06-10,Active campaign,Trail Accessories,Adjacent,311,23,985.9,42.87,4747,0.9382,0.9689,0.0435
 2026-06-11,Active campaign,Vestal Pro,Footwear,759,31,3886.78,125.38,842,0.9571,0.9297,0.2581
 2026-06-11,Active campaign,Sense Ride,Footwear,362,18,2350.53,130.58,1036,0.9618,0.9284,0.0556
-2026-06-11,Active campaign,Genesis,Footwear,296,13,1769.53,136.12,1206,0.9382,0.8812,0.1538
+2026-06-11,Active campaign,Ultra Glide,Footwear,296,13,1769.53,136.12,1206,0.9382,0.8812,0.1538
 2026-06-11,Active campaign,Speedcross,Footwear,470,23,3086.97,134.22,1466,0.9469,0.915,0.087
 2026-06-11,Active campaign,Trail Apparel,Adjacent,342,23,1740.61,75.68,3664,0.9356,0.9365,0.0
 2026-06-11,Active campaign,Trail Accessories,Adjacent,254,19,838.92,44.15,4728,0.9817,0.9927,0.0
 2026-06-12,Active campaign,Vestal Pro,Footwear,755,33,4886.34,148.07,809,0.9436,0.9004,0.1212
 2026-06-12,Active campaign,Sense Ride,Footwear,407,21,2711.21,129.11,1015,0.935,0.8998,0.0476
-2026-06-12,Active campaign,Genesis,Footwear,415,21,2905.95,138.38,1185,0.9516,0.919,0.1429
+2026-06-12,Active campaign,Ultra Glide,Footwear,415,21,2905.95,138.38,1185,0.9516,0.919,0.1429
 2026-06-12,Active campaign,Speedcross,Footwear,264,13,1749.54,134.58,1453,0.9655,0.9724,0.0769
 2026-06-12,Active campaign,Trail Apparel,Adjacent,458,27,2169.9,80.37,3637,0.9487,0.9141,0.0
 2026-06-12,Active campaign,Trail Accessories,Adjacent,234,18,840.28,46.68,4710,0.9708,0.9338,0.0
 2026-06-13,Active campaign,Vestal Pro,Footwear,796,40,5590.74,139.77,769,0.9274,0.8698,0.175
 2026-06-13,Active campaign,Sense Ride,Footwear,428,21,2280.56,108.6,994,0.9571,0.9103,0.1905
-2026-06-13,Active campaign,Genesis,Footwear,324,16,2525.35,157.83,1169,0.9168,0.9353,0.0
+2026-06-13,Active campaign,Ultra Glide,Footwear,324,16,2525.35,157.83,1169,0.9168,0.9353,0.0
 2026-06-13,Active campaign,Speedcross,Footwear,573,29,3615.35,124.67,1424,0.9888,0.9659,0.1379
 2026-06-13,Active campaign,Trail Apparel,Adjacent,301,18,1410.67,78.37,3619,0.9438,0.9027,0.0
 2026-06-13,Active campaign,Trail Accessories,Adjacent,294,19,876.85,46.15,4691,0.9634,0.9296,0.0
 2026-06-14,Active campaign,Vestal Pro,Footwear,771,33,4929.24,149.37,736,0.9079,0.8482,0.1212
 2026-06-14,Active campaign,Sense Ride,Footwear,532,26,3312.8,127.42,1418,0.9673,0.9529,0.0769
-2026-06-14,Active campaign,Genesis,Footwear,400,19,2628.64,138.35,1600,0.9238,0.9003,0.1579
+2026-06-14,Active campaign,Ultra Glide,Footwear,400,19,2628.64,138.35,1600,0.9238,0.9003,0.1579
 2026-06-14,Active campaign,Speedcross,Footwear,338,18,2585.65,143.65,1856,0.9868,0.9387,0.0
 2026-06-14,Active campaign,Trail Apparel,Adjacent,416,25,1846.06,73.84,4194,0.9483,0.9698,0.0
 2026-06-14,Active campaign,Trail Accessories,Adjacent,236,15,616.97,41.13,5276,0.9464,0.9576,0.0
 2026-06-15,Active campaign,Vestal Pro,Footwear,601,24,3742.01,155.92,832,0.9384,0.8573,0.0833
 2026-06-15,Active campaign,Sense Ride,Footwear,434,22,2683.02,121.96,1396,0.9522,0.8859,0.0909
-2026-06-15,Active campaign,Genesis,Footwear,424,19,2595.5,136.61,1581,0.9185,0.9163,0.1579
+2026-06-15,Active campaign,Ultra Glide,Footwear,424,19,2595.5,136.61,1581,0.9185,0.9163,0.1579
 2026-06-15,Active campaign,Speedcross,Footwear,415,23,2824.71,122.81,1833,0.9251,0.9916,0.1304
 2026-06-15,Active campaign,Trail Apparel,Adjacent,341,20,1242.11,62.11,4174,0.9472,0.8887,0.15
 2026-06-15,Active campaign,Trail Accessories,Adjacent,222,15,638.13,42.54,5261,0.9905,0.9285,0.0
 2026-06-16,Active campaign,Vestal Pro,Footwear,620,21,3032.97,144.43,811,0.9083,0.806,0.1429
 2026-06-16,Active campaign,Sense Ride,Footwear,308,15,2078.45,138.56,1381,0.9466,0.896,0.0
-2026-06-16,Active campaign,Genesis,Footwear,352,17,2196.08,129.18,1564,0.9417,0.8956,0.1765
+2026-06-16,Active campaign,Ultra Glide,Footwear,352,17,2196.08,129.18,1564,0.9417,0.8956,0.1765
 2026-06-16,Active campaign,Speedcross,Footwear,508,29,3924.85,135.34,1804,0.9847,0.951,0.069
 2026-06-16,Active campaign,Trail Apparel,Adjacent,322,20,1691.79,84.59,4154,0.9399,0.9123,0.0
 2026-06-16,Active campaign,Trail Accessories,Adjacent,336,22,946.29,43.01,5239,0.9553,0.9463,0.0
 2026-06-17,Active campaign,Vestal Pro,Footwear,738,34,4721.82,138.88,777,0.9011,0.7632,0.1765
 2026-06-17,Active campaign,Sense Ride,Footwear,442,22,2888.74,131.31,1359,0.935,0.8886,0.0455
-2026-06-17,Active campaign,Genesis,Footwear,331,18,2641.64,146.76,1546,0.9205,0.8594,0.1111
+2026-06-17,Active campaign,Ultra Glide,Footwear,331,18,2641.64,146.76,1546,0.9205,0.8594,0.1111
 2026-06-17,Active campaign,Speedcross,Footwear,426,23,3221.93,140.08,1781,0.959,0.959,0.0435
 2026-06-17,Active campaign,Trail Apparel,Adjacent,340,21,1464.8,69.75,4133,0.9554,0.9107,0.0
 2026-06-17,Active campaign,Trail Accessories,Adjacent,283,21,912.25,43.44,5218,0.9781,0.9511,0.0476
 2026-06-18,Active campaign,Vestal Pro,Footwear,753,26,3713.02,142.81,751,0.8683,0.7327,0.1538
 2026-06-18,Active campaign,Sense Ride,Footwear,363,20,2471.16,123.56,1339,0.925,0.8682,0.1
-2026-06-18,Active campaign,Genesis,Footwear,281,13,1574.53,121.12,1533,0.909,0.8841,0.2308
+2026-06-18,Active campaign,Ultra Glide,Footwear,281,13,1574.53,121.12,1533,0.909,0.8841,0.2308
 2026-06-18,Active campaign,Speedcross,Footwear,454,22,2778.18,126.28,1759,0.9401,0.9457,0.1364
 2026-06-18,Active campaign,Trail Apparel,Adjacent,312,18,1470.41,81.69,4115,0.9265,0.9266,0.0556
 2026-06-18,Active campaign,Trail Accessories,Adjacent,243,17,742.48,43.68,5201,0.9845,0.9661,0.0
 2026-06-19,Active campaign,Vestal Pro,Footwear,722,34,4042.01,118.88,717,0.822,0.6275,0.2941
 2026-06-19,Active campaign,Sense Ride,Footwear,531,28,3189.48,113.91,1311,0.9428,0.937,0.1429
-2026-06-19,Active campaign,Genesis,Footwear,387,16,2571.64,160.73,1517,0.9436,0.8792,0.0
+2026-06-19,Active campaign,Ultra Glide,Footwear,387,16,2571.64,160.73,1517,0.9436,0.8792,0.0
 2026-06-19,Active campaign,Speedcross,Footwear,555,24,3472.83,144.7,1735,0.9618,0.9457,0.0
 2026-06-19,Active campaign,Trail Apparel,Adjacent,524,31,2143.12,69.13,4084,0.9437,0.9301,0.0323
 2026-06-19,Active campaign,Trail Accessories,Adjacent,211,15,580.76,38.72,5186,0.9622,0.9426,0.0667
 2026-06-20,Active campaign,Vestal Pro,Footwear,740,41,5769.05,140.71,676,0.8051,0.6346,0.1707
 2026-06-20,Active campaign,Sense Ride,Footwear,575,28,3689.76,131.78,1283,0.956,0.8957,0.0357
-2026-06-20,Active campaign,Genesis,Footwear,325,14,2283.18,163.08,1503,0.9341,0.8953,0.0
+2026-06-20,Active campaign,Ultra Glide,Footwear,325,14,2283.18,163.08,1503,0.9341,0.8953,0.0
 2026-06-20,Active campaign,Speedcross,Footwear,476,23,3023.78,131.47,1712,0.9656,0.9633,0.087
 2026-06-20,Active campaign,Trail Apparel,Adjacent,267,17,1407.7,82.81,4067,0.9596,0.9297,0.0
 2026-06-20,Active campaign,Trail Accessories,Adjacent,210,15,614.33,40.96,5171,0.9715,0.9256,0.0
 2026-06-21,Post-campaign,Vestal Pro,Footwear,344,16,2538.41,158.65,660,0.8067,0.5741,0.0625
 2026-06-21,Post-campaign,Sense Ride,Footwear,645,32,3897.78,121.81,1251,0.9459,0.8555,0.0938
-2026-06-21,Post-campaign,Genesis,Footwear,397,20,2923.78,146.19,1483,0.9492,0.8886,0.1
+2026-06-21,Post-campaign,Ultra Glide,Footwear,397,20,2923.78,146.19,1483,0.9492,0.8886,0.1
 2026-06-21,Post-campaign,Speedcross,Footwear,400,22,2692.25,122.38,1690,0.9444,0.9265,0.1818
 2026-06-21,Post-campaign,Trail Apparel,Adjacent,559,33,2644.23,80.13,4034,0.9474,0.9094,0.0
 2026-06-21,Post-campaign,Trail Accessories,Adjacent,246,17,754.98,44.41,5154,0.9551,0.9749,0.0
 2026-06-22,Post-campaign,Vestal Pro,Footwear,353,11,1359.05,123.55,649,0.7789,0.5156,0.2727
 2026-06-22,Post-campaign,Sense Ride,Footwear,395,18,2415.0,134.17,1233,0.9271,0.9149,0.0
-2026-06-22,Post-campaign,Genesis,Footwear,466,21,3233.78,153.99,1462,0.9319,0.8998,0.0476
+2026-06-22,Post-campaign,Ultra Glide,Footwear,466,21,3233.78,153.99,1462,0.9319,0.8998,0.0476
 2026-06-22,Post-campaign,Speedcross,Footwear,355,17,2482.72,146.04,1673,0.9292,0.8953,0.0
 2026-06-22,Post-campaign,Trail Apparel,Adjacent,304,20,1207.21,60.36,4014,0.9351,0.9113,0.1
 2026-06-22,Post-campaign,Trail Accessories,Adjacent,244,17,724.03,42.59,5137,0.9715,0.9418,0.0
 2026-06-23,Post-campaign,Vestal Pro,Footwear,312,12,1851.07,154.26,637,0.7458,0.5211,0.0833
 2026-06-23,Post-campaign,Sense Ride,Footwear,379,18,2191.81,121.77,1215,0.9271,0.889,0.1111
-2026-06-23,Post-campaign,Genesis,Footwear,520,24,3419.94,142.5,1438,0.9385,0.8922,0.125
+2026-06-23,Post-campaign,Ultra Glide,Footwear,520,24,3419.94,142.5,1438,0.9385,0.8922,0.125
 2026-06-23,Post-campaign,Speedcross,Footwear,484,25,3547.94,141.92,1648,0.9272,0.9234,0.04
 2026-06-23,Post-campaign,Trail Apparel,Adjacent,258,15,1151.73,76.78,3999,0.9315,0.9119,0.0
 2026-06-23,Post-campaign,Trail Accessories,Adjacent,141,10,409.63,40.96,5127,0.9964,0.9856,0.0
 2026-06-24,Post-campaign,Vestal Pro,Footwear,383,18,2378.54,132.14,619,0.7164,0.4846,0.2222
 2026-06-24,Post-campaign,Sense Ride,Footwear,610,28,3454.78,123.39,1187,0.9391,0.903,0.1071
-2026-06-24,Post-campaign,Genesis,Footwear,425,19,2575.25,135.54,1419,0.9107,0.8858,0.1579
+2026-06-24,Post-campaign,Ultra Glide,Footwear,425,19,2575.25,135.54,1419,0.9107,0.8858,0.1579
 2026-06-24,Post-campaign,Speedcross,Footwear,461,26,3370.62,129.64,1622,0.9581,0.9723,0.1154
 2026-06-24,Post-campaign,Trail Apparel,Adjacent,446,28,1929.15,68.9,3971,0.9412,0.9377,0.0
 2026-06-24,Post-campaign,Trail Accessories,Adjacent,244,17,760.01,44.71,5110,0.9442,0.9364,0.0
 2026-06-25,Post-campaign,Vestal Pro,Footwear,430,12,1685.63,140.47,607,0.7074,0.4568,0.1667
 2026-06-25,Post-campaign,Sense Ride,Footwear,789,36,4686.24,130.17,1151,0.9548,0.9183,0.0556
-2026-06-25,Post-campaign,Genesis,Footwear,282,14,2062.21,147.3,1405,0.9639,0.8941,0.0714
+2026-06-25,Post-campaign,Ultra Glide,Footwear,282,14,2062.21,147.3,1405,0.9639,0.8941,0.0714
 2026-06-25,Post-campaign,Speedcross,Footwear,292,15,1870.28,124.69,1607,0.9812,0.9398,0.1333
 2026-06-25,Post-campaign,Trail Apparel,Adjacent,400,22,1531.67,69.62,3949,0.9793,0.9185,0.0909
 2026-06-25,Post-campaign,Trail Accessories,Adjacent,230,16,576.57,36.04,5094,0.9696,0.9621,0.0
 2026-06-26,Post-campaign,Vestal Pro,Footwear,380,12,2025.16,168.76,595,0.6947,0.42,0.0
 2026-06-26,Post-campaign,Sense Ride,Footwear,479,25,3132.1,125.28,1126,0.9454,0.8973,0.08
-2026-06-26,Post-campaign,Genesis,Footwear,485,22,3094.91,140.68,1383,0.9143,0.8548,0.1364
+2026-06-26,Post-campaign,Ultra Glide,Footwear,485,22,3094.91,140.68,1383,0.9143,0.8548,0.1364
 2026-06-26,Post-campaign,Speedcross,Footwear,506,26,3220.59,123.87,1581,1.0,0.9518,0.1538
 2026-06-26,Post-campaign,Trail Apparel,Adjacent,295,20,1214.05,60.7,3929,0.9473,0.9123,0.05
 2026-06-26,Post-campaign,Trail Accessories,Adjacent,210,15,680.52,45.37,5079,0.9988,0.9466,0.0
 2026-06-27,Post-campaign,Vestal Pro,Footwear,420,15,1841.41,122.76,580,0.6818,0.42,0.2667
 2026-06-27,Post-campaign,Sense Ride,Footwear,647,30,3964.36,132.15,1096,0.9418,0.909,0.0333
-2026-06-27,Post-campaign,Genesis,Footwear,501,22,3050.78,138.67,1361,0.9342,0.8991,0.1364
+2026-06-27,Post-campaign,Ultra Glide,Footwear,501,22,3050.78,138.67,1361,0.9342,0.8991,0.1364
 2026-06-27,Post-campaign,Speedcross,Footwear,275,16,2398.52,149.91,1565,0.9495,0.9822,0.0
 2026-06-27,Post-campaign,Trail Apparel,Adjacent,475,28,2129.71,76.06,3901,0.9493,0.9186,0.0357
 2026-06-27,Post-campaign,Trail Accessories,Adjacent,318,23,960.61,41.77,5056,0.9545,0.9451,0.1304
 2026-06-28,Post-campaign,Vestal Pro,Footwear,415,9,1368.58,152.06,571,0.659,0.42,0.1111
 2026-06-28,Post-campaign,Sense Ride,Footwear,775,34,3766.25,110.77,1062,0.9525,0.8948,0.2059
-2026-06-28,Post-campaign,Genesis,Footwear,195,8,1305.02,163.13,1353,0.8986,0.8986,0.0
+2026-06-28,Post-campaign,Ultra Glide,Footwear,195,8,1305.02,163.13,1353,0.8986,0.8986,0.0
 2026-06-28,Post-campaign,Speedcross,Footwear,393,21,3050.13,145.24,1544,0.9316,0.9164,0.0
 2026-06-28,Post-campaign,Trail Apparel,Adjacent,354,20,1455.66,72.78,3881,0.9435,0.926,0.1
 2026-06-28,Post-campaign,Trail Accessories,Adjacent,429,33,1385.02,41.97,5023,0.9785,0.9565,0.0
 2026-06-29,Post-campaign,Vestal Pro,Footwear,355,17,2372.82,139.58,554,0.6381,0.42,0.1765
 2026-06-29,Post-campaign,Sense Ride,Footwear,444,22,2746.26,124.83,1040,0.9509,0.9234,0.0909
-2026-06-29,Post-campaign,Genesis,Footwear,356,18,2605.38,144.74,1335,0.9219,0.8898,0.1111
+2026-06-29,Post-campaign,Ultra Glide,Footwear,356,18,2605.38,144.74,1335,0.9219,0.8898,0.1111
 2026-06-29,Post-campaign,Speedcross,Footwear,401,19,2480.13,130.53,1525,0.9747,0.9198,0.1053
 2026-06-29,Post-campaign,Trail Apparel,Adjacent,383,22,1635.02,74.32,3859,0.9402,0.8948,0.0455
 2026-06-29,Post-campaign,Trail Accessories,Adjacent,191,14,607.01,43.36,5009,0.9627,0.9342,0.0
 2026-06-30,Post-campaign,Vestal Pro,Footwear,305,7,1193.3,170.47,547,0.6272,0.42,0.0
 2026-06-30,Post-campaign,Sense Ride,Footwear,653,32,3842.29,120.07,1008,0.9643,0.962,0.125
-2026-06-30,Post-campaign,Genesis,Footwear,567,25,3625.81,145.03,1310,0.9216,0.8989,0.12
+2026-06-30,Post-campaign,Ultra Glide,Footwear,567,25,3625.81,145.03,1310,0.9216,0.8989,0.12
 2026-06-30,Post-campaign,Speedcross,Footwear,391,19,2672.97,140.68,1506,0.9747,0.8943,0.0526
 2026-06-30,Post-campaign,Trail Apparel,Adjacent,269,16,1164.36,72.77,3843,0.9324,0.9078,0.0625
 2026-06-30,Post-campaign,Trail Accessories,Adjacent,276,20,814.67,40.73,4989,0.9892,0.9254,0.05
 2026-07-01,Post-campaign,Vestal Pro,Footwear,298,12,1673.56,139.46,535,0.6235,0.42,0.1667
 2026-07-01,Post-campaign,Sense Ride,Footwear,362,19,2298.48,120.97,989,0.9547,0.9391,0.1053
-2026-07-01,Post-campaign,Genesis,Footwear,442,20,3210.36,160.52,1290,0.9076,0.8908,0.0
+2026-07-01,Post-campaign,Ultra Glide,Footwear,442,20,3210.36,160.52,1290,0.9076,0.8908,0.0
 2026-07-01,Post-campaign,Speedcross,Footwear,442,24,3088.7,128.7,1482,0.9626,0.9344,0.125
 2026-07-01,Post-campaign,Trail Apparel,Adjacent,282,18,1353.8,75.21,3825,0.9255,0.9017,0.0556
 2026-07-01,Post-campaign,Trail Accessories,Adjacent,195,13,600.96,46.23,4976,1.0,0.933,0.0
 2026-07-02,Post-campaign,Vestal Pro,Footwear,342,13,2026.82,155.91,522,0.61,0.42,0.0769
 2026-07-02,Post-campaign,Sense Ride,Footwear,589,28,3501.87,125.07,961,0.9147,0.8879,0.0714
-2026-07-02,Post-campaign,Genesis,Footwear,461,20,2942.23,147.11,1270,0.9434,0.8736,0.1
+2026-07-02,Post-campaign,Ultra Glide,Footwear,461,20,2942.23,147.11,1270,0.9434,0.8736,0.1
 2026-07-02,Post-campaign,Speedcross,Footwear,282,15,2088.42,139.23,1467,0.9773,0.9783,0.0667
 2026-07-02,Post-campaign,Trail Apparel,Adjacent,399,26,1948.07,74.93,3799,0.9532,0.8904,0.0
 2026-07-02,Post-campaign,Trail Accessories,Adjacent,277,17,780.86,45.93,4959,0.9586,0.9206,0.0
 2026-07-03,Post-campaign,Vestal Pro,Footwear,411,14,2401.5,171.54,508,0.61,0.42,0.0
 2026-07-03,Post-campaign,Sense Ride,Footwear,541,30,3432.48,114.42,931,0.9475,0.9056,0.1667
-2026-07-03,Post-campaign,Genesis,Footwear,481,23,3153.48,137.11,1247,0.9332,0.9256,0.1304
+2026-07-03,Post-campaign,Ultra Glide,Footwear,481,23,3153.48,137.11,1247,0.9332,0.9256,0.1304
 2026-07-03,Post-campaign,Speedcross,Footwear,369,19,2463.34,129.65,1448,0.9887,0.9204,0.1053
 2026-07-03,Post-campaign,Trail Apparel,Adjacent,431,26,1886.26,72.55,3773,0.942,0.9416,0.0385
 2026-07-03,Post-campaign,Trail Accessories,Adjacent,214,17,753.77,44.34,4942,0.953,0.9308,0.0588
 2026-07-04,Post-campaign,Vestal Pro,Footwear,368,15,2204.58,146.97,493,0.61,0.42,0.1333
 2026-07-04,Post-campaign,Sense Ride,Footwear,561,27,2985.37,110.57,904,0.9512,0.9191,0.1852
-2026-07-04,Post-campaign,Genesis,Footwear,450,20,2688.99,134.45,1227,0.9585,0.8745,0.15
+2026-07-04,Post-campaign,Ultra Glide,Footwear,450,20,2688.99,134.45,1227,0.9585,0.8745,0.15
 2026-07-04,Post-campaign,Speedcross,Footwear,390,21,2547.78,121.32,1427,0.937,0.9609,0.1429
 2026-07-04,Post-campaign,Trail Apparel,Adjacent,348,22,1643.78,74.72,3751,0.9465,0.9406,0.0455
 2026-07-04,Post-campaign,Trail Accessories,Adjacent,307,22,918.42,41.75,4920,0.9862,0.9263,0.0
 2026-07-05,Post-campaign,Vestal Pro,Footwear,384,13,2183.16,167.94,480,0.61,0.42,0.0
 2026-07-05,Post-campaign,Sense Ride,Footwear,369,19,2155.85,113.47,885,0.925,0.9406,0.1579
-2026-07-05,Post-campaign,Genesis,Footwear,403,20,3231.01,161.55,1207,0.9101,0.9045,0.0
+2026-07-05,Post-campaign,Ultra Glide,Footwear,403,20,3231.01,161.55,1207,0.9101,0.9045,0.0
 2026-07-05,Post-campaign,Speedcross,Footwear,633,32,4242.85,132.59,1395,0.9851,0.9418,0.0938
 2026-07-05,Post-campaign,Trail Apparel,Adjacent,374,22,1427.28,64.88,3729,0.9355,0.9051,0.0909
 2026-07-05,Post-campaign,Trail Accessories,Adjacent,342,27,1147.92,42.52,4893,0.9676,0.9293,0.0
 2026-07-06,Post-campaign,Vestal Pro,Footwear,298,10,1695.38,169.54,470,0.61,0.42,0.0
 2026-07-06,Post-campaign,Sense Ride,Footwear,418,23,2904.75,126.29,862,0.9181,0.9171,0.087
-2026-07-06,Post-campaign,Genesis,Footwear,474,19,2873.26,151.22,1188,0.8804,0.8962,0.0526
+2026-07-06,Post-campaign,Ultra Glide,Footwear,474,19,2873.26,151.22,1188,0.8804,0.8962,0.0526
 2026-07-06,Post-campaign,Speedcross,Footwear,356,17,2308.15,135.77,1378,0.9329,0.9305,0.0588
 2026-07-06,Post-campaign,Trail Apparel,Adjacent,394,23,1768.54,76.89,3706,0.9382,0.9256,0.0
 2026-07-06,Post-campaign,Trail Accessories,Adjacent,231,16,651.65,40.73,4877,0.9369,0.9469,0.0
 2026-07-07,Post-campaign,Vestal Pro,Footwear,390,14,2030.71,145.05,456,0.61,0.42,0.1429
 2026-07-07,Post-campaign,Sense Ride,Footwear,600,27,3227.69,119.54,835,0.9874,0.8974,0.1111
-2026-07-07,Post-campaign,Genesis,Footwear,478,21,2728.6,129.93,1167,0.9406,0.8552,0.1905
+2026-07-07,Post-campaign,Ultra Glide,Footwear,478,21,2728.6,129.93,1167,0.9406,0.8552,0.1905
 2026-07-07,Post-campaign,Speedcross,Footwear,398,21,2803.36,133.49,1357,0.9432,0.9533,0.0952
 2026-07-07,Post-campaign,Trail Apparel,Adjacent,311,18,1345.66,74.76,3688,0.9721,0.95,0.0
 2026-07-07,Post-campaign,Trail Accessories,Adjacent,312,21,972.36,46.3,4856,0.9647,0.924,0.0
 2026-07-08,Post-campaign,Vestal Pro,Footwear,337,12,1670.15,139.18,444,0.61,0.42,0.1667
 2026-07-08,Post-campaign,Sense Ride,Footwear,393,20,2630.61,131.53,815,0.9561,0.8953,0.05
-2026-07-08,Post-campaign,Genesis,Footwear,576,27,3963.16,146.78,1140,0.9331,0.8985,0.0741
+2026-07-08,Post-campaign,Ultra Glide,Footwear,576,27,3963.16,146.78,1140,0.9331,0.8985,0.0741
 2026-07-08,Post-campaign,Speedcross,Footwear,380,21,2980.35,141.92,1336,0.941,0.9588,0.0
 2026-07-08,Post-campaign,Trail Apparel,Adjacent,339,21,1442.67,68.7,3667,0.947,0.881,0.0476
 2026-07-08,Post-campaign,Trail Accessories,Adjacent,452,31,1301.23,41.98,4825,0.9614,0.9465,0.0
 2026-07-09,Post-campaign,Vestal Pro,Footwear,367,20,3200.32,160.02,424,0.61,0.42,0.05
 2026-07-09,Post-campaign,Sense Ride,Footwear,521,25,3397.02,135.88,790,0.9179,0.9273,0.0
-2026-07-09,Post-campaign,Genesis,Footwear,378,16,2540.98,158.81,1124,0.9314,0.9301,0.0
+2026-07-09,Post-campaign,Ultra Glide,Footwear,378,16,2540.98,158.81,1124,0.9314,0.9301,0.0
 2026-07-09,Post-campaign,Speedcross,Footwear,425,20,2512.81,125.64,1316,0.9658,0.9517,0.15
 2026-07-09,Post-campaign,Trail Apparel,Adjacent,180,12,866.69,72.22,3655,0.9736,0.9471,0.0
 2026-07-09,Post-campaign,Trail Accessories,Adjacent,310,20,711.69,35.58,4805,0.9487,0.9538,0.0
 2026-07-10,Post-campaign,Vestal Pro,Footwear,420,17,2707.87,159.29,407,0.61,0.42,0.0588
 2026-07-10,Post-campaign,Sense Ride,Footwear,494,24,2889.42,120.39,766,0.9659,0.9032,0.125
-2026-07-10,Post-campaign,Genesis,Footwear,817,33,4772.72,144.63,1091,0.9426,0.8883,0.0909
+2026-07-10,Post-campaign,Ultra Glide,Footwear,817,33,4772.72,144.63,1091,0.9426,0.8883,0.0909
 2026-07-10,Post-campaign,Speedcross,Footwear,294,15,1898.65,126.58,1301,0.9608,0.9561,0.1333
 2026-07-10,Post-campaign,Trail Apparel,Adjacent,516,28,2028.25,72.44,3627,0.9365,0.9341,0.0357
 2026-07-10,Post-campaign,Trail Accessories,Adjacent,264,19,801.72,42.2,4786,0.9819,0.9126,0.0
 2026-07-11,Post-campaign,Vestal Pro,Footwear,390,19,2692.33,141.7,388,0.61,0.42,0.1579
 2026-07-11,Post-campaign,Sense Ride,Footwear,603,29,3569.57,123.09,737,0.9528,0.9258,0.1034
-2026-07-11,Post-campaign,Genesis,Footwear,401,16,2294.22,143.39,1075,0.9262,0.9083,0.125
+2026-07-11,Post-campaign,Ultra Glide,Footwear,401,16,2294.22,143.39,1075,0.9262,0.9083,0.125
 2026-07-11,Post-campaign,Speedcross,Footwear,456,28,3858.93,137.82,1273,0.9684,0.944,0.0714
 2026-07-11,Post-campaign,Trail Apparel,Adjacent,350,21,1559.03,74.24,3606,0.9825,0.921,0.0476
 2026-07-11,Post-campaign,Trail Accessories,Adjacent,325,24,1101.81,45.91,4762,0.9381,0.9458,0.0
 2026-07-12,Post-campaign,Vestal Pro,Footwear,361,12,1534.76,127.9,376,0.61,0.42,0.25
 2026-07-12,Post-campaign,Sense Ride,Footwear,575,30,3244.79,108.16,707,0.916,0.9287,0.2
-2026-07-12,Post-campaign,Genesis,Footwear,475,22,2722.61,123.75,1053,0.9476,0.9289,0.2273
+2026-07-12,Post-campaign,Ultra Glide,Footwear,475,22,2722.61,123.75,1053,0.9476,0.9289,0.2273
 2026-07-12,Post-campaign,Speedcross,Footwear,344,18,2201.96,122.33,1255,0.9429,0.9799,0.1667
 2026-07-12,Post-campaign,Trail Apparel,Adjacent,302,18,1153.74,64.1,3588,0.9361,0.9214,0.0556
 2026-07-12,Post-campaign,Trail Accessories,Adjacent,218,16,600.02,37.5,4746,0.9503,0.9377,0.0625
 2026-07-13,Post-campaign,Vestal Pro,Footwear,347,11,1856.18,168.74,365,0.61,0.42,0.0
 2026-07-13,Post-campaign,Sense Ride,Footwear,482,23,3020.69,131.33,684,0.9545,0.8904,0.0
-2026-07-13,Post-campaign,Genesis,Footwear,375,19,2645.92,139.26,1034,0.9246,0.8712,0.1579
+2026-07-13,Post-campaign,Ultra Glide,Footwear,375,19,2645.92,139.26,1034,0.9246,0.8712,0.1579
 2026-07-13,Post-campaign,Speedcross,Footwear,462,23,3217.26,139.88,1232,0.951,0.9623,0.0435
 2026-07-13,Post-campaign,Trail Apparel,Adjacent,272,17,1228.48,72.26,3571,0.9457,0.9001,0.0588
 2026-07-13,Post-campaign,Trail Accessories,Adjacent,352,28,1249.27,44.62,4718,0.9667,0.9322,0.0
 2026-07-14,Post-campaign,Vestal Pro,Footwear,359,13,1702.81,130.99,352,0.61,0.42,0.2308
 2026-07-14,Post-campaign,Sense Ride,Footwear,506,26,2907.79,111.84,658,0.931,0.8923,0.1538
-2026-07-14,Post-campaign,Genesis,Footwear,393,18,2647.57,147.09,1016,0.9201,0.8976,0.0556
+2026-07-14,Post-campaign,Ultra Glide,Footwear,393,18,2647.57,147.09,1016,0.9201,0.8976,0.0556
 2026-07-14,Post-campaign,Speedcross,Footwear,412,21,2650.86,126.23,1211,0.9933,0.9457,0.1429
 2026-07-14,Post-campaign,Trail Apparel,Adjacent,299,20,1235.66,61.78,3551,0.9505,0.9363,0.1
 2026-07-14,Post-campaign,Trail Accessories,Adjacent,323,23,1055.16,45.88,4695,0.9718,0.9411,0.0435
 2026-07-15,Post-campaign,Vestal Pro,Footwear,358,8,684.38,85.55,344,0.61,0.42,0.5
 2026-07-15,Post-campaign,Sense Ride,Footwear,480,25,3427.18,137.09,633,0.9317,0.9129,0.0
-2026-07-15,Post-campaign,Genesis,Footwear,351,17,2426.9,142.76,999,0.9376,0.933,0.1176
+2026-07-15,Post-campaign,Ultra Glide,Footwear,351,17,2426.9,142.76,999,0.9376,0.933,0.1176
 2026-07-15,Post-campaign,Speedcross,Footwear,322,18,2079.12,115.51,1193,0.9478,0.9575,0.2222
 2026-07-15,Post-campaign,Trail Apparel,Adjacent,342,18,1262.71,70.15,3533,0.9102,0.9111,0.0
 2026-07-15,Post-campaign,Trail Accessories,Adjacent,213,16,681.58,42.6,4679,0.9787,0.9438,0.0625
 2026-07-16,Post-campaign,Vestal Pro,Footwear,356,8,1355.79,169.47,336,0.61,0.42,0.0
 2026-07-16,Post-campaign,Sense Ride,Footwear,396,22,2930.9,133.22,611,0.961,0.9081,0.0455
-2026-07-16,Post-campaign,Genesis,Footwear,301,14,2066.97,147.64,985,0.9361,0.8928,0.0714
+2026-07-16,Post-campaign,Ultra Glide,Footwear,301,14,2066.97,147.64,985,0.9361,0.8928,0.0714
 2026-07-16,Post-campaign,Speedcross,Footwear,468,25,3219.97,128.8,1168,0.9448,0.9212,0.12
 2026-07-16,Post-campaign,Trail Apparel,Adjacent,274,17,1124.63,66.15,3516,0.9323,0.9319,0.0588
 2026-07-16,Post-campaign,Trail Accessories,Adjacent,299,22,921.98,41.91,4657,1.0,0.9442,0.0455
 2026-07-17,Post-campaign,Vestal Pro,Footwear,396,14,1689.39,120.67,322,0.61,0.42,0.2857
 2026-07-17,Post-campaign,Sense Ride,Footwear,568,26,3340.21,128.47,585,0.9302,0.9341,0.0769
-2026-07-17,Post-campaign,Genesis,Footwear,433,19,3124.47,164.45,966,0.912,0.9206,0.0
+2026-07-17,Post-campaign,Ultra Glide,Footwear,433,19,3124.47,164.45,966,0.912,0.9206,0.0
 2026-07-17,Post-campaign,Speedcross,Footwear,289,15,2136.42,142.43,1153,0.9468,0.9473,0.0
 2026-07-17,Post-campaign,Trail Apparel,Adjacent,399,24,1805.23,75.22,3492,0.9595,0.9271,0.0417
 2026-07-17,Post-campaign,Trail Accessories,Adjacent,352,23,1029.36,44.75,4634,0.9739,0.9562,0.0435
 2026-07-18,Post-campaign,Vestal Pro,Footwear,386,10,1513.28,151.33,312,0.61,0.42,0.1
 2026-07-18,Post-campaign,Sense Ride,Footwear,591,27,3104.4,114.98,558,0.9512,0.9174,0.1481
-2026-07-18,Post-campaign,Genesis,Footwear,377,17,2409.61,141.74,949,0.9278,0.9181,0.1176
+2026-07-18,Post-campaign,Ultra Glide,Footwear,377,17,2409.61,141.74,949,0.9278,0.9181,0.1176
 2026-07-18,Post-campaign,Speedcross,Footwear,411,23,3061.33,133.1,1130,0.9876,0.9543,0.087
 2026-07-18,Post-campaign,Trail Apparel,Adjacent,475,24,1815.34,75.64,3468,0.9397,0.9101,0.0
 2026-07-18,Post-campaign,Trail Accessories,Adjacent,227,17,759.94,44.7,4617,0.9925,0.9241,0.0
 2026-07-19,Post-campaign,Vestal Pro,Footwear,373,13,1697.55,130.58,299,0.61,0.42,0.2308
 2026-07-19,Post-campaign,Sense Ride,Footwear,499,26,3130.31,120.4,532,0.9781,0.9451,0.1154
-2026-07-19,Post-campaign,Genesis,Footwear,416,21,3154.34,150.21,928,0.8919,0.8668,0.0476
+2026-07-19,Post-campaign,Ultra Glide,Footwear,416,21,3154.34,150.21,928,0.8919,0.8668,0.0476
 2026-07-19,Post-campaign,Speedcross,Footwear,386,21,2564.84,122.14,1109,0.9676,0.9352,0.1429
 2026-07-19,Post-campaign,Trail Apparel,Adjacent,453,23,1672.86,72.73,3445,0.9731,0.898,0.0
 2026-07-19,Post-campaign,Trail Accessories,Adjacent,239,18,766.75,42.6,4599,0.9763,0.9214,0.0556
 2026-07-20,Post-campaign,Vestal Pro,Footwear,312,12,1362.43,113.54,287,0.61,0.42,0.3333
 2026-07-20,Post-campaign,Sense Ride,Footwear,552,28,3072.51,109.73,504,0.9705,0.9016,0.1786
-2026-07-20,Post-campaign,Genesis,Footwear,261,12,1608.71,134.06,916,0.9176,0.9136,0.1667
+2026-07-20,Post-campaign,Ultra Glide,Footwear,261,12,1608.71,134.06,916,0.9176,0.9136,0.1667
 2026-07-20,Post-campaign,Speedcross,Footwear,449,23,3178.51,138.2,1086,0.9764,0.9102,0.0435
 2026-07-20,Post-campaign,Trail Apparel,Adjacent,247,15,1005.12,67.01,3430,0.9808,0.9284,0.0667
 2026-07-20,Post-campaign,Trail Accessories,Adjacent,236,18,775.34,43.07,4581,0.9843,0.92,0.0

@@ -1,30 +1,30 @@
 contact_id,contact_date,order_id,customer_id,product,contact_reason,sentiment,resolved,campaign_phase
 CS000001,2026-03-04,ORD0000041,C003239,Trail Apparel,Shipping,Negative,False,Pre-campaign
 CS000002,2026-03-03,ORD0000063,C002072,Speedcross,Shipping,Negative,True,Pre-campaign
-CS000003,2026-03-06,ORD0000075,C000317,Genesis,Return request,Negative,True,Pre-campaign
+CS000003,2026-03-06,ORD0000075,C000317,Ultra Glide,Return request,Negative,True,Pre-campaign
 CS000004,2026-03-02,ORD0000115,C000583,Speedcross,Product comparison,Positive,True,Pre-campaign
-CS000005,2026-03-09,ORD0000160,C000287,Genesis,Return request,Negative,True,Pre-campaign
+CS000005,2026-03-09,ORD0000160,C000287,Ultra Glide,Return request,Negative,True,Pre-campaign
 CS000006,2026-03-08,ORD0000199,C002953,Speedcross,Sizing and fit,Negative,True,Pre-campaign
 CS000007,2026-03-04,ORD0000213,C002039,Sense Ride,Return request,Negative,True,Pre-campaign
 CS000008,2026-03-05,ORD0000218,C003341,Speedcross,Sizing and fit,Positive,True,Pre-campaign
 CS000009,2026-03-03,ORD0000225,C001984,Speedcross,Sizing and fit,Negative,False,Pre-campaign
 CS000010,2026-03-08,ORD0000225,C001984,Speedcross,Return request,Neutral,True,Pre-campaign
-CS000011,2026-03-04,ORD0000299,C003572,Genesis,Sizing and fit,Negative,True,Pre-campaign
+CS000011,2026-03-04,ORD0000299,C003572,Ultra Glide,Sizing and fit,Negative,True,Pre-campaign
 CS000012,2026-03-09,ORD0000425,C001058,Speedcross,Return request,Negative,True,Pre-campaign
-CS000013,2026-03-08,ORD0000444,C000983,Genesis,Return request,Negative,True,Pre-campaign
-CS000014,2026-03-08,ORD0000444,C000983,Genesis,Sizing and fit,Neutral,True,Pre-campaign
-CS000015,2026-03-06,ORD0000458,C003411,Genesis,Order status,Neutral,True,Pre-campaign
+CS000013,2026-03-08,ORD0000444,C000983,Ultra Glide,Return request,Negative,True,Pre-campaign
+CS000014,2026-03-08,ORD0000444,C000983,Ultra Glide,Sizing and fit,Neutral,True,Pre-campaign
+CS000015,2026-03-06,ORD0000458,C003411,Ultra Glide,Order status,Neutral,True,Pre-campaign
 CS000016,2026-03-14,ORD0000521,C000694,Trail Apparel,Order status,Positive,True,Pre-campaign
 CS000017,2026-03-08,ORD0000531,C000949,Speedcross,Sizing and fit,Negative,True,Pre-campaign
-CS000018,2026-03-09,ORD0000532,C000616,Genesis,Product comparison,Neutral,True,Pre-campaign
+CS000018,2026-03-09,ORD0000532,C000616,Ultra Glide,Product comparison,Neutral,True,Pre-campaign
 CS000019,2026-03-08,ORD0000542,C001862,Sense Ride,Sizing and fit,Positive,True,Pre-campaign
-CS000020,2026-03-08,ORD0000555,C003385,Genesis,Product comparison,Negative,True,Pre-campaign
+CS000020,2026-03-08,ORD0000555,C003385,Ultra Glide,Product comparison,Negative,True,Pre-campaign
 CS000021,2026-03-10,ORD0000572,C002614,Sense Ride,Order status,Neutral,True,Pre-campaign
 CS000022,2026-03-10,ORD0000587,C003641,Trail Apparel,Return request,Negative,True,Pre-campaign
 CS000023,2026-03-08,ORD0000588,C002153,Speedcross,Sizing and fit,Neutral,True,Pre-campaign
 CS000024,2026-03-10,ORD0000632,C000279,Sense Ride,Shipping,Neutral,False,Pre-campaign
-CS000025,2026-03-11,ORD0000636,C003048,Genesis,Return request,Negative,True,Pre-campaign
-CS000026,2026-03-09,ORD0000662,C001188,Genesis,Return request,Neutral,True,Pre-campaign
+CS000025,2026-03-11,ORD0000636,C003048,Ultra Glide,Return request,Negative,True,Pre-campaign
+CS000026,2026-03-09,ORD0000662,C001188,Ultra Glide,Return request,Neutral,True,Pre-campaign
 CS000027,2026-03-11,ORD0000698,C003510,Sense Ride,Sizing and fit,Neutral,True,Pre-campaign
 CS000028,2026-03-12,ORD0000698,C003510,Sense Ride,Shipping,Neutral,True,Pre-campaign
 CS000029,2026-03-16,ORD0000699,C002015,Sense Ride,Shipping,Neutral,True,Pre-campaign
@@ -33,19 +33,19 @@ CS000031,2026-03-12,ORD0000704,C003672,Speedcross,Product comparison,Neutral,Tru
 CS000032,2026-03-10,ORD0000717,C003678,Trail Apparel,Product comparison,Neutral,True,Pre-campaign
 CS000033,2026-03-19,ORD0000776,C001333,Sense Ride,Return request,Neutral,True,Pre-campaign
 CS000034,2026-03-10,ORD0000803,C001786,Speedcross,Sizing and fit,Negative,True,Pre-campaign
-CS000035,2026-03-11,ORD0000805,C001224,Genesis,Order status,Neutral,True,Pre-campaign
+CS000035,2026-03-11,ORD0000805,C001224,Ultra Glide,Order status,Neutral,True,Pre-campaign
 CS000036,2026-03-10,ORD0000812,C002703,Speedcross,Sizing and fit,Neutral,True,Pre-campaign
 CS000037,2026-03-19,ORD0000824,C003710,Speedcross,Shipping,Positive,True,Pre-campaign
 CS000038,2026-03-17,ORD0000830,C002974,Speedcross,Product comparison,Neutral,True,Pre-campaign
-CS000039,2026-03-13,ORD0000863,C003402,Genesis,Order status,Negative,True,Pre-campaign
+CS000039,2026-03-13,ORD0000863,C003402,Ultra Glide,Order status,Negative,True,Pre-campaign
 CS000040,2026-03-11,ORD0000886,C000170,Speedcross,Shipping,Negative,True,Pre-campaign
 CS000041,2026-03-13,ORD0000903,C000752,Trail Accessories,Shipping,Neutral,True,Pre-campaign
 CS000042,2026-03-15,ORD0000931,C000214,Sense Ride,Return request,Neutral,True,Pre-campaign
-CS000043,2026-03-12,ORD0000936,C003429,Genesis,Product comparison,Neutral,True,Pre-campaign
+CS000043,2026-03-12,ORD0000936,C003429,Ultra Glide,Product comparison,Neutral,True,Pre-campaign
 CS000044,2026-03-14,ORD0000971,C002453,Sense Ride,Shipping,Neutral,True,Pre-campaign
 CS000045,2026-03-20,ORD0001037,C000534,Speedcross,Inventory availability,Neutral,True,Pre-campaign
-CS000046,2026-03-18,ORD0001075,C003783,Genesis,Order status,Neutral,True,Pre-campaign
-CS000047,2026-03-16,ORD0001114,C001703,Genesis,Shipping,Neutral,True,Pre-campaign
+CS000046,2026-03-18,ORD0001075,C003783,Ultra Glide,Order status,Neutral,True,Pre-campaign
+CS000047,2026-03-16,ORD0001114,C001703,Ultra Glide,Shipping,Neutral,True,Pre-campaign
 CS000048,2026-03-23,ORD0001145,C000143,Sense Ride,Order status,Negative,True,Pre-campaign
 CS000049,2026-03-15,ORD0001209,C000441,Sense Ride,Sizing and fit,Neutral,True,Pre-campaign
 CS000050,2026-03-15,ORD0001236,C003829,Trail Apparel,Shipping,Positive,True,Pre-campaign
@@ -55,10 +55,10 @@ CS000053,2026-03-17,ORD0001299,C002145,Speedcross,Sizing and fit,Positive,True,P
 CS000054,2026-03-18,ORD0001338,C003847,Sense Ride,Order status,Negative,True,Pre-campaign
 CS000055,2026-03-16,ORD0001343,C000345,Trail Apparel,Shipping,Negative,True,Pre-campaign
 CS000056,2026-03-16,ORD0001353,C003115,Speedcross,Sizing and fit,Negative,False,Pre-campaign
-CS000057,2026-03-17,ORD0001367,C002507,Genesis,Sizing and fit,Positive,True,Pre-campaign
+CS000057,2026-03-17,ORD0001367,C002507,Ultra Glide,Sizing and fit,Positive,True,Pre-campaign
 CS000058,2026-03-17,ORD0001384,C003862,Sense Ride,Sizing and fit,Negative,True,Pre-campaign
 CS000059,2026-03-19,ORD0001400,C003865,Speedcross,Shipping,Negative,True,Pre-campaign
-CS000060,2026-03-19,ORD0001424,C000964,Genesis,Product defect,Negative,True,Pre-campaign
+CS000060,2026-03-19,ORD0001424,C000964,Ultra Glide,Product defect,Negative,True,Pre-campaign
 CS000061,2026-03-18,ORD0001440,C001382,Speedcross,Sizing and fit,Neutral,True,Pre-campaign
 CS000062,2026-03-18,ORD0001499,C003892,Sense Ride,Order status,Positive,True,Pre-campaign
 CS000063,2026-03-19,ORD0001513,C000351,Sense Ride,Sizing and fit,Positive,True,Pre-campaign
@@ -67,13 +67,13 @@ CS000065,2026-03-25,ORD0001519,C003725,Speedcross,Order status,Neutral,True,Pre-
 CS000066,2026-03-19,ORD0001529,C002238,Trail Accessories,Return request,Neutral,True,Pre-campaign
 CS000067,2026-03-21,ORD0001555,C003884,Speedcross,Return request,Neutral,True,Pre-campaign
 CS000068,2026-03-26,ORD0001555,C003884,Speedcross,Sizing and fit,Neutral,True,Pre-campaign
-CS000069,2026-03-25,ORD0001619,C003924,Genesis,Product comparison,Neutral,True,Pre-campaign
-CS000070,2026-03-20,ORD0001619,C003924,Genesis,Sizing and fit,Positive,True,Pre-campaign
+CS000069,2026-03-25,ORD0001619,C003924,Ultra Glide,Product comparison,Neutral,True,Pre-campaign
+CS000070,2026-03-20,ORD0001619,C003924,Ultra Glide,Sizing and fit,Positive,True,Pre-campaign
 CS000071,2026-03-21,ORD0001634,C000201,Sense Ride,Return request,Neutral,True,Pre-campaign
 CS000072,2026-03-23,ORD0001635,C000640,Trail Accessories,Order status,Negative,True,Pre-campaign
 CS000073,2026-03-20,ORD0001635,C000640,Trail Accessories,Order status,Negative,True,Pre-campaign
-CS000074,2026-03-21,ORD0001692,C002828,Genesis,Inventory availability,Neutral,True,Pre-campaign
-CS000075,2026-03-22,ORD0001692,C002828,Genesis,Inventory availability,Neutral,False,Pre-campaign
+CS000074,2026-03-21,ORD0001692,C002828,Ultra Glide,Inventory availability,Neutral,True,Pre-campaign
+CS000075,2026-03-22,ORD0001692,C002828,Ultra Glide,Inventory availability,Neutral,False,Pre-campaign
 CS000076,2026-03-28,ORD0001723,C001282,Trail Apparel,Shipping,Positive,True,Pre-campaign
 CS000077,2026-03-26,ORD0001746,C003065,Trail Accessories,Return request,Negative,True,Pre-campaign
 CS000078,2026-03-22,ORD0001748,C002732,Speedcross,Sizing and fit,Negative,True,Pre-campaign
@@ -87,7 +87,7 @@ CS000085,2026-03-23,ORD0001908,C000469,Sense Ride,Return request,Negative,True,P
 CS000086,2026-03-24,ORD0001954,C002257,Speedcross,Sizing and fit,Neutral,True,Pre-campaign
 CS000087,2026-03-25,ORD0001954,C002257,Speedcross,Order status,Positive,True,Pre-campaign
 CS000088,2026-03-25,ORD0001955,C003660,Speedcross,Shipping,Neutral,True,Pre-campaign
-CS000089,2026-03-23,ORD0001956,C003995,Genesis,Return request,Negative,True,Pre-campaign
+CS000089,2026-03-23,ORD0001956,C003995,Ultra Glide,Return request,Negative,True,Pre-campaign
 CS000090,2026-03-28,ORD0001964,C001712,Trail Apparel,Inventory availability,Negative,False,Pre-campaign
 CS000091,2026-03-23,ORD0001975,C001843,Trail Apparel,Shipping,Negative,True,Pre-campaign
 CS000092,2026-03-24,ORD0001975,C001843,Trail Apparel,Order status,Neutral,True,Pre-campaign
@@ -97,16 +97,16 @@ CS000095,2026-03-27,ORD0002043,C000469,Sense Ride,Sizing and fit,Neutral,True,Pr
 CS000096,2026-03-24,ORD0002043,C000469,Sense Ride,Sizing and fit,Positive,True,Pre-campaign
 CS000097,2026-03-26,ORD0002069,C004018,Speedcross,Sizing and fit,Positive,True,Pre-campaign
 CS000098,2026-03-24,ORD0002071,C002575,Trail Accessories,Order status,Positive,True,Pre-campaign
-CS000099,2026-03-25,ORD0002073,C004019,Genesis,Inventory availability,Negative,False,Pre-campaign
+CS000099,2026-03-25,ORD0002073,C004019,Ultra Glide,Inventory availability,Negative,False,Pre-campaign
 CS000100,2026-03-25,ORD0002117,C000861,Speedcross,Product comparison,Positive,True,Pre-campaign
 CS000101,2026-03-27,ORD0002208,C003963,Speedcross,Order status,Negative,True,Pre-campaign
-CS000102,2026-03-27,ORD0002209,C003547,Genesis,Sizing and fit,Negative,True,Pre-campaign
+CS000102,2026-03-27,ORD0002209,C003547,Ultra Glide,Sizing and fit,Negative,True,Pre-campaign
 CS000103,2026-03-28,ORD0002255,C003831,Trail Apparel,Product comparison,Neutral,True,Pre-campaign
 CS000104,2026-04-01,ORD0002271,C002814,Sense Ride,Order status,Neutral,True,Pre-campaign
 CS000105,2026-04-01,ORD0002271,C002814,Sense Ride,Return request,Negative,False,Pre-campaign
 CS000106,2026-03-27,ORD0002272,C004071,Sense Ride,Sizing and fit,Neutral,True,Pre-campaign
 CS000107,2026-03-27,ORD0002284,C001679,Sense Ride,Sizing and fit,Negative,True,Pre-campaign
-CS000108,2026-03-31,ORD0002350,C004093,Genesis,Product comparison,Neutral,True,Pre-campaign
+CS000108,2026-03-31,ORD0002350,C004093,Ultra Glide,Product comparison,Neutral,True,Pre-campaign
 CS000109,2026-03-29,ORD0002361,C004094,Sense Ride,Sizing and fit,Negative,True,Pre-campaign
 CS000110,2026-04-02,ORD0002373,C003971,Trail Apparel,Return request,Negative,True,Pre-campaign
 CS000111,2026-03-28,ORD0002407,C003564,Trail Apparel,Shipping,Negative,True,Pre-campaign
@@ -120,32 +120,32 @@ CS000118,2026-04-09,ORD0002638,C003364,Speedcross,Order status,Neutral,True,Pre-
 CS000119,2026-04-01,ORD0002662,C003265,Sense Ride,Order status,Neutral,True,Pre-campaign
 CS000120,2026-04-02,ORD0002663,C003067,Sense Ride,Return request,Negative,True,Pre-campaign
 CS000121,2026-04-07,ORD0002670,C000065,Trail Apparel,Inventory availability,Negative,True,Pre-campaign
-CS000122,2026-04-02,ORD0002705,C003041,Genesis,Inventory availability,Positive,True,Pre-campaign
+CS000122,2026-04-02,ORD0002705,C003041,Ultra Glide,Inventory availability,Positive,True,Pre-campaign
 CS000123,2026-04-02,ORD0002720,C000170,Sense Ride,Shipping,Negative,True,Pre-campaign
-CS000124,2026-04-01,ORD0002728,C002810,Genesis,Sizing and fit,Neutral,True,Pre-campaign
+CS000124,2026-04-01,ORD0002728,C002810,Ultra Glide,Sizing and fit,Neutral,True,Pre-campaign
 CS000125,2026-04-06,ORD0002744,C004167,Sense Ride,Return request,Negative,True,Pre-campaign
 CS000126,2026-04-01,ORD0002744,C004167,Sense Ride,Return request,Neutral,True,Pre-campaign
 CS000127,2026-04-03,ORD0002792,C004183,Sense Ride,Inventory availability,Negative,True,Pre-campaign
 CS000128,2026-04-02,ORD0002798,C000676,Speedcross,Inventory availability,Neutral,False,Pre-campaign
 CS000129,2026-04-04,ORD0002804,C002533,Sense Ride,Sizing and fit,Neutral,True,Pre-campaign
-CS000130,2026-04-05,ORD0002842,C001684,Genesis,Inventory availability,Positive,False,Pre-campaign
+CS000130,2026-04-05,ORD0002842,C001684,Ultra Glide,Inventory availability,Positive,False,Pre-campaign
 CS000131,2026-04-07,ORD0002864,C000431,Sense Ride,Return request,Neutral,False,Pre-campaign
 CS000132,2026-04-03,ORD0002868,C002619,Sense Ride,Inventory availability,Negative,True,Pre-campaign
 CS000133,2026-04-06,ORD0002902,C003842,Sense Ride,Product defect,Negative,True,Pre-campaign
 CS000134,2026-04-04,ORD0002914,C002578,Trail Apparel,Inventory availability,Neutral,True,Pre-campaign
 CS000135,2026-04-03,ORD0002932,C001815,Speedcross,Return request,Neutral,True,Pre-campaign
-CS000136,2026-04-04,ORD0002990,C002980,Genesis,Inventory availability,Negative,True,Pre-campaign
+CS000136,2026-04-04,ORD0002990,C002980,Ultra Glide,Inventory availability,Negative,True,Pre-campaign
 CS000137,2026-04-04,ORD0003027,C001641,Speedcross,Sizing and fit,Positive,True,Pre-campaign
-CS000138,2026-04-05,ORD0003057,C004252,Genesis,Return request,Neutral,True,Pre-campaign
+CS000138,2026-04-05,ORD0003057,C004252,Ultra Glide,Return request,Neutral,True,Pre-campaign
 CS000139,2026-04-10,ORD0003137,C003608,Trail Apparel,Product defect,Negative,True,Pre-campaign
 CS000140,2026-04-05,ORD0003138,C003898,Speedcross,Product comparison,Neutral,True,Pre-campaign
 CS000141,2026-04-06,ORD0003208,C002617,Trail Accessories,Order status,Neutral,True,Pre-campaign
-CS000142,2026-04-06,ORD0003212,C004292,Genesis,Inventory availability,Positive,True,Pre-campaign
+CS000142,2026-04-06,ORD0003212,C004292,Ultra Glide,Inventory availability,Positive,True,Pre-campaign
 CS000143,2026-04-07,ORD0003228,C003040,Sense Ride,Sizing and fit,Negative,True,Pre-campaign
-CS000144,2026-04-06,ORD0003229,C004298,Genesis,Product comparison,Neutral,True,Pre-campaign
-CS000145,2026-04-06,ORD0003243,C004302,Genesis,Sizing and fit,Neutral,True,Pre-campaign
+CS000144,2026-04-06,ORD0003229,C004298,Ultra Glide,Product comparison,Neutral,True,Pre-campaign
+CS000145,2026-04-06,ORD0003243,C004302,Ultra Glide,Sizing and fit,Neutral,True,Pre-campaign
 CS000146,2026-04-07,ORD0003256,C000878,Sense Ride,Return request,Neutral,True,Pre-campaign
-CS000147,2026-04-10,ORD0003293,C001188,Genesis,Inventory availability,Positive,False,Pre-campaign
+CS000147,2026-04-10,ORD0003293,C001188,Ultra Glide,Inventory availability,Positive,False,Pre-campaign
 CS000148,2026-04-14,ORD0003295,C004313,Sense Ride,Return request,Neutral,False,Pre-campaign
 CS000149,2026-04-12,ORD0003427,C000575,Speedcross,Sizing and fit,Neutral,True,Pre-campaign
 CS000150,2026-04-12,ORD0003427,C000575,Speedcross,Shipping,Neutral,True,Pre-campaign
@@ -153,23 +153,23 @@ CS000151,2026-04-11,ORD0003441,C002841,Trail Apparel,Shipping,Neutral,True,Pre-c
 CS000152,2026-04-11,ORD0003452,C003465,Speedcross,Shipping,Negative,True,Pre-campaign
 CS000153,2026-04-11,ORD0003487,C000421,Speedcross,Product comparison,Neutral,True,Pre-campaign
 CS000154,2026-04-10,ORD0003512,C002790,Speedcross,Order status,Negative,True,Pre-campaign
-CS000155,2026-04-18,ORD0003604,C003175,Genesis,Return request,Neutral,True,Pre-campaign
+CS000155,2026-04-18,ORD0003604,C003175,Ultra Glide,Return request,Neutral,True,Pre-campaign
 CS000156,2026-04-20,ORD0003610,C004395,Sense Ride,Return request,Neutral,True,Pre-campaign
 CS000157,2026-04-11,ORD0003637,C004401,Sense Ride,Sizing and fit,Negative,True,Pre-campaign
-CS000158,2026-04-12,ORD0003659,C002287,Genesis,Return request,Neutral,True,Pre-campaign
+CS000158,2026-04-12,ORD0003659,C002287,Ultra Glide,Return request,Neutral,True,Pre-campaign
 CS000159,2026-04-20,ORD0003673,C004412,Sense Ride,Inventory availability,Neutral,True,Pre-campaign
-CS000160,2026-04-13,ORD0003684,C000681,Genesis,Order status,Neutral,True,Pre-campaign
+CS000160,2026-04-13,ORD0003684,C000681,Ultra Glide,Order status,Neutral,True,Pre-campaign
 CS000161,2026-04-13,ORD0003689,C001495,Sense Ride,Inventory availability,Neutral,True,Pre-campaign
 CS000162,2026-04-15,ORD0003694,C001878,Trail Accessories,Order status,Negative,True,Pre-campaign
 CS000163,2026-04-13,ORD0003698,C004418,Trail Accessories,Shipping,Neutral,True,Pre-campaign
 CS000164,2026-04-14,ORD0003716,C004422,Sense Ride,Product comparison,Positive,True,Pre-campaign
 CS000165,2026-04-14,ORD0003735,C003660,Sense Ride,Shipping,Negative,True,Pre-campaign
 CS000166,2026-04-12,ORD0003735,C003660,Sense Ride,Product comparison,Neutral,True,Pre-campaign
-CS000167,2026-04-12,ORD0003745,C000663,Genesis,Product comparison,Neutral,True,Pre-campaign
+CS000167,2026-04-12,ORD0003745,C000663,Ultra Glide,Product comparison,Neutral,True,Pre-campaign
 CS000168,2026-04-15,ORD0003758,C004429,Sense Ride,Sizing and fit,Neutral,True,Pre-campaign
 CS000169,2026-04-13,ORD0003820,C002174,Trail Apparel,Order status,Negative,True,Pre-campaign
-CS000170,2026-04-14,ORD0003836,C000303,Genesis,Sizing and fit,Positive,False,Pre-campaign
-CS000171,2026-04-13,ORD0003843,C001988,Genesis,Shipping,Neutral,True,Pre-campaign
+CS000170,2026-04-14,ORD0003836,C000303,Ultra Glide,Sizing and fit,Positive,False,Pre-campaign
+CS000171,2026-04-13,ORD0003843,C001988,Ultra Glide,Shipping,Neutral,True,Pre-campaign
 CS000172,2026-04-15,ORD0003876,C002222,Speedcross,Order status,Neutral,True,Pre-campaign
 CS000173,2026-04-14,ORD0003879,C004344,Trail Accessories,Sizing and fit,Neutral,True,Pre-campaign
 CS000174,2026-04-15,ORD0003887,C003812,Sense Ride,Return request,Negative,True,Pre-campaign
@@ -183,28 +183,28 @@ CS000181,2026-04-20,ORD0004006,C002818,Speedcross,Shipping,Neutral,True,Pre-camp
 CS000182,2026-04-16,ORD0004015,C004485,Speedcross,Product comparison,Neutral,True,Pre-campaign
 CS000183,2026-04-17,ORD0004034,C004183,Trail Accessories,Shipping,Positive,True,Pre-campaign
 CS000184,2026-04-19,ORD0004064,C004497,Speedcross,Product comparison,Neutral,True,Pre-campaign
-CS000185,2026-04-23,ORD0004066,C000865,Genesis,Sizing and fit,Positive,True,Pre-campaign
+CS000185,2026-04-23,ORD0004066,C000865,Ultra Glide,Sizing and fit,Positive,True,Pre-campaign
 CS000186,2026-04-19,ORD0004080,C004502,Sense Ride,Order status,Neutral,True,Pre-campaign
 CS000187,2026-04-18,ORD0004081,C003699,Speedcross,Product comparison,Neutral,True,Pre-campaign
-CS000188,2026-04-23,ORD0004108,C001348,Genesis,Inventory availability,Positive,False,Pre-campaign
-CS000189,2026-04-18,ORD0004195,C004435,Genesis,Shipping,Negative,True,Pre-campaign
+CS000188,2026-04-23,ORD0004108,C001348,Ultra Glide,Inventory availability,Positive,False,Pre-campaign
+CS000189,2026-04-18,ORD0004195,C004435,Ultra Glide,Shipping,Negative,True,Pre-campaign
 CS000190,2026-04-20,ORD0004244,C004543,Sense Ride,Product comparison,Neutral,True,Pre-campaign
 CS000191,2026-04-19,ORD0004252,C002521,Speedcross,Order status,Negative,True,Pre-campaign
 CS000192,2026-04-25,ORD0004276,C003180,Trail Apparel,Return request,Neutral,True,Pre-campaign
 CS000193,2026-04-21,ORD0004295,C002426,Trail Accessories,Shipping,Neutral,True,Pre-campaign
-CS000194,2026-04-28,ORD0004358,C004563,Genesis,Return request,Neutral,False,Pre-campaign
+CS000194,2026-04-28,ORD0004358,C004563,Ultra Glide,Return request,Neutral,False,Pre-campaign
 CS000195,2026-04-24,ORD0004369,C004133,Sense Ride,Shipping,Negative,True,Pre-campaign
 CS000196,2026-04-21,ORD0004369,C004133,Sense Ride,Inventory availability,Neutral,False,Pre-campaign
 CS000197,2026-04-19,ORD0004406,C004579,Speedcross,Order status,Negative,True,Pre-campaign
 CS000198,2026-04-23,ORD0004447,C004571,Trail Apparel,Inventory availability,Negative,True,Pre-campaign
-CS000199,2026-04-20,ORD0004483,C001137,Genesis,Product comparison,Neutral,True,Pre-campaign
-CS000200,2026-04-21,ORD0004499,C004259,Genesis,Product comparison,Neutral,True,Pre-campaign
-CS000201,2026-04-21,ORD0004526,C002661,Genesis,Return request,Negative,True,Pre-campaign
-CS000202,2026-04-30,ORD0004568,C003514,Genesis,Sizing and fit,Neutral,True,Pre-campaign
+CS000199,2026-04-20,ORD0004483,C001137,Ultra Glide,Product comparison,Neutral,True,Pre-campaign
+CS000200,2026-04-21,ORD0004499,C004259,Ultra Glide,Product comparison,Neutral,True,Pre-campaign
+CS000201,2026-04-21,ORD0004526,C002661,Ultra Glide,Return request,Negative,True,Pre-campaign
+CS000202,2026-04-30,ORD0004568,C003514,Ultra Glide,Sizing and fit,Neutral,True,Pre-campaign
 CS000203,2026-04-23,ORD0004579,C004629,Sense Ride,Return request,Negative,True,Pre-campaign
 CS000204,2026-04-26,ORD0004712,C001973,Speedcross,Shipping,Positive,True,Pre-campaign
-CS000205,2026-04-26,ORD0004715,C000862,Genesis,Sizing and fit,Positive,True,Pre-campaign
-CS000206,2026-04-24,ORD0004716,C000642,Genesis,Order status,Neutral,True,Pre-campaign
+CS000205,2026-04-26,ORD0004715,C000862,Ultra Glide,Sizing and fit,Positive,True,Pre-campaign
+CS000206,2026-04-24,ORD0004716,C000642,Ultra Glide,Order status,Neutral,True,Pre-campaign
 CS000207,2026-04-23,ORD0004746,C004671,Trail Accessories,Return request,Positive,True,Pre-campaign
 CS000208,2026-04-26,ORD0004794,C001052,Trail Accessories,Sizing and fit,Neutral,True,Pre-campaign
 CS000209,2026-04-25,ORD0004822,C004692,Trail Accessories,Product comparison,Neutral,True,Pre-campaign
@@ -217,22 +217,22 @@ CS000215,2026-04-27,ORD0004935,C004075,Sense Ride,Product comparison,Positive,Tr
 CS000216,2026-04-30,ORD0004938,C003226,Trail Apparel,Return request,Neutral,False,Pre-campaign
 CS000217,2026-05-04,ORD0004954,C002561,Speedcross,Product comparison,Neutral,True,Pre-campaign
 CS000218,2026-04-29,ORD0005007,C002113,Speedcross,Shipping,Positive,True,Pre-campaign
-CS000219,2026-04-27,ORD0005024,C001905,Genesis,Order status,Positive,True,Pre-campaign
-CS000220,2026-05-05,ORD0005048,C003008,Genesis,Inventory availability,Positive,True,Pre-campaign
+CS000219,2026-04-27,ORD0005024,C001905,Ultra Glide,Order status,Positive,True,Pre-campaign
+CS000220,2026-05-05,ORD0005048,C003008,Ultra Glide,Inventory availability,Positive,True,Pre-campaign
 CS000221,2026-05-02,ORD0005067,C004754,Trail Accessories,Order status,Positive,True,Pre-campaign
-CS000222,2026-04-28,ORD0005104,C003447,Genesis,Order status,Negative,True,Pre-campaign
+CS000222,2026-04-28,ORD0005104,C003447,Ultra Glide,Order status,Negative,True,Pre-campaign
 CS000223,2026-05-04,ORD0005105,C001664,Sense Ride,Order status,Positive,True,Pre-campaign
-CS000224,2026-04-28,ORD0005108,C003869,Genesis,Return request,Positive,True,Pre-campaign
+CS000224,2026-04-28,ORD0005108,C003869,Ultra Glide,Return request,Positive,True,Pre-campaign
 CS000225,2026-04-28,ORD0005125,C004775,Trail Accessories,Order status,Neutral,True,Pre-campaign
 CS000226,2026-04-28,ORD0005136,C004554,Speedcross,Return request,Negative,True,Pre-campaign
-CS000227,2026-05-05,ORD0005149,C004375,Genesis,Return request,Neutral,True,Pre-campaign
+CS000227,2026-05-05,ORD0005149,C004375,Ultra Glide,Return request,Neutral,True,Pre-campaign
 CS000228,2026-04-29,ORD0005206,C003829,Speedcross,Order status,Negative,True,Pre-campaign
 CS000229,2026-04-29,ORD0005274,C004813,Speedcross,Shipping,Negative,True,Pre-campaign
 CS000230,2026-05-01,ORD0005301,C004037,Trail Accessories,Shipping,Neutral,True,Pre-campaign
 CS000231,2026-05-01,ORD0005312,C003984,Sense Ride,Sizing and fit,Negative,True,Pre-campaign
-CS000232,2026-04-30,ORD0005313,C000049,Genesis,Shipping,Negative,True,Pre-campaign
+CS000232,2026-04-30,ORD0005313,C000049,Ultra Glide,Shipping,Negative,True,Pre-campaign
 CS000233,2026-05-05,ORD0005364,C002027,Trail Accessories,Return request,Neutral,False,Pre-campaign
-CS000234,2026-05-01,ORD0005448,C000140,Genesis,Sizing and fit,Positive,True,Pre-campaign
+CS000234,2026-05-01,ORD0005448,C000140,Ultra Glide,Sizing and fit,Positive,True,Pre-campaign
 CS000235,2026-05-01,ORD0005469,C004852,Trail Apparel,Order status,Neutral,True,Pre-campaign
 CS000236,2026-05-02,ORD0005469,C004852,Trail Apparel,Shipping,Negative,True,Pre-campaign
 CS000237,2026-05-07,ORD0005498,C004226,Sense Ride,Product comparison,Positive,True,Pre-campaign
@@ -240,23 +240,23 @@ CS000238,2026-05-07,ORD0005533,C000956,Sense Ride,Sizing and fit,Negative,True,P
 CS000239,2026-05-05,ORD0005581,C002140,Sense Ride,Return request,Neutral,True,Pre-campaign
 CS000240,2026-05-05,ORD0005593,C002909,Trail Apparel,Return request,Neutral,True,Pre-campaign
 CS000241,2026-05-04,ORD0005599,C001349,Speedcross,Sizing and fit,Positive,False,Pre-campaign
-CS000242,2026-05-04,ORD0005609,C000933,Genesis,Order status,Neutral,True,Pre-campaign
-CS000243,2026-05-03,ORD0005609,C000933,Genesis,Sizing and fit,Neutral,True,Pre-campaign
+CS000242,2026-05-04,ORD0005609,C000933,Ultra Glide,Order status,Neutral,True,Pre-campaign
+CS000243,2026-05-03,ORD0005609,C000933,Ultra Glide,Sizing and fit,Neutral,True,Pre-campaign
 CS000244,2026-05-03,ORD0005630,C004884,Speedcross,Product comparison,Positive,False,Pre-campaign
-CS000245,2026-05-04,ORD0005728,C003930,Genesis,Sizing and fit,Neutral,True,Pre-campaign
-CS000246,2026-05-09,ORD0005728,C003930,Genesis,Shipping,Neutral,True,Pre-campaign
+CS000245,2026-05-04,ORD0005728,C003930,Ultra Glide,Sizing and fit,Neutral,True,Pre-campaign
+CS000246,2026-05-09,ORD0005728,C003930,Ultra Glide,Shipping,Neutral,True,Pre-campaign
 CS000247,2026-05-09,ORD0005733,C001601,Sense Ride,Return request,Positive,True,Pre-campaign
 CS000248,2026-05-04,ORD0005744,C004265,Speedcross,Return request,Neutral,False,Pre-campaign
 CS000249,2026-05-14,ORD0005776,C001791,Trail Apparel,Sizing and fit,Negative,True,Pre-campaign
 CS000250,2026-05-14,ORD0005817,C001183,Trail Accessories,Shipping,Neutral,False,Pre-campaign
 CS000251,2026-05-12,ORD0005831,C004934,Speedcross,Sizing and fit,Neutral,True,Pre-campaign
-CS000252,2026-05-12,ORD0005848,C004532,Genesis,Order status,Neutral,True,Pre-campaign
-CS000253,2026-05-07,ORD0005889,C004952,Genesis,Shipping,Negative,True,Pre-campaign
+CS000252,2026-05-12,ORD0005848,C004532,Ultra Glide,Order status,Neutral,True,Pre-campaign
+CS000253,2026-05-07,ORD0005889,C004952,Ultra Glide,Shipping,Negative,True,Pre-campaign
 CS000254,2026-05-06,ORD0005891,C002181,Trail Apparel,Order status,Neutral,True,Pre-campaign
 CS000255,2026-05-13,ORD0005910,C001249,Trail Apparel,Return request,Neutral,True,Pre-campaign
-CS000256,2026-05-08,ORD0005939,C004878,Genesis,Return request,Neutral,True,Pre-campaign
+CS000256,2026-05-08,ORD0005939,C004878,Ultra Glide,Return request,Neutral,True,Pre-campaign
 CS000257,2026-05-07,ORD0005941,C004966,Sense Ride,Order status,Negative,True,Pre-campaign
-CS000258,2026-05-08,ORD0005958,C004968,Genesis,Sizing and fit,Negative,True,Pre-campaign
+CS000258,2026-05-08,ORD0005958,C004968,Ultra Glide,Sizing and fit,Negative,True,Pre-campaign
 CS000259,2026-05-09,ORD0005970,C000234,Sense Ride,Product comparison,Neutral,True,Pre-campaign
 CS000260,2026-05-10,ORD0005974,C004971,Sense Ride,Sizing and fit,Neutral,True,Pre-campaign
 CS000261,2026-05-08,ORD0005999,C001179,Trail Apparel,Order status,Neutral,True,Pre-campaign
@@ -264,29 +264,29 @@ CS000262,2026-05-07,ORD0006001,C002321,Speedcross,Order status,Neutral,True,Pre-
 CS000263,2026-05-07,ORD0006001,C002321,Speedcross,Sizing and fit,Negative,True,Pre-campaign
 CS000264,2026-05-10,ORD0006008,C003767,Sense Ride,Product defect,Positive,True,Pre-campaign
 CS000265,2026-05-12,ORD0006011,C004983,Speedcross,Product comparison,Positive,True,Pre-campaign
-CS000266,2026-05-12,ORD0006013,C000373,Genesis,Return request,Negative,True,Pre-campaign
+CS000266,2026-05-12,ORD0006013,C000373,Ultra Glide,Return request,Negative,True,Pre-campaign
 CS000267,2026-05-08,ORD0006049,C004989,Speedcross,Order status,Negative,True,Pre-campaign
-CS000268,2026-05-11,ORD0006129,C004281,Genesis,Order status,Neutral,True,Pre-campaign
-CS000269,2026-05-10,ORD0006143,C002551,Genesis,Product comparison,Neutral,True,Pre-campaign
-CS000270,2026-05-09,ORD0006159,C005018,Genesis,Order status,Negative,True,Pre-campaign
+CS000268,2026-05-11,ORD0006129,C004281,Ultra Glide,Order status,Neutral,True,Pre-campaign
+CS000269,2026-05-10,ORD0006143,C002551,Ultra Glide,Product comparison,Neutral,True,Pre-campaign
+CS000270,2026-05-09,ORD0006159,C005018,Ultra Glide,Order status,Negative,True,Pre-campaign
 CS000271,2026-05-18,ORD0006165,C002336,Trail Apparel,Sizing and fit,Negative,True,Pre-campaign
 CS000272,2026-05-10,ORD0006167,C003928,Trail Accessories,Order status,Neutral,True,Pre-campaign
 CS000273,2026-05-18,ORD0006169,C005021,Speedcross,Product comparison,Neutral,False,Pre-campaign
 CS000274,2026-05-11,ORD0006169,C005021,Speedcross,Order status,Positive,True,Pre-campaign
 CS000275,2026-05-09,ORD0006187,C005027,Speedcross,Inventory availability,Neutral,True,Pre-campaign
-CS000276,2026-05-12,ORD0006205,C000650,Genesis,Sizing and fit,Neutral,True,Pre-campaign
-CS000277,2026-05-11,ORD0006209,C002389,Genesis,Shipping,Positive,True,Pre-campaign
+CS000276,2026-05-12,ORD0006205,C000650,Ultra Glide,Sizing and fit,Neutral,True,Pre-campaign
+CS000277,2026-05-11,ORD0006209,C002389,Ultra Glide,Shipping,Positive,True,Pre-campaign
 CS000278,2026-05-11,ORD0006243,C002560,Speedcross,Return request,Negative,True,Pre-campaign
-CS000279,2026-05-18,ORD0006326,C000008,Genesis,Return request,Neutral,True,Pre-campaign
+CS000279,2026-05-18,ORD0006326,C000008,Ultra Glide,Return request,Neutral,True,Pre-campaign
 CS000280,2026-05-12,ORD0006331,C001516,Trail Apparel,Order status,Neutral,True,Pre-campaign
-CS000281,2026-05-13,ORD0006339,C000087,Genesis,Return request,Neutral,False,Pre-campaign
+CS000281,2026-05-13,ORD0006339,C000087,Ultra Glide,Return request,Neutral,False,Pre-campaign
 CS000282,2026-05-18,ORD0006362,C004221,Speedcross,Shipping,Neutral,True,Pre-campaign
 CS000283,2026-05-20,ORD0006367,C002602,Speedcross,Sizing and fit,Neutral,True,Pre-campaign
 CS000284,2026-05-11,ORD0006394,C003611,Trail Apparel,Order status,Neutral,True,Pre-campaign
 CS000285,2026-05-13,ORD0006418,C004230,Sense Ride,Product comparison,Positive,True,Pre-campaign
 CS000286,2026-05-12,ORD0006451,C000991,Speedcross,Sizing and fit,Neutral,True,Pre-campaign
 CS000287,2026-05-18,ORD0006484,C003150,Trail Accessories,Order status,Neutral,True,Pre-campaign
-CS000288,2026-05-14,ORD0006489,C005104,Genesis,Return request,Negative,True,Pre-campaign
+CS000288,2026-05-14,ORD0006489,C005104,Ultra Glide,Return request,Negative,True,Pre-campaign
 CS000289,2026-05-18,ORD0006501,C005106,Trail Apparel,Order status,Neutral,True,Pre-campaign
 CS000290,2026-05-14,ORD0006534,C003321,Trail Apparel,Order status,Negative,True,Pre-campaign
 CS000291,2026-05-20,ORD0006538,C003536,Sense Ride,Product comparison,Neutral,True,Pre-campaign
@@ -298,17 +298,17 @@ CS000296,2026-05-21,ORD0006604,C005128,Trail Accessories,Shipping,Negative,True,
 CS000297,2026-05-20,ORD0006661,C005142,Speedcross,Sizing and fit,Negative,True,Pre-campaign
 CS000298,2026-05-16,ORD0006714,C001161,Trail Accessories,Inventory availability,Positive,True,Pre-campaign
 CS000299,2026-05-16,ORD0006716,C002299,Trail Apparel,Shipping,Negative,True,Pre-campaign
-CS000300,2026-05-24,ORD0006755,C000475,Genesis,Order status,Negative,True,Pre-campaign
+CS000300,2026-05-24,ORD0006755,C000475,Ultra Glide,Order status,Negative,True,Pre-campaign
 CS000301,2026-05-23,ORD0006839,C005184,Sense Ride,Product comparison,Neutral,True,Pre-campaign
 CS000302,2026-05-18,ORD0006857,C005190,Trail Apparel,Order status,Neutral,True,Pre-campaign
 CS000303,2026-05-18,ORD0006876,C002715,Trail Accessories,Order status,Neutral,True,Pre-campaign
 CS000304,2026-05-20,ORD0006898,C000186,Sense Ride,Product comparison,Positive,True,Pre-campaign
 CS000305,2026-05-20,ORD0006973,C005073,Speedcross,Sizing and fit,Positive,True,Pre-campaign
-CS000306,2026-05-20,ORD0006985,C000348,Genesis,Order status,Neutral,True,Pre-campaign
-CS000307,2026-05-18,ORD0006993,C005233,Genesis,Order status,Neutral,True,Pre-campaign
+CS000306,2026-05-20,ORD0006985,C000348,Ultra Glide,Order status,Neutral,True,Pre-campaign
+CS000307,2026-05-18,ORD0006993,C005233,Ultra Glide,Order status,Neutral,True,Pre-campaign
 CS000308,2026-05-19,ORD0006997,C004820,Sense Ride,Sizing and fit,Neutral,True,Pre-campaign
 CS000309,2026-05-21,ORD0007031,C002228,Trail Apparel,Sizing and fit,Negative,True,Pre-campaign
-CS000310,2026-05-28,ORD0007090,C002134,Genesis,Sizing and fit,Negative,True,Pre-campaign
+CS000310,2026-05-28,ORD0007090,C002134,Ultra Glide,Sizing and fit,Negative,True,Pre-campaign
 CS000311,2026-05-19,ORD0007106,C005257,Speedcross,Inventory availability,Negative,False,Pre-campaign
 CS000312,2026-05-22,ORD0007122,C004369,Sense Ride,Sizing and fit,Negative,True,Pre-campaign
 CS000313,2026-05-22,ORD0007122,C004369,Sense Ride,Sizing and fit,Neutral,True,Pre-campaign
@@ -316,52 +316,52 @@ CS000314,2026-05-21,ORD0007139,C000626,Speedcross,Order status,Neutral,True,Pre-
 CS000315,2026-05-29,ORD0007143,C005269,Sense Ride,Return request,Negative,True,Pre-campaign
 CS000316,2026-05-22,ORD0007154,C003373,Speedcross,Product comparison,Negative,True,Pre-campaign
 CS000317,2026-05-22,ORD0007256,C004847,Speedcross,Sizing and fit,Neutral,True,Pre-campaign
-CS000318,2026-05-21,ORD0007294,C004049,Genesis,Order status,Neutral,True,Pre-campaign
+CS000318,2026-05-21,ORD0007294,C004049,Ultra Glide,Order status,Neutral,True,Pre-campaign
 CS000319,2026-05-23,ORD0007307,C002080,Speedcross,Return request,Neutral,False,Pre-campaign
-CS000320,2026-05-22,ORD0007308,C002300,Genesis,Shipping,Neutral,True,Pre-campaign
+CS000320,2026-05-22,ORD0007308,C002300,Ultra Glide,Shipping,Neutral,True,Pre-campaign
 CS000321,2026-05-25,ORD0007339,C005315,Speedcross,Return request,Neutral,True,Pre-campaign
 CS000322,2026-05-22,ORD0007347,C001889,Sense Ride,Sizing and fit,Positive,False,Pre-campaign
 CS000323,2026-05-25,ORD0007347,C001889,Sense Ride,Sizing and fit,Positive,True,Pre-campaign
-CS000324,2026-05-24,ORD0007419,C005338,Genesis,Order status,Negative,True,Pre-campaign
+CS000324,2026-05-24,ORD0007419,C005338,Ultra Glide,Order status,Negative,True,Pre-campaign
 CS000325,2026-05-26,ORD0007422,C005339,Sense Ride,Shipping,Neutral,True,Pre-campaign
 CS000326,2026-05-24,ORD0007427,C001291,Sense Ride,Sizing and fit,Positive,True,Pre-campaign
 CS000327,2026-05-23,ORD0007470,C001752,Sense Ride,Product comparison,Neutral,True,Pre-campaign
 CS000328,2026-05-24,ORD0007487,C003687,Sense Ride,Inventory availability,Neutral,True,Pre-campaign
 CS000329,2026-05-24,ORD0007499,C002209,Sense Ride,Inventory availability,Neutral,True,Pre-campaign
-CS000330,2026-05-27,ORD0007537,C000436,Genesis,Return request,Neutral,True,Pre-campaign
+CS000330,2026-05-27,ORD0007537,C000436,Ultra Glide,Return request,Neutral,True,Pre-campaign
 CS000331,2026-05-25,ORD0007545,C005363,Trail Apparel,Order status,Neutral,True,Pre-campaign
-CS000332,2026-05-26,ORD0007550,C003009,Genesis,Product comparison,Neutral,True,Pre-campaign
+CS000332,2026-05-26,ORD0007550,C003009,Ultra Glide,Product comparison,Neutral,True,Pre-campaign
 CS000333,2026-05-24,ORD0007575,C005372,Speedcross,Sizing and fit,Positive,False,Pre-campaign
 CS000334,2026-05-25,ORD0007595,C002750,Sense Ride,Sizing and fit,Neutral,True,Pre-campaign
-CS000335,2026-05-26,ORD0007601,C002154,Genesis,Inventory availability,Neutral,True,Pre-campaign
+CS000335,2026-05-26,ORD0007601,C002154,Ultra Glide,Inventory availability,Neutral,True,Pre-campaign
 CS000336,2026-05-26,ORD0007607,C002238,Sense Ride,Shipping,Negative,True,Pre-campaign
-CS000337,2026-05-26,ORD0007614,C003149,Genesis,Sizing and fit,Neutral,True,Pre-campaign
+CS000337,2026-05-26,ORD0007614,C003149,Ultra Glide,Sizing and fit,Neutral,True,Pre-campaign
 CS000338,2026-05-27,ORD0007625,C002997,Sense Ride,Inventory availability,Negative,True,Pre-campaign
 CS000339,2026-05-28,ORD0007627,C005386,Speedcross,Sizing and fit,Negative,True,Pre-campaign
 CS000340,2026-05-27,ORD0007637,C000809,Speedcross,Shipping,Neutral,True,Pre-campaign
 CS000341,2026-05-26,ORD0007672,C004191,Trail Accessories,Shipping,Neutral,True,Pre-campaign
 CS000342,2026-05-30,ORD0007674,C003544,Trail Accessories,Shipping,Positive,True,Pre-campaign
-CS000343,2026-06-02,ORD0007689,C005399,Genesis,Return request,Negative,True,Active campaign
+CS000343,2026-06-02,ORD0007689,C005399,Ultra Glide,Return request,Negative,True,Active campaign
 CS000344,2026-05-28,ORD0007703,C005404,Sense Ride,Sizing and fit,Negative,True,Pre-campaign
 CS000345,2026-05-27,ORD0007714,C002868,Trail Accessories,Order status,Negative,True,Pre-campaign
-CS000346,2026-05-29,ORD0007822,C001332,Genesis,Sizing and fit,Negative,True,Pre-campaign
-CS000347,2026-05-30,ORD0007850,C003528,Genesis,Shipping,Neutral,True,Pre-campaign
-CS000348,2026-06-05,ORD0007850,C003528,Genesis,Order status,Negative,True,Active campaign
+CS000346,2026-05-29,ORD0007822,C001332,Ultra Glide,Sizing and fit,Negative,True,Pre-campaign
+CS000347,2026-05-30,ORD0007850,C003528,Ultra Glide,Shipping,Neutral,True,Pre-campaign
+CS000348,2026-06-05,ORD0007850,C003528,Ultra Glide,Order status,Negative,True,Active campaign
 CS000349,2026-05-29,ORD0007851,C001979,Trail Accessories,Order status,Neutral,True,Pre-campaign
 CS000350,2026-05-30,ORD0007876,C005436,Speedcross,Return request,Neutral,False,Pre-campaign
 CS000351,2026-05-29,ORD0007927,C004691,Sense Ride,Order status,Negative,True,Pre-campaign
-CS000352,2026-05-29,ORD0007949,C002296,Genesis,Inventory availability,Neutral,True,Pre-campaign
-CS000353,2026-06-07,ORD0007956,C001681,Genesis,Product comparison,Neutral,True,Active campaign
+CS000352,2026-05-29,ORD0007949,C002296,Ultra Glide,Inventory availability,Neutral,True,Pre-campaign
+CS000353,2026-06-07,ORD0007956,C001681,Ultra Glide,Product comparison,Neutral,True,Active campaign
 CS000354,2026-05-30,ORD0007960,C001483,Trail Apparel,Inventory availability,Neutral,True,Pre-campaign
 CS000355,2026-05-31,ORD0008012,C001614,Sense Ride,Product comparison,Neutral,True,Pre-campaign
 CS000356,2026-05-29,ORD0008045,C003912,Speedcross,Sizing and fit,Neutral,True,Pre-campaign
-CS000357,2026-05-29,ORD0008049,C001667,Genesis,Product comparison,Positive,True,Pre-campaign
+CS000357,2026-05-29,ORD0008049,C001667,Ultra Glide,Product comparison,Positive,True,Pre-campaign
 CS000358,2026-05-30,ORD0008059,C002481,Speedcross,Sizing and fit,Positive,True,Pre-campaign
 CS000359,2026-05-30,ORD0008059,C002481,Speedcross,Order status,Neutral,True,Pre-campaign
 CS000360,2026-06-04,ORD0008072,C005480,Speedcross,Order status,Negative,True,Active campaign
-CS000361,2026-05-31,ORD0008086,C004115,Genesis,Inventory availability,Neutral,True,Pre-campaign
+CS000361,2026-05-31,ORD0008086,C004115,Ultra Glide,Inventory availability,Neutral,True,Pre-campaign
 CS000362,2026-06-04,ORD0008093,C004056,Speedcross,Order status,Negative,True,Active campaign
-CS000363,2026-05-31,ORD0008129,C002266,Genesis,Shipping,Neutral,True,Pre-campaign
+CS000363,2026-05-31,ORD0008129,C002266,Ultra Glide,Shipping,Neutral,True,Pre-campaign
 CS000364,2026-05-30,ORD0008150,C004576,Speedcross,Return request,Negative,True,Pre-campaign
 CS000365,2026-05-31,ORD0008189,C002443,Speedcross,Sizing and fit,Neutral,True,Pre-campaign
 CS000366,2026-06-01,ORD0008197,C005507,Sense Ride,Shipping,Neutral,True,Active campaign
@@ -379,13 +379,13 @@ CS000377,2026-06-02,ORD0008380,C005564,Vestal Pro,Inventory availability,Negativ
 CS000378,2026-06-03,ORD0008383,C005566,Vestal Pro,Inventory availability,Negative,False,Active campaign
 CS000379,2026-06-11,ORD0008383,C005566,Vestal Pro,Product comparison,Neutral,True,Active campaign
 CS000380,2026-06-04,ORD0008409,C005577,Trail Apparel,Shipping,Negative,True,Active campaign
-CS000381,2026-06-05,ORD0008453,C000399,Genesis,Sizing and fit,Neutral,True,Active campaign
+CS000381,2026-06-05,ORD0008453,C000399,Ultra Glide,Sizing and fit,Neutral,True,Active campaign
 CS000382,2026-06-03,ORD0008476,C005598,Trail Accessories,Product comparison,Neutral,True,Active campaign
-CS000383,2026-06-03,ORD0008479,C000667,Genesis,Shipping,Neutral,True,Active campaign
+CS000383,2026-06-03,ORD0008479,C000667,Ultra Glide,Shipping,Neutral,True,Active campaign
 CS000384,2026-06-04,ORD0008515,C005612,Sense Ride,Sizing and fit,Negative,True,Active campaign
 CS000385,2026-06-06,ORD0008525,C005618,Vestal Pro,Sizing and fit,Neutral,True,Active campaign
-CS000386,2026-06-10,ORD0008542,C005622,Genesis,Product comparison,Positive,True,Active campaign
-CS000387,2026-06-06,ORD0008571,C004850,Genesis,Return request,Neutral,True,Active campaign
+CS000386,2026-06-10,ORD0008542,C005622,Ultra Glide,Product comparison,Positive,True,Active campaign
+CS000387,2026-06-06,ORD0008571,C004850,Ultra Glide,Return request,Neutral,True,Active campaign
 CS000388,2026-06-04,ORD0008610,C005645,Sense Ride,Shipping,Neutral,True,Active campaign
 CS000389,2026-06-09,ORD0008613,C005277,Speedcross,Return request,Neutral,True,Active campaign
 CS000390,2026-06-06,ORD0008635,C005653,Vestal Pro,Sizing and fit,Neutral,True,Active campaign
@@ -402,15 +402,15 @@ CS000400,2026-06-06,ORD0008852,C005710,Vestal Pro,Sizing and fit,Positive,True,A
 CS000401,2026-06-09,ORD0008883,C005492,Sense Ride,Product comparison,Neutral,True,Active campaign
 CS000402,2026-06-07,ORD0008892,C000730,Vestal Pro,Inventory availability,Positive,False,Active campaign
 CS000403,2026-06-07,ORD0008892,C000730,Vestal Pro,Sizing and fit,Neutral,False,Active campaign
-CS000404,2026-06-08,ORD0008897,C005131,Genesis,Sizing and fit,Neutral,True,Active campaign
+CS000404,2026-06-08,ORD0008897,C005131,Ultra Glide,Sizing and fit,Neutral,True,Active campaign
 CS000405,2026-06-07,ORD0008918,C003922,Speedcross,Product comparison,Neutral,True,Active campaign
 CS000406,2026-06-07,ORD0008946,C000483,Sense Ride,Product comparison,Positive,True,Active campaign
 CS000407,2026-06-13,ORD0008955,C003259,Vestal Pro,Product comparison,Neutral,True,Active campaign
 CS000408,2026-06-08,ORD0008959,C005745,Vestal Pro,Sizing and fit,Positive,True,Active campaign
-CS000409,2026-06-11,ORD0008980,C002191,Genesis,Sizing and fit,Neutral,False,Active campaign
+CS000409,2026-06-11,ORD0008980,C002191,Ultra Glide,Sizing and fit,Neutral,False,Active campaign
 CS000410,2026-06-08,ORD0008984,C000663,Sense Ride,Order status,Neutral,True,Active campaign
 CS000411,2026-06-08,ORD0008984,C000663,Sense Ride,Product comparison,Neutral,False,Active campaign
-CS000412,2026-06-07,ORD0008995,C001512,Genesis,Order status,Neutral,True,Active campaign
+CS000412,2026-06-07,ORD0008995,C001512,Ultra Glide,Order status,Neutral,True,Active campaign
 CS000413,2026-06-10,ORD0008999,C000755,Vestal Pro,Inventory availability,Neutral,True,Active campaign
 CS000414,2026-06-07,ORD0009001,C003582,Trail Apparel,Product comparison,Positive,True,Active campaign
 CS000415,2026-06-08,ORD0009019,C003548,Sense Ride,Order status,Negative,True,Active campaign
@@ -438,7 +438,7 @@ CS000436,2026-06-08,ORD0009216,C003917,Vestal Pro,Product comparison,Negative,Tr
 CS000437,2026-06-09,ORD0009259,C000123,Trail Apparel,Product comparison,Neutral,True,Active campaign
 CS000438,2026-06-10,ORD0009263,C005644,Vestal Pro,Product comparison,Neutral,True,Active campaign
 CS000439,2026-06-18,ORD0009273,C005796,Vestal Pro,Sizing and fit,Negative,True,Active campaign
-CS000440,2026-06-16,ORD0009280,C003725,Genesis,Inventory availability,Neutral,False,Active campaign
+CS000440,2026-06-16,ORD0009280,C003725,Ultra Glide,Inventory availability,Neutral,False,Active campaign
 CS000441,2026-06-11,ORD0009285,C000871,Speedcross,Product comparison,Neutral,True,Active campaign
 CS000442,2026-06-10,ORD0009325,C002304,Sense Ride,Sizing and fit,Positive,True,Active campaign
 CS000443,2026-06-11,ORD0009331,C005852,Vestal Pro,Inventory availability,Negative,False,Active campaign
@@ -458,11 +458,11 @@ CS000456,2026-06-13,ORD0009528,C005469,Trail Accessories,Order status,Neutral,Fa
 CS000457,2026-06-13,ORD0009535,C003639,Vestal Pro,Sizing and fit,Neutral,True,Active campaign
 CS000458,2026-06-12,ORD0009538,C005927,Speedcross,Inventory availability,Negative,True,Active campaign
 CS000459,2026-06-20,ORD0009553,C005934,Sense Ride,Shipping,Negative,True,Active campaign
-CS000460,2026-06-13,ORD0009560,C000682,Genesis,Sizing and fit,Neutral,False,Active campaign
+CS000460,2026-06-13,ORD0009560,C000682,Ultra Glide,Sizing and fit,Neutral,False,Active campaign
 CS000461,2026-06-21,ORD0009581,C000121,Sense Ride,Inventory availability,Positive,False,Post-campaign
 CS000462,2026-06-13,ORD0009590,C003279,Vestal Pro,Product comparison,Neutral,True,Active campaign
 CS000463,2026-06-14,ORD0009594,C002138,Vestal Pro,Inventory availability,Negative,True,Active campaign
-CS000464,2026-06-21,ORD0009642,C000765,Genesis,Sizing and fit,Positive,True,Post-campaign
+CS000464,2026-06-21,ORD0009642,C000765,Ultra Glide,Sizing and fit,Positive,True,Post-campaign
 CS000465,2026-06-13,ORD0009644,C005963,Trail Apparel,Shipping,Positive,True,Active campaign
 CS000466,2026-06-15,ORD0009659,C001685,Speedcross,Product comparison,Neutral,True,Active campaign
 CS000467,2026-06-12,ORD0009681,C004122,Vestal Pro,Product comparison,Negative,True,Active campaign
@@ -474,7 +474,7 @@ CS000472,2026-06-14,ORD0009710,C005991,Speedcross,Shipping,Negative,True,Active 
 CS000473,2026-06-13,ORD0009732,C001918,Vestal Pro,Sizing and fit,Neutral,True,Active campaign
 CS000474,2026-06-15,ORD0009734,C000850,Speedcross,Sizing and fit,Neutral,True,Active campaign
 CS000475,2026-06-20,ORD0009768,C006007,Vestal Pro,Inventory availability,Negative,True,Active campaign
-CS000476,2026-06-14,ORD0009781,C002095,Genesis,Sizing and fit,Neutral,True,Active campaign
+CS000476,2026-06-14,ORD0009781,C002095,Ultra Glide,Sizing and fit,Neutral,True,Active campaign
 CS000477,2026-06-15,ORD0009792,C006014,Sense Ride,Product comparison,Neutral,True,Active campaign
 CS000478,2026-06-14,ORD0009798,C005167,Trail Apparel,Order status,Positive,True,Active campaign
 CS000479,2026-06-14,ORD0009798,C005167,Trail Apparel,Order status,Neutral,True,Active campaign
@@ -483,7 +483,7 @@ CS000481,2026-06-14,ORD0009853,C002089,Sense Ride,Sizing and fit,Neutral,True,Ac
 CS000482,2026-06-19,ORD0009856,C001892,Trail Apparel,Product comparison,Neutral,True,Active campaign
 CS000483,2026-06-16,ORD0009890,C006041,Sense Ride,Sizing and fit,Neutral,True,Active campaign
 CS000484,2026-06-17,ORD0009890,C006041,Sense Ride,Shipping,Neutral,True,Active campaign
-CS000485,2026-06-14,ORD0009899,C006045,Genesis,Inventory availability,Neutral,True,Active campaign
+CS000485,2026-06-14,ORD0009899,C006045,Ultra Glide,Inventory availability,Neutral,True,Active campaign
 CS000486,2026-06-19,ORD0009909,C003068,Vestal Pro,Product comparison,Neutral,True,Active campaign
 CS000487,2026-06-17,ORD0009909,C003068,Vestal Pro,Product comparison,Neutral,True,Active campaign
 CS000488,2026-06-14,ORD0009921,C002626,Sense Ride,Inventory availability,Neutral,True,Active campaign
@@ -512,7 +512,7 @@ CS000510,2026-06-21,ORD0010299,C006151,Vestal Pro,Inventory availability,Positiv
 CS000511,2026-06-19,ORD0010303,C006153,Speedcross,Order status,Neutral,True,Active campaign
 CS000512,2026-06-19,ORD0010312,C002959,Trail Apparel,Order status,Negative,True,Active campaign
 CS000513,2026-06-19,ORD0010337,C003211,Speedcross,Shipping,Positive,True,Active campaign
-CS000514,2026-06-20,ORD0010373,C004622,Genesis,Return request,Neutral,False,Active campaign
+CS000514,2026-06-20,ORD0010373,C004622,Ultra Glide,Return request,Neutral,False,Active campaign
 CS000515,2026-06-24,ORD0010376,C005485,Sense Ride,Order status,Positive,True,Post-campaign
 CS000516,2026-06-19,ORD0010379,C000980,Sense Ride,Product comparison,Neutral,True,Active campaign
 CS000517,2026-06-20,ORD0010382,C004098,Sense Ride,Inventory availability,Neutral,True,Active campaign
@@ -526,7 +526,7 @@ CS000524,2026-06-20,ORD0010438,C000602,Vestal Pro,Inventory availability,Neutral
 CS000525,2026-06-20,ORD0010444,C006196,Vestal Pro,Product comparison,Positive,True,Active campaign
 CS000526,2026-06-26,ORD0010451,C006200,Trail Apparel,Product comparison,Negative,True,Post-campaign
 CS000527,2026-06-28,ORD0010451,C006200,Trail Apparel,Inventory availability,Negative,False,Post-campaign
-CS000528,2026-06-19,ORD0010471,C006208,Genesis,Order status,Negative,True,Active campaign
+CS000528,2026-06-19,ORD0010471,C006208,Ultra Glide,Order status,Negative,True,Active campaign
 CS000529,2026-06-28,ORD0010481,C004413,Vestal Pro,Inventory availability,Negative,True,Post-campaign
 CS000530,2026-06-23,ORD0010485,C006212,Sense Ride,Inventory availability,Negative,True,Post-campaign
 CS000531,2026-06-20,ORD0010493,C006214,Vestal Pro,Product comparison,Neutral,True,Active campaign
@@ -537,7 +537,7 @@ CS000535,2026-06-20,ORD0010513,C000745,Trail Accessories,Shipping,Negative,True,
 CS000536,2026-06-21,ORD0010519,C006228,Speedcross,Sizing and fit,Negative,True,Post-campaign
 CS000537,2026-06-21,ORD0010524,C006229,Vestal Pro,Sizing and fit,Neutral,True,Post-campaign
 CS000538,2026-06-21,ORD0010530,C003593,Vestal Pro,Inventory availability,Positive,True,Post-campaign
-CS000539,2026-06-20,ORD0010547,C001837,Genesis,Sizing and fit,Positive,True,Active campaign
+CS000539,2026-06-20,ORD0010547,C001837,Ultra Glide,Sizing and fit,Positive,True,Active campaign
 CS000540,2026-06-20,ORD0010553,C002865,Vestal Pro,Inventory availability,Negative,True,Active campaign
 CS000541,2026-06-20,ORD0010555,C004163,Sense Ride,Product comparison,Neutral,True,Active campaign
 CS000542,2026-06-21,ORD0010578,C002045,Trail Apparel,Order status,Negative,True,Post-campaign
@@ -552,7 +552,7 @@ CS000550,2026-06-24,ORD0010671,C000642,Trail Apparel,Order status,Positive,True,
 CS000551,2026-06-24,ORD0010696,C000964,Vestal Pro,Sizing and fit,Positive,True,Post-campaign
 CS000552,2026-06-30,ORD0010699,C000777,Sense Ride,Product comparison,Neutral,True,Post-campaign
 CS000553,2026-06-25,ORD0010753,C000508,Speedcross,Sizing and fit,Positive,True,Post-campaign
-CS000554,2026-06-22,ORD0010756,C003386,Genesis,Sizing and fit,Neutral,True,Post-campaign
+CS000554,2026-06-22,ORD0010756,C003386,Ultra Glide,Sizing and fit,Neutral,True,Post-campaign
 CS000555,2026-06-27,ORD0010795,C006292,Sense Ride,Return request,Negative,True,Post-campaign
 CS000556,2026-06-25,ORD0010795,C006292,Sense Ride,Return request,Negative,True,Post-campaign
 CS000557,2026-06-24,ORD0010816,C004456,Speedcross,Product comparison,Neutral,False,Post-campaign
@@ -563,9 +563,9 @@ CS000561,2026-06-24,ORD0010890,C006323,Sense Ride,Order status,Neutral,True,Post
 CS000562,2026-06-26,ORD0010922,C001170,Speedcross,Product comparison,Neutral,True,Post-campaign
 CS000563,2026-07-01,ORD0010933,C001024,Sense Ride,Inventory availability,Negative,False,Post-campaign
 CS000564,2026-06-29,ORD0010960,C000873,Speedcross,Shipping,Neutral,True,Post-campaign
-CS000565,2026-06-27,ORD0010962,C002759,Genesis,Return request,Negative,True,Post-campaign
+CS000565,2026-06-27,ORD0010962,C002759,Ultra Glide,Return request,Negative,True,Post-campaign
 CS000566,2026-06-27,ORD0010986,C006348,Vestal Pro,Inventory availability,Neutral,False,Post-campaign
-CS000567,2026-06-27,ORD0010997,C006353,Genesis,Product comparison,Negative,True,Post-campaign
+CS000567,2026-06-27,ORD0010997,C006353,Ultra Glide,Product comparison,Negative,True,Post-campaign
 CS000568,2026-06-26,ORD0011007,C001877,Trail Apparel,Inventory availability,Negative,False,Post-campaign
 CS000569,2026-07-04,ORD0011009,C006358,Vestal Pro,Shipping,Neutral,False,Post-campaign
 CS000570,2026-07-04,ORD0011020,C002352,Speedcross,Product comparison,Neutral,True,Post-campaign
@@ -577,11 +577,11 @@ CS000575,2026-06-26,ORD0011098,C006380,Vestal Pro,Shipping,Negative,True,Post-ca
 CS000576,2026-06-26,ORD0011103,C005043,Speedcross,Inventory availability,Negative,True,Post-campaign
 CS000577,2026-06-29,ORD0011126,C002038,Sense Ride,Sizing and fit,Negative,True,Post-campaign
 CS000578,2026-06-27,ORD0011191,C004002,Vestal Pro,Inventory availability,Negative,True,Post-campaign
-CS000579,2026-06-27,ORD0011192,C006402,Genesis,Return request,Positive,True,Post-campaign
+CS000579,2026-06-27,ORD0011192,C006402,Ultra Glide,Return request,Positive,True,Post-campaign
 CS000580,2026-06-26,ORD0011194,C006007,Sense Ride,Order status,Positive,True,Post-campaign
 CS000581,2026-06-27,ORD0011214,C005028,Sense Ride,Sizing and fit,Neutral,True,Post-campaign
-CS000582,2026-07-02,ORD0011220,C006409,Genesis,Product comparison,Neutral,True,Post-campaign
-CS000583,2026-06-28,ORD0011220,C006409,Genesis,Product defect,Negative,True,Post-campaign
+CS000582,2026-07-02,ORD0011220,C006409,Ultra Glide,Product comparison,Neutral,True,Post-campaign
+CS000583,2026-06-28,ORD0011220,C006409,Ultra Glide,Product defect,Negative,True,Post-campaign
 CS000584,2026-07-06,ORD0011278,C000105,Trail Apparel,Product comparison,Positive,True,Post-campaign
 CS000585,2026-06-27,ORD0011284,C002505,Sense Ride,Sizing and fit,Neutral,True,Post-campaign
 CS000586,2026-06-28,ORD0011299,C002414,Sense Ride,Order status,Negative,True,Post-campaign
@@ -596,28 +596,28 @@ CS000594,2026-07-01,ORD0011436,C002024,Trail Apparel,Shipping,Negative,True,Post
 CS000595,2026-07-04,ORD0011460,C006463,Vestal Pro,Inventory availability,Negative,False,Post-campaign
 CS000596,2026-07-06,ORD0011476,C006466,Speedcross,Sizing and fit,Neutral,True,Post-campaign
 CS000597,2026-06-30,ORD0011481,C004431,Speedcross,Inventory availability,Positive,True,Post-campaign
-CS000598,2026-06-30,ORD0011493,C003329,Genesis,Sizing and fit,Positive,True,Post-campaign
+CS000598,2026-06-30,ORD0011493,C003329,Ultra Glide,Sizing and fit,Positive,True,Post-campaign
 CS000599,2026-06-29,ORD0011496,C005922,Speedcross,Shipping,Neutral,True,Post-campaign
 CS000600,2026-07-02,ORD0011508,C000052,Sense Ride,Return request,Neutral,True,Post-campaign
-CS000601,2026-07-06,ORD0011511,C005024,Genesis,Inventory availability,Negative,True,Post-campaign
+CS000601,2026-07-06,ORD0011511,C005024,Ultra Glide,Inventory availability,Negative,True,Post-campaign
 CS000602,2026-07-08,ORD0011513,C002873,Vestal Pro,Order status,Neutral,True,Post-campaign
 CS000603,2026-06-29,ORD0011521,C006476,Vestal Pro,Sizing and fit,Positive,True,Post-campaign
-CS000604,2026-07-03,ORD0011544,C006262,Genesis,Order status,Neutral,True,Post-campaign
+CS000604,2026-07-03,ORD0011544,C006262,Ultra Glide,Order status,Neutral,True,Post-campaign
 CS000605,2026-06-30,ORD0011552,C002540,Speedcross,Shipping,Neutral,True,Post-campaign
 CS000606,2026-07-02,ORD0011557,C002845,Speedcross,Sizing and fit,Neutral,True,Post-campaign
 CS000607,2026-07-01,ORD0011580,C000675,Sense Ride,Order status,Negative,True,Post-campaign
-CS000608,2026-07-02,ORD0011587,C005076,Genesis,Inventory availability,Neutral,True,Post-campaign
-CS000609,2026-06-30,ORD0011587,C005076,Genesis,Product comparison,Negative,True,Post-campaign
+CS000608,2026-07-02,ORD0011587,C005076,Ultra Glide,Inventory availability,Neutral,True,Post-campaign
+CS000609,2026-06-30,ORD0011587,C005076,Ultra Glide,Product comparison,Negative,True,Post-campaign
 CS000610,2026-06-30,ORD0011589,C002123,Speedcross,Return request,Neutral,True,Post-campaign
 CS000611,2026-06-30,ORD0011589,C002123,Speedcross,Product comparison,Positive,True,Post-campaign
 CS000612,2026-07-03,ORD0011627,C003409,Vestal Pro,Product comparison,Neutral,True,Post-campaign
 CS000613,2026-07-06,ORD0011639,C006195,Sense Ride,Order status,Neutral,True,Post-campaign
 CS000614,2026-07-03,ORD0011639,C006195,Sense Ride,Product comparison,Neutral,True,Post-campaign
-CS000615,2026-07-03,ORD0011650,C002669,Genesis,Shipping,Neutral,True,Post-campaign
+CS000615,2026-07-03,ORD0011650,C002669,Ultra Glide,Shipping,Neutral,True,Post-campaign
 CS000616,2026-07-02,ORD0011678,C006526,Trail Apparel,Order status,Neutral,True,Post-campaign
-CS000617,2026-07-10,ORD0011696,C000936,Genesis,Shipping,Neutral,False,Post-campaign
+CS000617,2026-07-10,ORD0011696,C000936,Ultra Glide,Shipping,Neutral,False,Post-campaign
 CS000618,2026-07-04,ORD0011715,C002118,Sense Ride,Product comparison,Neutral,True,Post-campaign
-CS000619,2026-07-04,ORD0011722,C004051,Genesis,Return request,Negative,False,Post-campaign
+CS000619,2026-07-04,ORD0011722,C004051,Ultra Glide,Return request,Negative,False,Post-campaign
 CS000620,2026-07-07,ORD0011745,C004475,Sense Ride,Return request,Neutral,True,Post-campaign
 CS000621,2026-07-04,ORD0011767,C000295,Vestal Pro,Order status,Neutral,True,Post-campaign
 CS000622,2026-07-04,ORD0011770,C004848,Sense Ride,Return request,Neutral,True,Post-campaign
@@ -635,41 +635,41 @@ CS000633,2026-07-04,ORD0011975,C006590,Sense Ride,Shipping,Negative,True,Post-ca
 CS000634,2026-07-07,ORD0011985,C005851,Speedcross,Product comparison,Neutral,True,Post-campaign
 CS000635,2026-07-04,ORD0012026,C006532,Trail Apparel,Order status,Neutral,True,Post-campaign
 CS000636,2026-07-05,ORD0012030,C000487,Sense Ride,Product defect,Positive,False,Post-campaign
-CS000637,2026-07-12,ORD0012056,C004697,Genesis,Product comparison,Neutral,False,Post-campaign
-CS000638,2026-07-12,ORD0012068,C006609,Genesis,Sizing and fit,Positive,True,Post-campaign
+CS000637,2026-07-12,ORD0012056,C004697,Ultra Glide,Product comparison,Neutral,False,Post-campaign
+CS000638,2026-07-12,ORD0012068,C006609,Ultra Glide,Sizing and fit,Positive,True,Post-campaign
 CS000639,2026-07-07,ORD0012175,C005166,Trail Accessories,Sizing and fit,Neutral,True,Post-campaign
 CS000640,2026-07-09,ORD0012196,C006638,Sense Ride,Shipping,Neutral,True,Post-campaign
-CS000641,2026-07-13,ORD0012199,C001348,Genesis,Inventory availability,Negative,False,Post-campaign
+CS000641,2026-07-13,ORD0012199,C001348,Ultra Glide,Inventory availability,Negative,False,Post-campaign
 CS000642,2026-07-09,ORD0012209,C003505,Trail Apparel,Order status,Neutral,True,Post-campaign
 CS000643,2026-07-08,ORD0012214,C006641,Vestal Pro,Sizing and fit,Negative,True,Post-campaign
 CS000644,2026-07-07,ORD0012260,C002942,Speedcross,Inventory availability,Neutral,True,Post-campaign
 CS000645,2026-07-08,ORD0012308,C000302,Vestal Pro,Inventory availability,Neutral,True,Post-campaign
-CS000646,2026-07-10,ORD0012330,C002425,Genesis,Shipping,Neutral,True,Post-campaign
+CS000646,2026-07-10,ORD0012330,C002425,Ultra Glide,Shipping,Neutral,True,Post-campaign
 CS000647,2026-07-09,ORD0012340,C006679,Sense Ride,Product comparison,Neutral,True,Post-campaign
 CS000648,2026-07-11,ORD0012372,C005967,Speedcross,Sizing and fit,Neutral,True,Post-campaign
 CS000649,2026-07-10,ORD0012383,C006010,Sense Ride,Order status,Neutral,True,Post-campaign
-CS000650,2026-07-13,ORD0012390,C003153,Genesis,Sizing and fit,Negative,True,Post-campaign
+CS000650,2026-07-13,ORD0012390,C003153,Ultra Glide,Sizing and fit,Negative,True,Post-campaign
 CS000651,2026-07-09,ORD0012405,C003534,Trail Accessories,Return request,Positive,True,Post-campaign
 CS000652,2026-07-09,ORD0012406,C000427,Speedcross,Return request,Negative,True,Post-campaign
 CS000653,2026-07-17,ORD0012414,C001738,Sense Ride,Return request,Positive,True,Post-campaign
 CS000654,2026-07-09,ORD0012414,C001738,Sense Ride,Product comparison,Neutral,True,Post-campaign
 CS000655,2026-07-08,ORD0012432,C002504,Speedcross,Sizing and fit,Neutral,True,Post-campaign
 CS000656,2026-07-08,ORD0012439,C006704,Trail Accessories,Inventory availability,Positive,True,Post-campaign
-CS000657,2026-07-11,ORD0012446,C000203,Genesis,Order status,Negative,True,Post-campaign
-CS000658,2026-07-10,ORD0012521,C006733,Genesis,Sizing and fit,Negative,True,Post-campaign
-CS000659,2026-07-14,ORD0012535,C003893,Genesis,Shipping,Neutral,True,Post-campaign
-CS000660,2026-07-14,ORD0012535,C003893,Genesis,Return request,Negative,True,Post-campaign
-CS000661,2026-07-11,ORD0012552,C006744,Genesis,Product comparison,Neutral,True,Post-campaign
+CS000657,2026-07-11,ORD0012446,C000203,Ultra Glide,Order status,Negative,True,Post-campaign
+CS000658,2026-07-10,ORD0012521,C006733,Ultra Glide,Sizing and fit,Negative,True,Post-campaign
+CS000659,2026-07-14,ORD0012535,C003893,Ultra Glide,Shipping,Neutral,True,Post-campaign
+CS000660,2026-07-14,ORD0012535,C003893,Ultra Glide,Return request,Negative,True,Post-campaign
+CS000661,2026-07-11,ORD0012552,C006744,Ultra Glide,Product comparison,Neutral,True,Post-campaign
 CS000662,2026-07-12,ORD0012568,C002150,Vestal Pro,Product comparison,Neutral,True,Post-campaign
-CS000663,2026-07-11,ORD0012585,C005712,Genesis,Shipping,Negative,True,Post-campaign
+CS000663,2026-07-11,ORD0012585,C005712,Ultra Glide,Shipping,Negative,True,Post-campaign
 CS000664,2026-07-10,ORD0012589,C003063,Sense Ride,Return request,Neutral,False,Post-campaign
 CS000665,2026-07-10,ORD0012590,C000881,Vestal Pro,Inventory availability,Neutral,True,Post-campaign
-CS000666,2026-07-15,ORD0012591,C005009,Genesis,Product comparison,Negative,True,Post-campaign
-CS000667,2026-07-13,ORD0012601,C000800,Genesis,Sizing and fit,Negative,True,Post-campaign
+CS000666,2026-07-15,ORD0012591,C005009,Ultra Glide,Product comparison,Negative,True,Post-campaign
+CS000667,2026-07-13,ORD0012601,C000800,Ultra Glide,Sizing and fit,Negative,True,Post-campaign
 CS000668,2026-07-11,ORD0012603,C005461,Speedcross,Sizing and fit,Neutral,True,Post-campaign
 CS000669,2026-07-10,ORD0012625,C000512,Trail Accessories,Shipping,Negative,True,Post-campaign
 CS000670,2026-07-12,ORD0012660,C006766,Sense Ride,Inventory availability,Neutral,False,Post-campaign
-CS000671,2026-07-13,ORD0012666,C003555,Genesis,Shipping,Positive,True,Post-campaign
+CS000671,2026-07-13,ORD0012666,C003555,Ultra Glide,Shipping,Positive,True,Post-campaign
 CS000672,2026-07-18,ORD0012672,C006770,Speedcross,Sizing and fit,Negative,True,Post-campaign
 CS000673,2026-07-11,ORD0012683,C003944,Speedcross,Product comparison,Positive,True,Post-campaign
 CS000674,2026-07-16,ORD0012683,C003944,Speedcross,Order status,Negative,True,Post-campaign
@@ -682,7 +682,7 @@ CS000680,2026-07-13,ORD0012746,C006789,Vestal Pro,Return request,Neutral,True,Po
 CS000681,2026-07-13,ORD0012746,C006789,Vestal Pro,Inventory availability,Negative,True,Post-campaign
 CS000682,2026-07-20,ORD0012796,C006801,Speedcross,Product comparison,Positive,True,Post-campaign
 CS000683,2026-07-17,ORD0012811,C001130,Vestal Pro,Sizing and fit,Positive,True,Post-campaign
-CS000684,2026-07-13,ORD0012893,C005855,Genesis,Sizing and fit,Positive,True,Post-campaign
+CS000684,2026-07-13,ORD0012893,C005855,Ultra Glide,Sizing and fit,Positive,True,Post-campaign
 CS000685,2026-07-20,ORD0012903,C001709,Trail Accessories,Product comparison,Neutral,True,Post-campaign
 CS000686,2026-07-20,ORD0012925,C001740,Vestal Pro,Product comparison,Neutral,True,Post-campaign
 CS000687,2026-07-14,ORD0012925,C001740,Vestal Pro,Inventory availability,Negative,True,Post-campaign
@@ -692,13 +692,13 @@ CS000690,2026-07-18,ORD0012945,C006294,Trail Apparel,Shipping,Negative,True,Post
 CS000691,2026-07-16,ORD0012954,C006400,Trail Apparel,Return request,Positive,True,Post-campaign
 CS000692,2026-07-16,ORD0012963,C005830,Speedcross,Order status,Neutral,True,Post-campaign
 CS000693,2026-07-16,ORD0012980,C003985,Vestal Pro,Shipping,Neutral,True,Post-campaign
-CS000694,2026-07-16,ORD0012996,C000742,Genesis,Shipping,Neutral,True,Post-campaign
+CS000694,2026-07-16,ORD0012996,C000742,Ultra Glide,Shipping,Neutral,True,Post-campaign
 CS000695,2026-07-15,ORD0013013,C003494,Sense Ride,Return request,Neutral,True,Post-campaign
 CS000696,2026-07-14,ORD0013059,C001059,Sense Ride,Order status,Neutral,True,Post-campaign
 CS000697,2026-07-16,ORD0013059,C001059,Sense Ride,Order status,Negative,True,Post-campaign
 CS000698,2026-07-15,ORD0013061,C002237,Vestal Pro,Sizing and fit,Positive,True,Post-campaign
 CS000699,2026-07-15,ORD0013063,C006024,Trail Accessories,Order status,Neutral,True,Post-campaign
-CS000700,2026-07-15,ORD0013086,C006883,Genesis,Product comparison,Neutral,True,Post-campaign
+CS000700,2026-07-15,ORD0013086,C006883,Ultra Glide,Product comparison,Neutral,True,Post-campaign
 CS000701,2026-07-18,ORD0013090,C006886,Vestal Pro,Product comparison,Negative,True,Post-campaign
 CS000702,2026-07-17,ORD0013097,C006140,Trail Apparel,Return request,Negative,True,Post-campaign
 CS000703,2026-07-15,ORD0013099,C003851,Speedcross,Shipping,Neutral,True,Post-campaign
@@ -712,13 +712,13 @@ CS000710,2026-07-18,ORD0013247,C006919,Trail Accessories,Sizing and fit,Neutral,
 CS000711,2026-07-17,ORD0013268,C004437,Speedcross,Shipping,Negative,True,Post-campaign
 CS000712,2026-07-20,ORD0013290,C006309,Vestal Pro,Sizing and fit,Negative,True,Post-campaign
 CS000713,2026-07-18,ORD0013299,C006935,Sense Ride,Product comparison,Neutral,True,Post-campaign
-CS000714,2026-07-18,ORD0013323,C002253,Genesis,Order status,Neutral,True,Post-campaign
+CS000714,2026-07-18,ORD0013323,C002253,Ultra Glide,Order status,Neutral,True,Post-campaign
 CS000715,2026-07-19,ORD0013362,C002207,Sense Ride,Sizing and fit,Neutral,True,Post-campaign
 CS000716,2026-07-19,ORD0013365,C000133,Sense Ride,Shipping,Positive,True,Post-campaign
 CS000717,2026-07-18,ORD0013405,C002212,Speedcross,Product comparison,Neutral,True,Post-campaign
 CS000718,2026-07-20,ORD0013468,C003210,Trail Accessories,Sizing and fit,Neutral,True,Post-campaign
 CS000719,2026-07-20,ORD0013474,C006980,Sense Ride,Sizing and fit,Neutral,True,Post-campaign
-CS000720,2026-07-19,ORD0013482,C006986,Genesis,Return request,Neutral,True,Post-campaign
+CS000720,2026-07-19,ORD0013482,C006986,Ultra Glide,Return request,Neutral,True,Post-campaign
 CS000721,2026-07-20,ORD0013485,C002944,Trail Apparel,Inventory availability,Neutral,False,Post-campaign
 CS000722,2026-07-20,ORD0013511,C006992,Speedcross,Shipping,Neutral,True,Post-campaign
 CS000723,2026-07-20,ORD0013518,C006334,Trail Apparel,Order status,Neutral,True,Post-campaign
@@ -726,4 +726,4 @@ CS000724,2026-07-20,ORD0013544,C006616,Trail Apparel,Return request,Positive,Tru
 CS000725,2026-07-20,ORD0013564,C001279,Trail Accessories,Order status,Negative,False,Post-campaign
 CS000726,2026-07-20,ORD0013583,C006492,Speedcross,Product comparison,Neutral,True,Post-campaign
 CS000727,2026-07-20,ORD0013594,C006566,Sense Ride,Order status,Negative,True,Post-campaign
-CS000728,2026-07-20,ORD0013608,C005167,Genesis,Order status,Neutral,True,Post-campaign
+CS000728,2026-07-20,ORD0013608,C005167,Ultra Glide,Order status,Neutral,True,Post-campaign

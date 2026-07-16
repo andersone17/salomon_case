@@ -53,7 +53,8 @@ The post-campaign period is used to evaluate:
 - Specific core sizes generate a disproportionate share of demand.
 - Hero colorways receive greater campaign exposure and demand.
 - Existing footwear franchises remain available throughout the campaign, although availability varies by product and size.
-- The Vestal Pro competes most directly with Sense Ride and Genesis.
+- The Vestal Pro competes most directly with Ultra Glide, followed by Sense Ride.
+- Ultra Glide should show the largest estimated cannibalization during the campaign.
 - Highly specialized footwear such as Speedcross experiences less cannibalization.
 - Apparel, socks, hydration products, and trail accessories are considered adjacent categories for halo analysis.
 

@@ -19,7 +19,7 @@ OUTPUT_DIR = Path(__file__).resolve().parents[1] / "data" / "mock"
 FRANCHISES = [
     "Vestal Pro",
     "Sense Ride",
-    "Genesis",
+    "Ultra Glide",
     "Speedcross",
     "Trail Apparel",
     "Trail Accessories",
@@ -38,7 +38,7 @@ CHANNELS = [
 CATEGORIES = {
     "Vestal Pro": "Footwear",
     "Sense Ride": "Footwear",
-    "Genesis": "Footwear",
+    "Ultra Glide": "Footwear",
     "Speedcross": "Footwear",
     "Trail Apparel": "Adjacent",
     "Trail Accessories": "Adjacent",
@@ -47,7 +47,7 @@ CATEGORIES = {
 PRICE_ASSUMPTIONS = {
     "Vestal Pro": (170.0, 3.5),
     "Sense Ride": (140.0, 9.0),
-    "Genesis": (165.0, 10.0),
+    "Ultra Glide": (165.0, 10.0),
     "Speedcross": (150.0, 10.0),
     "Trail Apparel": (78.0, 20.0),
     "Trail Accessories": (46.0, 14.0),
@@ -166,7 +166,7 @@ def return_probability(product: str, phase: str) -> float:
     base = {
         "Vestal Pro": 0.135,
         "Sense Ride": 0.085,
-        "Genesis": 0.090,
+        "Ultra Glide": 0.090,
         "Speedcross": 0.080,
         "Trail Apparel": 0.070,
         "Trail Accessories": 0.035,
@@ -364,7 +364,7 @@ def product_availability(
 
     product_center = {
         "Sense Ride": (0.94, 0.91),
-        "Genesis": (0.93, 0.90),
+        "Ultra Glide": (0.93, 0.90),
         "Speedcross": (0.96, 0.94),
         "Trail Apparel": (0.95, 0.92),
         "Trail Accessories": (0.97, 0.95),
@@ -393,7 +393,7 @@ def product_sessions(
 
     conversion = {
         "Sense Ride": 0.050,
-        "Genesis": 0.046,
+        "Ultra Glide": 0.046,
         "Speedcross": 0.051,
         "Trail Apparel": 0.060,
         "Trail Accessories": 0.070,
@@ -409,7 +409,7 @@ def build_product_daily(
     inventory = {
         "Vestal Pro": 0,
         "Sense Ride": 2800,
-        "Genesis": 2400,
+        "Ultra Glide": 2400,
         "Speedcross": 2700,
         "Trail Apparel": 4400,
         "Trail Accessories": 5200,
@@ -744,6 +744,23 @@ def validate_data(
     ultra = product[product["franchise"] == "Vestal Pro"]
     assert (ultra.loc[ultra["campaign_phase"] == "Pre-campaign", "units_sold"] == 0).all()
     assert ultra.loc[ultra["date"] == CAMPAIGN_START, "units_sold"].iloc[0] > 0
+
+    existing_footwear = product[
+        product["franchise"].isin(["Sense Ride", "Ultra Glide", "Speedcross"])
+    ]
+    pre_daily_units = (
+        existing_footwear[existing_footwear["campaign_phase"] == "Pre-campaign"]
+        .groupby("franchise")["units_sold"]
+        .mean()
+    )
+    active_units = (
+        existing_footwear[existing_footwear["campaign_phase"] == "Active campaign"]
+        .groupby("franchise")["units_sold"]
+        .sum()
+    )
+    active_days = (CAMPAIGN_END - CAMPAIGN_START).days + 1
+    unit_change_vs_pre = active_units / (pre_daily_units * active_days) - 1
+    assert unit_change_vs_pre.idxmin() == "Ultra Glide"
 
     ultra_orders = orders[orders["primary_product"] == "Vestal Pro"]
     ultra_customer_types = ultra_orders.groupby("customer_id")["customer_type"].first()
