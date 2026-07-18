@@ -356,10 +356,19 @@ def product_availability(
         if 14 <= launch_day <= 17:
             in_stock_rate += 0.035
             core_availability += 0.05
-        in_stock_rate += rng.normal(0, 0.012)
-        core_availability += rng.normal(0, 0.018)
-        return float(np.clip(in_stock_rate, 0.61, 1.0)), float(
-            np.clip(core_availability, 0.42, 1.0)
+        in_stock_noise = rng.normal(0, 0.012)
+        core_noise = rng.normal(0, 0.018)
+        in_stock_rate += in_stock_noise
+        core_availability += core_noise
+        # Depleted state: residual fringe sizes keep availability wobbling just
+        # above the floor rather than pinned exactly to it. Reuses the noise
+        # draws above so the seeded RNG stream (and all other data) is unchanged.
+        if in_stock_rate < 0.61:
+            in_stock_rate = 0.61 + 0.45 * abs(in_stock_noise)
+        if core_availability < 0.42:
+            core_availability = 0.42 + 0.55 * abs(core_noise)
+        return float(np.clip(in_stock_rate, 0.0, 1.0)), float(
+            np.clip(core_availability, 0.0, 1.0)
         )
 
     product_center = {
