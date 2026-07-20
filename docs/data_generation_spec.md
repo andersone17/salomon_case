@@ -105,7 +105,7 @@ The Vestal Pro should:
 
 The synthetic assortment should include existing trail footwear franchises such as:
 
-- Sense Ride
+- Genesis
 - Ultra Glide
 - Speedcross
 - Thundercross
@@ -116,7 +116,7 @@ The Vestal Pro should partially cannibalize sales from the most similar products
 Cannibalization should be strongest for:
 
 - Ultra Glide
-- Sense Ride
+- Genesis
 - Other high-cushion or long-distance trail footwear
 
 Cannibalization should be weaker for:

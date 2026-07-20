@@ -18,7 +18,7 @@ OUTPUT_DIR = Path(__file__).resolve().parents[1] / "data" / "mock"
 
 FRANCHISES = [
     "Vestal Pro",
-    "Sense Ride",
+    "Genesis",
     "Ultra Glide",
     "Speedcross",
     "Trail Apparel",
@@ -37,7 +37,7 @@ CHANNELS = [
 
 CATEGORIES = {
     "Vestal Pro": "Footwear",
-    "Sense Ride": "Footwear",
+    "Genesis": "Footwear",
     "Ultra Glide": "Footwear",
     "Speedcross": "Footwear",
     "Trail Apparel": "Adjacent",
@@ -46,7 +46,7 @@ CATEGORIES = {
 
 PRICE_ASSUMPTIONS = {
     "Vestal Pro": (170.0, 3.5),
-    "Sense Ride": (140.0, 9.0),
+    "Genesis": (140.0, 9.0),
     "Ultra Glide": (165.0, 10.0),
     "Speedcross": (150.0, 10.0),
     "Trail Apparel": (78.0, 20.0),
@@ -165,7 +165,7 @@ def return_probability(product: str, phase: str) -> float:
     """Return an observed return probability for the primary item."""
     base = {
         "Vestal Pro": 0.135,
-        "Sense Ride": 0.085,
+        "Genesis": 0.085,
         "Ultra Glide": 0.090,
         "Speedcross": 0.080,
         "Trail Apparel": 0.070,
@@ -372,7 +372,7 @@ def product_availability(
         )
 
     product_center = {
-        "Sense Ride": (0.94, 0.91),
+        "Genesis": (0.94, 0.91),
         "Ultra Glide": (0.93, 0.90),
         "Speedcross": (0.96, 0.94),
         "Trail Apparel": (0.95, 0.92),
@@ -401,7 +401,7 @@ def product_sessions(
         return max(units_sold, int(round(base * weekday_factor * rng.lognormal(0, 0.08))))
 
     conversion = {
-        "Sense Ride": 0.050,
+        "Genesis": 0.050,
         "Ultra Glide": 0.046,
         "Speedcross": 0.051,
         "Trail Apparel": 0.060,
@@ -417,7 +417,7 @@ def build_product_daily(
     """Create daily franchise performance and inventory rows."""
     inventory = {
         "Vestal Pro": 0,
-        "Sense Ride": 2800,
+        "Genesis": 2800,
         "Ultra Glide": 2400,
         "Speedcross": 2700,
         "Trail Apparel": 4400,
@@ -755,7 +755,7 @@ def validate_data(
     assert ultra.loc[ultra["date"] == CAMPAIGN_START, "units_sold"].iloc[0] > 0
 
     existing_footwear = product[
-        product["franchise"].isin(["Sense Ride", "Ultra Glide", "Speedcross"])
+        product["franchise"].isin(["Genesis", "Ultra Glide", "Speedcross"])
     ]
     pre_daily_units = (
         existing_footwear[existing_footwear["campaign_phase"] == "Pre-campaign"]

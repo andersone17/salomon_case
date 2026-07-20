@@ -48,7 +48,7 @@ ACT_START = pd.Timestamp("2026-06-01")
 ACT_END = pd.Timestamp("2026-06-20")
 POST_END = pd.Timestamp("2026-07-20")
 ACTIVE_DAYS = 20
-EXISTING_FRANCHISES = ["Ultra Glide", "Sense Ride", "Speedcross"]
+EXISTING_FRANCHISES = ["Ultra Glide", "Genesis", "Speedcross"]
 PAID_CHANNELS = ["Email", "SMS", "Paid Social", "Paid Search", "Affiliate"]
 RNG = np.random.default_rng(7)
 N_BOOT = 4000
@@ -195,7 +195,7 @@ spec_colors = {"flat": BLUE_LIGHT, "recent": BLUE_BRIGHT, "trend": SALOMON_BLUE}
 
 rates = {}
 for spec in spec_names:
-    displaced = sum(max(specs[fr][spec] - specs[fr]["observed"], 0) for fr in ["Sense Ride", "Ultra Glide"])
+    displaced = sum(max(specs[fr][spec] - specs[fr]["observed"], 0) for fr in ["Genesis", "Ultra Glide"])
     gained = max(specs["Speedcross"]["observed"] - specs["Speedcross"][spec], 0)
     rates[spec] = (displaced - gained) / vestal_units
 
@@ -451,7 +451,7 @@ save(fig, "appendix_A5b_unmet_demand.png", BOX_W, BOX_H)
 # A6 — Returns & service quality
 # ============================================================================
 services = pd.read_csv(DATA_DIR / "consumer_services.csv", parse_dates=["contact_date"])
-FR_ORDER = ["Vestal Pro", "Ultra Glide", "Sense Ride", "Speedcross", "Trail Apparel", "Trail Accessories"]
+FR_ORDER = ["Vestal Pro", "Ultra Glide", "Genesis", "Speedcross", "Trail Apparel", "Trail Accessories"]
 rr = orders.groupby("primary_product")["returned"].mean().reindex(FR_ORDER)
 site_rr = orders["returned"].mean()
 
