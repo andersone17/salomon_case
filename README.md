@@ -161,7 +161,7 @@ The analysis will distinguish between:
 | Incremental Revenue | At least 10% above the estimated no-campaign counterfactual |
 | Revenue Plan | Meet or exceed the launch-period net-revenue target |
 | New-Customer Acquisition | At least 25% of Vestal Pro purchasers are new customers |
-| Cannibalization | Less than 25% of Vestal Pro sales are estimated to have shifted from existing footwear franchises |
+| Cannibalization | Less than 10% of Vestal Pro sales are estimated to have shifted from existing footwear franchises |
 | Halo Effect | At least 5% incremental lift across adjacent trail categories |
 | Marketing Efficiency | Incremental contribution margin exceeds campaign marketing cost (CM3, ROAS, MER) |
 | Consumer Database | Email and SMS acquisition meets or exceeds campaign targets |

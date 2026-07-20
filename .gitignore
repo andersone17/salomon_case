@@ -3,3 +3,8 @@
 __pycache__/
 *.py[cod]
 
+# PowerPoint temporary lock files
+~$*
+# Windows alternate-data-stream metadata
+*:Zone.Identifier
+
